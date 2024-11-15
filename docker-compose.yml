@@ -1,0 +1,11 @@
+services:
+  its-rct-api-mock:
+    image: haibazo/its-rct-api-mock:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: haibazo-its-rct-api-mock
+    ports:
+      - "2180:8080"
+    volumes:
+      - ./api-mock:/app/api-mock
