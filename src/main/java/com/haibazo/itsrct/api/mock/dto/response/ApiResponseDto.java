@@ -1,6 +1,5 @@
 package com.haibazo.itsrct.api.mock.dto.response;
 
-import org.springframework.boot.autoconfigure.data.web.SpringDataWebProperties.Pageable;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.util.Assert;
@@ -8,8 +7,6 @@ import org.springframework.util.Assert;
 import lombok.AccessLevel;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-
-import java.util.List;
 
 /**
  * Builder class for constructing API responses.
@@ -183,7 +180,7 @@ public class ApiResponseDto {
 
     private String code;
 
-    private MetaDataDto meta;
+    private MetadataDto metadata;
 
     private Exception error;
 
@@ -210,15 +207,12 @@ public class ApiResponseDto {
     }
 
     /**
-     * Sets a meta object
-     * 
-     * @param meta Pageable object
-     * @return builder instance
+     * Sets a metadata object
+     *
+     * @param metadata Pageable object
      */
-
-    public ApiResponseDto meta(MetaDataDto meta) {
-        this.meta = meta;
-        return this;
+    public void metadata(MetadataDto metadata) {
+        this.metadata = metadata;
     }
 
     /**
@@ -242,19 +236,12 @@ public class ApiResponseDto {
     public <T> ResponseEntity<ApiResponseBaseDto<T>> build() {
         Assert.notNull(status, "Status must not be null");
 
-        MetaDataDto metaDataDto = null;
-        if (data instanceof List<?>) {
-            List<?> dataList = (List<?>) data;
-            int totalItems = dataList.size();
-            metaDataDto = new MetaDataDto(1, 1, totalItems);
-        }
-
         ApiResponseBaseDto<T> response = new ApiResponseBaseDto<>(
                 status,
                 (T) data,
                 message,
                 code,
-                metaDataDto,
+                metadata,
                 error);
 
         return ResponseEntity

@@ -20,7 +20,7 @@ public class ApiResponseBaseDto<T> {
 
     private String code;
 
-    private Object meta;
+    private Object metadata;
 
     private Exception error;
 

@@ -10,7 +10,9 @@ import java.io.IOException;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.util.List;
 
+import com.haibazo.itsrct.api.mock.dto.response.MetadataDto;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -60,7 +62,7 @@ public class ApiMockService {
      *         with appropriate HTTP status code and response body
      */
     public ResponseEntity<ApiResponseBaseDto<Object>> mockItsRctApi(HttpServletRequest request,
-            HttpServletResponse response) {
+                                                                    HttpServletResponse response) {
         String path = request.getRequestURI();
         HttpMethod method = HttpMethod.valueOf(request.getMethod());
 
@@ -79,12 +81,19 @@ public class ApiMockService {
                         Charset.forName(matchMockSetting.getMockSetting().getCharset()));
                 Object parsedContent = objectMapper.readValue(content, Object.class);
 
+                MetadataDto metadata = null;
+                if (parsedContent instanceof List<?> dataList) {
+                    int totalItems = dataList.size();
+                    metadata = new MetadataDto(1, 1, totalItems);
+                }
+
                 logger.info("RETURNING_MOCK_RESPONSE [{}] {} - {} - [MOCK] {}",
                         matchMockSetting.getMockSetting().getMethod(),
                         matchMockSetting.getMockSetting().getUri(), matchMockSetting.getMockSetting().getStatus(),
                         filePath);
 
                 responseDto.body(parsedContent);
+                responseDto.metadata(metadata);
 
                 return responseDto.build();
             } catch (IOException e) {
@@ -96,5 +105,6 @@ public class ApiMockService {
 
         return ApiResponseDto.error(HttpStatus.NOT_FOUND, "NO_MOCK_SETTING_FOUND");
     }
+
 
 }

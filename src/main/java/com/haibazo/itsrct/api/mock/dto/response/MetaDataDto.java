@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class MetaDataDto {
+public class MetadataDto {
     private int pageIndex;
     private int pageSize;
     private int totalItems;
