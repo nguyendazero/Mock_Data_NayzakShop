@@ -19,12 +19,6 @@ import java.util.List;
 @NoArgsConstructor(access = AccessLevel.PUBLIC)
 public class ApiResponseDto {
 
-    private HttpStatus status;
-    private Object data;
-    private String message;
-    private String code;
-    private MetaData meta;
-
     /**
      * Creates a new builder instance with the specified HTTP status
      * 
@@ -36,79 +30,6 @@ public class ApiResponseDto {
         ApiResponseDto builder = new ApiResponseDto();
         builder.status = status;
         return builder;
-    }
-
-    /**
-     * Sets the response body
-     * 
-     * @param body response payload
-     * @return builder instance
-     */
-    public ApiResponseDto body(Object body) {
-        this.data = body;
-        return this;
-    }
-
-    /**
-     * Sets a custom message
-     * 
-     * @param message custom message
-     * @return builder instance
-     */
-    public ApiResponseDto message(String message) {
-        this.message = message;
-        return this;
-    }
-
-    /**
-     * Sets a meta object
-     * 
-     * @param meta Pageable object
-     * @return builder instance
-     */
-    public ApiResponseDto meta(MetaData meta) {
-        this.meta = meta;
-        return this;
-    }
-
-    /**
-     * Sets a response code
-     * 
-     * @param code response code
-     * @return builder instance
-     */
-    public ApiResponseDto code(String code) {
-        this.code = code;
-        return this;
-    }
-
-    /**
-     * Builds the final response entity
-     * 
-     * @param <T> type of response body
-     * @return ResponseEntity with ApiResponseDto
-     */
-    @SuppressWarnings("unchecked")
-    public <T> ResponseEntity<ApiResponseBaseDto<T>> build() {
-        Assert.notNull(status, "Status must not be null");
-
-        MetaData metaData = null;
-        if (data instanceof List<?>) {
-            List<?> dataList = (List<?>) data;
-            int totalItems = dataList.size();
-            metaData = new MetaData(1, 1, totalItems);
-        }
-
-        ApiResponseBaseDto<T> response = new ApiResponseBaseDto<>(
-                status,
-                (T) data,
-                message,
-                code,
-                metaData); // Gắn metaData nếu data là List
-
-        return ResponseEntity
-                .status(status)
-                .body(response);
     }
 
     /**
@@ -207,12 +128,138 @@ public class ApiResponseDto {
     }
 
     /**
+     * Creates a Bad Request (400) response with a body parsed from an error DTO.
+     * 
+     * @param errorDto the error details to include in the response
+     * @return ResponseEntity wrapped ApiResponseDto with Bad Request status and
+     *         error details
+     */
+    public static ResponseEntity<ApiResponseBaseDto<Object>> badRequest(ApiResponseErrorDto errorDto) {
+        return status(HttpStatus.NOT_FOUND).code(errorDto.getErrorCode()).message(errorDto.getErrorMessage()).build();
+    }
+
+    /**
      * Creates a Not Found (404) response without body.
      * 
      * @return ResponseEntity wrapped ApiResponseDto with Not Found status
      */
     public static ResponseEntity<ApiResponseBaseDto<Object>> notFound() {
         return status(HttpStatus.NOT_FOUND).build();
+    }
+
+    /**
+     * Creates a Not Found (404) response with a custom body.
+     * 
+     * @param body the response payload to include
+     * @return ResponseEntity wrapped ApiResponseDto with Not Found status and
+     *         body
+     */
+    public static ResponseEntity<ApiResponseBaseDto<Object>> notFound(Object body) {
+        return status(HttpStatus.NOT_FOUND).body(body).build();
+    }
+
+    /**
+     * Creates a Not Found (404) response with a body parsed from an error DTO.
+     * 
+     * @param errorDto the error details to include in the response
+     * @return ResponseEntity wrapped ApiResponseDto with Not Found status and
+     *         error details
+     */
+    public static ResponseEntity<ApiResponseBaseDto<Object>> notFound(ApiResponseErrorDto errorDto) {
+        ApiResponseDto response = ApiResponseDto.status(HttpStatus.NOT_FOUND).code(errorDto.getErrorCode())
+                .message(errorDto.getErrorMessage());
+
+        response.message = errorDto.getException().getMessage();
+        response.error = errorDto.getException();
+
+        return response.build();
+    }
+
+    private HttpStatus status;
+
+    private Object data;
+
+    private String message;
+
+    private String code;
+
+    private MetaDataDto meta;
+
+    private Exception error;
+
+    /**
+     * Sets the response body
+     * 
+     * @param body response payload
+     * @return builder instance
+     */
+    public ApiResponseDto body(Object body) {
+        this.data = body;
+        return this;
+    }
+
+    /**
+     * Sets a custom message
+     * 
+     * @param message custom message
+     * @return builder instance
+     */
+    public ApiResponseDto message(String message) {
+        this.message = message;
+        return this;
+    }
+
+    /**
+     * Sets a meta object
+     * 
+     * @param meta Pageable object
+     * @return builder instance
+     */
+
+    public ApiResponseDto meta(MetaDataDto meta) {
+        this.meta = meta;
+        return this;
+    }
+
+    /**
+     * Sets a response code
+     * 
+     * @param code response code
+     * @return builder instance
+     */
+    public ApiResponseDto code(String code) {
+        this.code = code;
+        return this;
+    }
+
+    /**
+     * Builds the final response entity
+     * 
+     * @param <T> type of response body
+     * @return ResponseEntity with ApiResponseDto
+     */
+    @SuppressWarnings("unchecked")
+    public <T> ResponseEntity<ApiResponseBaseDto<T>> build() {
+        Assert.notNull(status, "Status must not be null");
+
+        MetaDataDto metaDataDto = null;
+        if (data instanceof List<?>) {
+            List<?> dataList = (List<?>) data;
+            int totalItems = dataList.size();
+            metaDataDto = new MetaDataDto(1, 1, totalItems);
+        }
+
+        ApiResponseBaseDto<T> response = new ApiResponseBaseDto<>(
+                status,
+                (T) data,
+                message,
+                code,
+                metaDataDto,
+                error);
+
+        return ResponseEntity
+                .status(status)
+                .body(response);
     }
 
 }

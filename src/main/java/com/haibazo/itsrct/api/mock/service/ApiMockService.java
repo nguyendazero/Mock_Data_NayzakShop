@@ -60,7 +60,7 @@ public class ApiMockService {
      *         with appropriate HTTP status code and response body
      */
     public ResponseEntity<ApiResponseBaseDto<Object>> mockItsRctApi(HttpServletRequest request,
-                                                                    HttpServletResponse response) {
+            HttpServletResponse response) {
         String path = request.getRequestURI();
         HttpMethod method = HttpMethod.valueOf(request.getMethod());
 
