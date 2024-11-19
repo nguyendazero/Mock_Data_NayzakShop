@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "highlightedImage": "https://m.media-amazon.com/images/I/51H8Fz--kCL._AC_SY550_.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "https://m.media-amazon.com/images/I/81KcpEBzS0L._AC_SY550_.jpg"
+      },
+      {
+        "id": 2,
+        "url": "https://m.media-amazon.com/images/I/711rhqXhu5L._AC_SX466_.jpg"
+      },
+      {
+        "id": 3,
+        "url": "https://m.media-amazon.com/images/I/81s66i9oCIL._AC_SX522_.jpg"
+      },
+      {
+        "id": 4,
+        "url": "https://m.media-amazon.com/images/I/71NbXNvxFhL._AC_SY550_.jpg"
+      }
+    ],
+    "rating": 4,
+    "reviewCount": 20,
+    "viewCount": 157,
+    "name": "Dokotoo Womens 2024 Sweaters",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "groupKey": "1",
+            "group": {
+              "key": "color",
+              "name": "GREEN"
+            }
+          },
+          {
+            "id": 2,
+            "groupKey": "2",
+            "group": {
+              "key": "size",
+              "name": "L"
+            }
+          }
+        ],
+        "price": 20,
+        "discountPrice": null,
+        "stock": 23,
+        "image": "https://m.media-amazon.com/images/I/81TaSiMMtmL._AC_SY550_.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "groupKey": "1",
+            "group": {
+              "key": "color",
+              "name": "BLUE"
+            }
+          },
+          {
+            "id": 2,
+            "groupKey": "2",
+            "group": {
+              "key": "size",
+              "name": "S"
+            }
+          }
+        ],
+        "price": 42,
+        "discountPrice": null,
+        "stock": 52,
+        "image": "https://m.media-amazon.com/images/I/71FPhgxjl5L._AC_SY550_.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "highlightedImage": "https://m.media-amazon.com/images/I/61ZT05JM44L._AC_SY550_.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "https://m.media-amazon.com/images/I/61md6ajarrL._AC_SY550_.jpg"
+      },
+      {
+        "id": 2,
+        "url": "https://m.media-amazon.com/images/I/61rjGFXnAeL._AC_SY550_.jpg"
+      },
+      {
+        "id": 3,
+        "url": "https://m.media-amazon.com/images/I/71o8mydl9nL._AC_SY550_.jpg"
+      },
+      {
+        "id": 4,
+        "url": "https://m.media-amazon.com/images/I/71DmmX8DipL._AC_SY550_.jpg"
+      }
+    ],
+    "rating": 4,
+    "reviewCount": 20,
+    "viewCount": 157,
+    "name": "LILLUSORY Long Cardigan Sweaters",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "groupKey": "1",
+            "group": {
+              "key": "color",
+              "name": "GREEN"
+            }
+          },
+          {
+            "id": 2,
+            "groupKey": "2",
+            "group": {
+              "key": "size",
+              "name": "L"
+            }
+          }
+        ],
+        "price": 20,
+        "discountPrice": null,
+        "stock": 23,
+        "image": "https://m.media-amazon.com/images/I/61tTln00p0L._AC_SY550_.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "groupKey": "1",
+            "group": {
+              "key": "color",
+              "name": "PINK"
+            }
+          },
+          {
+            "id": 2,
+            "groupKey": "2",
+            "group": {
+              "key": "size",
+              "name": "L"
+            }
+          }
+        ],
+        "price": 32,
+        "discountPrice": null,
+        "stock": 76,
+        "image": "https://m.media-amazon.com/images/I/61KWtDgoXRL._AC_SY550_.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "highlightedImage": "https://m.media-amazon.com/images/I/51H8Fz--kCL._AC_SY550_.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "https://m.media-amazon.com/images/I/81KcpEBzS0L._AC_SY550_.jpg"
+      },
+      {
+        "id": 2,
+        "url": "https://m.media-amazon.com/images/I/711rhqXhu5L._AC_SX466_.jpg"
+      },
+      {
+        "id": 3,
+        "url": "https://m.media-amazon.com/images/I/81s66i9oCIL._AC_SX522_.jpg"
+      },
+      {
+        "id": 4,
+        "url": "https://m.media-amazon.com/images/I/71NbXNvxFhL._AC_SY550_.jpg"
+      }
+    ],
+    "rating": 4,
+    "reviewCount": 20,
+    "viewCount": 157,
+    "name": "Dokotoo Womens 2024 Sweaters",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "groupKey": "1",
+            "group": {
+              "key": "color",
+              "name": "GREEN"
+            }
+          },
+          {
+            "id": 2,
+            "groupKey": "2",
+            "group": {
+              "key": "size",
+              "name": "L"
+            }
+          }
+        ],
+        "price": 20,
+        "discountPrice": null,
+        "stock": 23,
+        "image": "https://m.media-amazon.com/images/I/71Et2CkZZ+L._AC_SY550_.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "groupKey": "1",
+            "group": {
+              "key": "color",
+              "name": "WHITE"
+            }
+          },
+          {
+            "id": 2,
+            "groupKey": "2",
+            "group": {
+              "key": "size",
+              "name": "S"
+            }
+          }
+        ],
+        "price": 14,
+        "discountPrice": 5,
+        "stock": 54,
+        "image": "https://m.media-amazon.com/images/I/715SBnVedrL._AC_SY550_.jpg"
+      }
+    ]
+  }
+]

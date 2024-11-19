@@ -1,28 +1,28 @@
 [
   {
-    "id": 1,
-    "name": "Home & Decor",
+    "key": "FACEBOOK",
+    "value": "https://www.facebook.com/ngyn.2daz/",
     "createdAt": "2024-11-17T10:00:00",
     "updatedAt": "2024-11-18T12:00:00",
     "deletedAt": null
   },
   {
-    "id": 2,
-    "name": "Accessories",
+    "key": "INSTAGRAM",
+    "value": "https://www.instagram.com/_ngyn.2daz_/",
     "createdAt": "2024-11-17T10:00:00",
     "updatedAt": "2024-11-18T12:00:00",
     "deletedAt": null
   },
   {
-    "id": 3,
-    "name": "Clothing",
+    "key": "TWITTER",
+    "value": "https://www.twitter.com/ngyn.2daz/",
     "createdAt": "2024-11-17T10:00:00",
     "updatedAt": "2024-11-18T12:00:00",
     "deletedAt": null
   },
   {
-    "id": 4,
-    "name": "Watch",
+    "key": "EMAIL",
+    "value": "nguyendazero@gmail.com",
     "createdAt": "2024-11-17T10:00:00",
     "updatedAt": "2024-11-18T12:00:00",
     "deletedAt": null

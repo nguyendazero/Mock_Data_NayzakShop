@@ -1,6 +1,30 @@
 [
     {
         "id": 0,
-        "message": "This is a mock response for notifications"
+        "message": "This is a mock response for notifications",
+        "createdAt": "2024-11-17T10:00:00",
+        "updatedAt": "2024-11-18T12:00:00",
+        "deletedAt": null
+    },
+    {
+        "id": 1,
+        "message": "Happy new year",
+        "createdAt": "2024-11-17T10:00:00",
+        "updatedAt": "2024-11-18T12:00:00",
+        "deletedAt": null
+    },
+    {
+        "id": 2,
+        "message": "Happy birth day",
+        "createdAt": "2024-11-17T10:00:00",
+        "updatedAt": "2024-11-18T12:00:00",
+        "deletedAt": null
+    },
+    {
+        "id": 3,
+        "message": "Happy Le Quoc Khanh",
+        "createdAt": "2024-11-17T10:00:00",
+        "updatedAt": "2024-11-18T12:00:00",
+        "deletedAt": null
     }
 ]

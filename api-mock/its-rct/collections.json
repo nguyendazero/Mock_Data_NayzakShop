@@ -1,0 +1,30 @@
+
+[
+  {
+    "name": "Create your dream shop instantly",
+    "description": "keep your everyday style chic and on-trend with our selection 20+ styles to choose from",
+    "image": "http://example.com/images/summer_collection.jpg",
+    "type" : "NEW_ARRIVAL",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "name": "Create your dream shop instantly",
+    "description": "keep your everyday style chic and on-trend with our selection 20+ styles to choose from",
+    "image": "http://example.com/images/winter_collection.jpg",
+    "type": "BEST_SELLER",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "name": "Create your dream shop instantly",
+    "description": "keep your everyday style chic and on-trend with our selection 20+ styles to choose from",
+    "image": "http://example.com/images/sports_collection.jpg",
+    "type": "SALE",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  }
+]
