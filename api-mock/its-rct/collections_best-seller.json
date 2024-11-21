@@ -75,7 +75,10 @@
         "stock": 156,
         "image": "https://m.media-amazon.com/images/I/61lNxawawAL._AC_SY550_.jpg"
       }
-    ]
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
   },
   {
     "id": 11,
@@ -153,6 +156,9 @@
         "stock": 164,
         "image": "https://m.media-amazon.com/images/I/71-6KriYxJL._AC_SY550_.jpg"
       }
-    ]
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
   }
 ]

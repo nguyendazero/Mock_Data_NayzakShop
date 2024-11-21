@@ -1,14 +1,23 @@
 [
     {
         "id": 0,
-        "name": "HAIBAZO Faker 01"
+        "name": "HAIBAZO Faker 01",
+        "createdAt": "2024-11-17T10:00:00",
+        "updatedAt": "2024-11-18T12:00:00",
+        "deletedAt": null
     },
     {
         "id": 1,
-        "name": "HAIBAZO Faker 02"
+        "name": "HAIBAZO Faker 02",
+        "createdAt": "2024-11-17T10:00:00",
+        "updatedAt": "2024-11-18T12:00:00",
+        "deletedAt": null
     },
     {
         "id": 2,
-        "name": "HAIBAZO Faker 03"
+        "name": "HAIBAZO Faker 03",
+        "createdAt": "2024-11-17T10:00:00",
+        "updatedAt": "2024-11-18T12:00:00",
+        "deletedAt": null
     }
 ]

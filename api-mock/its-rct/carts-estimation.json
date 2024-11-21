@@ -36,7 +36,7 @@
             "variants": [
               {
                 "id": 1,
-                "groupKey": "1",
+                "groupKey": "color",
                 "group": {
                   "key": "color",
                   "name": "RED"
@@ -44,7 +44,7 @@
               },
               {
                 "id": 2,
-                "groupKey": "2",
+                "groupKey": "size",
                 "group": {
                   "key": "size",
                   "name": "M"
@@ -89,7 +89,7 @@
             "variants": [
               {
                 "id": 1,
-                "groupKey": "1",
+                "groupKey": "color",
                 "group": {
                   "key": "color",
                   "name": "GREEN"
@@ -97,7 +97,7 @@
               },
               {
                 "id": 2,
-                "groupKey": "2",
+                "groupKey": "size",
                 "group": {
                   "key": "size",
                   "name": "M"

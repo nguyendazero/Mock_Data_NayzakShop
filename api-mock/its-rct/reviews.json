@@ -1,0 +1,23 @@
+{
+  "id": 10,
+  "images": [
+    {
+      "id": 56,
+      "url": "https://m.media-amazon.com/images/I/61y4TfRVLgL._AC_SY741_.jpg"
+    }
+  ],
+  "stars": 4.5,
+  "content": "The product is beautiful",
+  "users":{
+    "id": 1,
+    "name": "Nguyen Thi ABC",
+    "haibazoAuthAlias": "AbcNT",
+    "authAlias": "abc",
+    "role": "ROLE_USER",
+    "status": "online",
+    "avatar": "https://cdn.aicschool.edu.vn/wp-content/uploads/2024/08/avatar-anime-nu-cute.jpg"
+  },
+  "createdAt": "2024-11-17T10:00:00",
+  "updatedAt": null,
+  "deletedAt": null
+}

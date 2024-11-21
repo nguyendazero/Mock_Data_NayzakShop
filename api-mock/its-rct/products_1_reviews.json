@@ -1,0 +1,50 @@
+[
+  {
+    "users":{
+      "id": 1,
+      "name": "Nguyen Thi ABC",
+      "haibazoAuthAlias": "AbcNT",
+      "authAlias": "abc",
+      "role": "ROLE_USER",
+      "status": "online",
+      "avatar": "https://cdn.aicschool.edu.vn/wp-content/uploads/2024/08/avatar-anime-nu-cute.jpg"
+    },
+    "images": [
+      {
+        "id": 56,
+        "url": "https://m.media-amazon.com/images/I/61y4TfRVLgL._AC_SY741_.jpg"
+      }
+    ],
+    "stars": 4.5,
+    "content": "The product is beautiful",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "users":{
+      "id": 1,
+      "name": "Nguyen Thi ABC",
+      "haibazoAuthAlias": "AbcNT",
+      "authAlias": "abc",
+      "role": "ROLE_USER",
+      "status": "online",
+      "avatar": "https://cdn.aicschool.edu.vn/wp-content/uploads/2024/08/avatar-anime-nu-cute.jpg"
+    },
+    "images": [
+      {
+        "id": 57,
+        "url": "https://m.media-amazon.com/images/I/71RNuTaVYBL._AC_SX466_.jpg"
+      },
+      {
+        "id": 58,
+        "url": "https://m.media-amazon.com/images/I/71SWDjyM49L._AC_SX569_.jpg"
+      }
+    ],
+    "stars": 4.5,
+    "content": "The product is Great",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  }
+]

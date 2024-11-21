@@ -1,0 +1,93 @@
+[
+  {
+    "id": 4,
+    "content": "what is that?",
+    "images": [
+      {
+        "id": 50,
+        "url": "https://m.media-amazon.com/images/I/61zfkcqCTqL._AC_SY741_.jpg"
+      },
+      {
+        "id": 51,
+        "url": "https://m.media-amazon.com/images/I/61EswW5vUQL._AC_SY550_.jpg"
+      }
+    ],
+    "users":{
+      "id": 1,
+      "name": "Nguyen Thi ABC",
+      "haibazoAuthAlias": "AbcNT",
+      "authAlias": "abc",
+      "role": "ROLE_USER",
+      "status": "online",
+      "avatar": "https://cdn.aicschool.edu.vn/wp-content/uploads/2024/08/avatar-anime-nu-cute.jpg"
+    },
+    "answer": {
+      "id": 1,
+      "content": "that is what",
+      "name": "Admin 1 kkk",
+      "date": "20-11-1024"
+    },
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "content": "What is this?",
+    "images": [
+      {
+        "id": 52,
+        "url": "https://m.media-amazon.com/images/I/61-GUm-hELL._AC_SY741_.jpg"
+      },
+      {
+        "id": 53,
+        "url": "https://m.media-amazon.com/images/I/61LxttQ1fQL._AC_SY550_.jpg"
+      }
+    ],
+    "users":{
+      "id": 2,
+      "name": "Tran Van XYZ",
+      "haibazoAuthAlias": "XyzTV",
+      "authAlias": "xyz",
+      "role": "ROLE_USER",
+      "status": "online",
+      "avatar": "https://img.pikbest.com/png-images/qiantu/cartoon-short-hair-boy-avatar_2728213.png!bw700"
+    },
+    "answer": null,
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "content": "What is this?",
+    "images": [
+      {
+        "id": 54,
+        "url": "https://m.media-amazon.com/images/I/51oZ6Di38QL._AC_SY679_.jpg"
+      },
+      {
+        "id": 55,
+        "url": "https://m.media-amazon.com/images/I/51hdCek-FSL._AC_SY550_.jpg"
+      }
+    ],
+    "users":{
+      "id": 3,
+      "name": "Le Van QWER",
+      "haibazoAuthAlias": "QwerLV",
+      "authAlias": "xyz",
+      "role": "ROLE_USER",
+      "status": "online",
+      "avatar": "https://img.pikbest.com/png-images/qiantu/cartoon-hand-drawn-cute-vector-glasses-boy-avatar_2710039.png!bw700"
+    },
+    "answer": {
+      "id": 2,
+      "content": "this is what",
+      "name": "Admin 2 kkk",
+      "date": "19-11-1024"
+    },
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  }
+]

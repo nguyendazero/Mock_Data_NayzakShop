@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "Home & Decor",
+    "image": "https://images.hindustantimes.com/img/2024/07/20/550x309/su_1721487259942_1721487273730.jpg",
     "createdAt": "2024-11-17T10:00:00",
     "updatedAt": "2024-11-18T12:00:00",
     "deletedAt": null
@@ -9,6 +10,7 @@
   {
     "id": 2,
     "name": "Accessories",
+    "image": "https://cdn.shopify.com/s/files/1/0071/7406/2170/files/accessories-blog_1024x1024.jpg?v=1584702437",
     "createdAt": "2024-11-17T10:00:00",
     "updatedAt": "2024-11-18T12:00:00",
     "deletedAt": null
@@ -16,6 +18,7 @@
   {
     "id": 3,
     "name": "Clothing",
+    "images": "https://media.gq-magazine.co.uk/photos/6513fc12401a20d55139ab8b/master/pass/best-clothing-brands-for-men.jpg",
     "createdAt": "2024-11-17T10:00:00",
     "updatedAt": "2024-11-18T12:00:00",
     "deletedAt": null
@@ -23,6 +26,7 @@
   {
     "id": 4,
     "name": "Watch",
+    "image": "https://static.helioswatchstore.com/media/easyslide/U-Boat.jpg",
     "createdAt": "2024-11-17T10:00:00",
     "updatedAt": "2024-11-18T12:00:00",
     "deletedAt": null

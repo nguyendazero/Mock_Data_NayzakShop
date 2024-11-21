@@ -75,7 +75,10 @@
         "stock": 400,
         "image": "https://m.media-amazon.com/images/I/71FPhgxjl5L._AC_SY550_.jpg"
       }
-    ]
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
   },
   {
     "id": 8,
@@ -153,7 +156,10 @@
         "stock": 76,
         "image": "https://m.media-amazon.com/images/I/61KWtDgoXRL._AC_SY550_.jpg"
       }
-    ]
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
   },
   {
     "id": 9,
@@ -231,6 +237,9 @@
         "stock": 54,
         "image": "https://m.media-amazon.com/images/I/715SBnVedrL._AC_SY550_.jpg"
       }
-    ]
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
   }
 ]
