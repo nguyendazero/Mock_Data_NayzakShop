@@ -1,0 +1,106 @@
+{
+  "total": 50,
+  "totalQuantity": 2,
+  "carts": [
+    {
+      "id": 1,
+      "product": [
+        {
+          "id": 1,
+          "highlightedImage": "https://m.media-amazon.com/images/I/51H8Fz--kCL._AC_SY550_.jpg",
+          "images": [
+            {
+              "id": 1,
+              "url": "https://m.media-amazon.com/images/I/81KcpEBzS0L._AC_SY550_.jpg"
+            },
+            {
+              "id": 2,
+              "url": "https://m.media-amazon.com/images/I/711rhqXhu5L._AC_SX466_.jpg"
+            },
+            {
+              "id": 3,
+              "url": "https://m.media-amazon.com/images/I/81s66i9oCIL._AC_SX522_.jpg"
+            },
+            {
+              "id": 4,
+              "url": "https://m.media-amazon.com/images/I/71NbXNvxFhL._AC_SY550_.jpg"
+            }
+          ],
+          "rating": 4,
+          "reviewCount": 20,
+          "viewCount": 157,
+          "name": "Dokotoo Womens 2024 Sweaters",
+          "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+          "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+          "productVariant": {
+            "variants": [
+              {
+                "id": 1,
+                "key": "color",
+                "name": "RED"
+              },
+              {
+                "id": 2,
+                "key": "size",
+                "name": "M"
+              }
+            ],
+            "price": 1,
+            "discountPrice": null,
+            "stock": 23,
+            "image": "https://m.media-amazon.com/images/I/71d5mO4BUfL._AC_SY550_.jpg"
+          },
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "highlightedImage": "https://m.media-amazon.com/images/I/613RqFcu9oL._AC_SY741_.jpg",
+          "images": [
+            {
+              "id": 3,
+              "url": "https://m.media-amazon.com/images/I/81wcBooV6BL._AC_SY550_.jpg"
+            },
+            {
+              "id": 4,
+              "url": "https://m.media-amazon.com/images/I/71EFFMU1-2L._AC_SY550_.jpg"
+            },
+            {
+              "id": 5,
+              "url": "https://m.media-amazon.com/images/I/8185tvhXdVL._AC_SY550_.jpg"
+            },
+            {
+              "id": 6,
+              "url": "https://m.media-amazon.com/images/I/71fvOdDAe1L._AC_SY550_.jpg"
+            }
+          ],
+          "rating": 4,
+          "reviewCount": 20,
+          "viewCount": 157,
+          "name": "AUTOMET Womens Fall Outfits Fashion Clothes",
+          "shortDescription": "Material: Made of high quality 100% Polyester fabric",
+          "description": "Material: Made of high quality 100% Polyester fabric, skin-friendly, soft and comfortable to wear, will keep your warm and fashion style in fall, spring and cold winter",
+          "productVariant": {
+            "variants": [
+              {
+                "id": 1,
+                "key": "color",
+                "name": "GREEN"
+              },
+              {
+                "id": 2,
+                "key": "size",
+                "name": "M"
+              }
+            ],
+            "price": 1,
+            "discountPrice": null,
+            "stock": 23,
+            "image": "https://m.media-amazon.com/images/I/61ZqT6nm9kL._AC_SY550_.jpg"
+          },
+          "quantity": 1
+        }
+      ],
+      "coupon": null
+    }
+  ]
+}

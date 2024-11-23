@@ -1,0 +1,50 @@
+[
+  {
+    "id": 4,
+    "users":{
+      "id": 1,
+      "name": "Le Ban Thi ABC",
+      "haibazoAuthAlias": "AbcLBT",
+      "authAlias": "abc",
+      "role": "ROLE_USER",
+      "status": "online",
+      "avatar": "https://cdn.aicschool.edu.vn/wp-content/uploads/2024/08/avatar-anime-nu-cute.jpg"
+    },
+    "content": "upt et quas molestias excepturi sint non provident, sunt in culpa qui officia animi, id est laborum et dolorum fuga.",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "users":{
+      "id": 1,
+      "name": "Nguyen CHien ABC",
+      "haibazoAuthAlias": "AbcNC",
+      "authAlias": "abc",
+      "role": "ROLE_USER",
+      "status": "online",
+      "avatar": "https://cdn.aicschool.edu.vn/wp-content/uploads/2024/08/avatar-anime-nu-cute.jpg"
+    },
+    "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis prarum et dolorum fuga.",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "users":{
+      "id": 2,
+      "name": "Tran Van ABC",
+      "haibazoAuthAlias": "AbcTV",
+      "authAlias": "abc",
+      "role": "ROLE_USER",
+      "status": "online",
+      "avatar": "https://cdn.aicschool.edu.vn/wp-content/uploads/2024/08/avatar-anime-nu-cute.jpg"
+    },
+    "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupt et quas molestias excepturi sint non provident, sunt in culpa qui officia animi, id est laborum et dolorum fuga.",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  }
+]
