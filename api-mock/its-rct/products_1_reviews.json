@@ -7,12 +7,12 @@
       "authAlias": "abc",
       "role": "ROLE_USER",
       "status": "online",
-      "avatar": "https://cdn.aicschool.edu.vn/wp-content/uploads/2024/08/avatar-anime-nu-cute.jpg"
+      "avatar": "/assets/user/u_1.jpg"
     },
     "images": [
       {
         "id": 56,
-        "url": "https://m.media-amazon.com/images/I/61y4TfRVLgL._AC_SY741_.jpg"
+        "url": "/assets/product/b_2.jpg"
       }
     ],
     "stars": 4.5,
@@ -29,16 +29,16 @@
       "authAlias": "abc",
       "role": "ROLE_USER",
       "status": "online",
-      "avatar": "https://cdn.aicschool.edu.vn/wp-content/uploads/2024/08/avatar-anime-nu-cute.jpg"
+      "avatar": "/assets/user/u_6.jpg"
     },
     "images": [
       {
         "id": 57,
-        "url": "https://m.media-amazon.com/images/I/71RNuTaVYBL._AC_SX466_.jpg"
+        "url": "/assets/product/b_1.jpg"
       },
       {
         "id": 58,
-        "url": "https://m.media-amazon.com/images/I/71SWDjyM49L._AC_SX569_.jpg"
+        "url": "/assets/product/b_2.jpg"
       }
     ],
     "stars": 4.5,

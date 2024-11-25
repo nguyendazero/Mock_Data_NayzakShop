@@ -5,21 +5,19 @@
     "images": [
       {
         "id": 50,
-        "url": "https://m.media-amazon.com/images/I/61zfkcqCTqL._AC_SY741_.jpg"
+        "url": "/assets/product/b_2.jpg"
       },
       {
         "id": 51,
-        "url": "https://m.media-amazon.com/images/I/61EswW5vUQL._AC_SY550_.jpg"
+        "url": "/assets/product/b_1.jpg"
       }
     ],
     "users":{
       "id": 1,
       "name": "Nguyen Thi ABC",
-      "haibazoAuthAlias": "AbcNT",
-      "authAlias": "abc",
       "role": "ROLE_USER",
       "status": "online",
-      "avatar": "https://cdn.aicschool.edu.vn/wp-content/uploads/2024/08/avatar-anime-nu-cute.jpg"
+      "avatar": "/assets/user/u_3.jpg"
     },
     "answer": {
       "id": 1,
@@ -37,11 +35,11 @@
     "images": [
       {
         "id": 52,
-        "url": "https://m.media-amazon.com/images/I/61-GUm-hELL._AC_SY741_.jpg"
+        "url": "/assets/product/b_2.jpg"
       },
       {
         "id": 53,
-        "url": "https://m.media-amazon.com/images/I/61LxttQ1fQL._AC_SY550_.jpg"
+        "url": "/assets/product/b_5.jpg"
       }
     ],
     "users":{
@@ -51,7 +49,7 @@
       "authAlias": "xyz",
       "role": "ROLE_USER",
       "status": "online",
-      "avatar": "https://img.pikbest.com/png-images/qiantu/cartoon-short-hair-boy-avatar_2728213.png!bw700"
+      "avatar": "/assets/user/u_2.jpg"
     },
     "answer": null,
     "createdAt": "2024-11-17T10:00:00",
@@ -64,11 +62,11 @@
     "images": [
       {
         "id": 54,
-        "url": "https://m.media-amazon.com/images/I/51oZ6Di38QL._AC_SY679_.jpg"
+        "url": "/assets/product/b_2.jpg"
       },
       {
         "id": 55,
-        "url": "https://m.media-amazon.com/images/I/51hdCek-FSL._AC_SY550_.jpg"
+        "url": "/assets/product/b_4.jpg"
       }
     ],
     "users":{
@@ -78,7 +76,7 @@
       "authAlias": "xyz",
       "role": "ROLE_USER",
       "status": "online",
-      "avatar": "https://img.pikbest.com/png-images/qiantu/cartoon-hand-drawn-cute-vector-glasses-boy-avatar_2710039.png!bw700"
+      "avatar": "/assets/user/u_5.jpg"
     },
     "answer": {
       "id": 2,

@@ -1,6 +1,5 @@
 package com.haibazo.itsrct.api.mock.dto.response;
 
-import lombok.NoArgsConstructor;
 import org.springframework.boot.autoconfigure.data.web.SpringDataWebProperties.Pageable;
 import org.springframework.http.HttpStatus;
 
@@ -9,7 +8,6 @@ import lombok.Data;
 
 @Data
 @AllArgsConstructor
-@NoArgsConstructor
 public class ApiResponseBaseDto<T> {
 
     private HttpStatus status;
@@ -20,7 +18,7 @@ public class ApiResponseBaseDto<T> {
 
     private String code;
 
-    private Object metadata;
+    private Pageable meta;
 
     private Exception error;
 

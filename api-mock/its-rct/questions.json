@@ -4,24 +4,22 @@
   "images": [
     {
       "id": 50,
-      "url": "https://m.media-amazon.com/images/I/61zfkcqCTqL._AC_SY741_.jpg"
+      "url": "/assets/product/j_1.jpg"
     },
     {
       "id": 51,
-      "url": "https://m.media-amazon.com/images/I/61EswW5vUQL._AC_SY550_.jpg"
+      "url": "/assets/product/j_5.jpg"
     }
   ],
   "users":{
     "id": 1,
     "name": "Nguyen Thi ABC",
-    "haibazoAuthAlias": "AbcNT",
-    "authAlias": "abc",
     "role": "ROLE_USER",
     "status": "online",
-    "avatar": "https://cdn.aicschool.edu.vn/wp-content/uploads/2024/08/avatar-anime-nu-cute.jpg"
+    "avatar": "/assets/user/u_7.jpg"
   },
   "answer": null,
   "createdAt": "2024-11-17T10:00:00",
-  "updatedAt": "2024-11-18T12:00:00",
+  "updatedAt": null,
   "deletedAt": null
 }

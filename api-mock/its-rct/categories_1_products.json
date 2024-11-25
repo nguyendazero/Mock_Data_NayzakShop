@@ -1,104 +1,92 @@
 [
   {
-      "id": 4,
-      "highlightedImage": "https://m.media-amazon.com/images/I/61hDQfyQtrL._AC_SY550_.jpg",
-      "images": [
-        {
-          "id": 13,
-          "url": "https://m.media-amazon.com/images/I/61pof42S2-L._AC_SY550_.jpg"
-        },
-        {
-          "id": 14,
-          "url": "https://m.media-amazon.com/images/I/61m2IoqJ5YL._AC_SY550_.jpg"
-        },
-        {
-          "id": 15,
-          "url": "https://m.media-amazon.com/images/I/61ndr7jpLML._AC_SY550_.jpg"
-        },
-        {
-          "id": 16,
-          "url": "https://m.media-amazon.com/images/I/61AWeFZx1CL._AC_SY550_.jpg"
-        }
-      ],
-      "rating": 3.2,
-      "reviewCount": 42,
-      "viewCount": 513,
-      "name": "AUTOMET Womens Sweatshirts Half",
-      "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
-      "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
-      "availableVariants": [
-        {
-          "variants": [
-            {
-              "id": 1,
-              "groupKey": "1",
-              "group": {
-                "key": "color",
-                "name": "GREEN"
-              }
-            },
-            {
-              "id": 2,
-              "groupKey": "2",
-              "group": {
-                "key": "size",
-                "name": "L"
-              }
-            }
-          ],
-          "price": 40,
-          "discountPrice": null,
-          "stock": 46,
-          "image": "https://m.media-amazon.com/images/I/61HCJhtrGZL._AC_SY550_.jpg"
-        },
-        {
-          "variants": [
-            {
-              "id": 1,
-              "groupKey": "1",
-              "group": {
-                "key": "color",
-                "name": "ORANGE"
-              }
-            },
-            {
-              "id": 2,
-              "groupKey": "2",
-              "group": {
-                "key": "size",
-                "name": "L"
-              }
-            }
-          ],
-          "price": 72,
-          "discountPrice": null,
-          "stock": 156,
-          "image": "https://m.media-amazon.com/images/I/61lNxawawAL._AC_SY550_.jpg"
-        }
-      ],
+    "id": 4,
+    "highlightedImage": "/assets/product/o_1.jpg",
+    "images": [
+      {
+        "id": 13,
+        "url": "/assets/product/o_2.jpg"
+      },
+      {
+        "id": 14,
+        "url": "/assets/product/o_3.jpg"
+      },
+      {
+        "id": 15,
+        "url": "/assets/product/o_4.jpg"
+      },
+      {
+        "id": 16,
+        "url": "/assets/product/o_5.jpg"
+      }
+    ],
+    "rating": 3.2,
+    "reviewCount": 42,
+    "viewCount": 513,
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 40,
+        "discountPrice": null,
+        "stock": 46,
+        "image": "/assets/product/o_3.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "ORANGE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 72,
+        "discountPrice": null,
+        "stock": 156,
+        "image": "/assets/product/o_4.jpg"
+      }
+    ],
     "createdAt": "2024-11-17T10:00:00",
     "updatedAt": "2024-11-18T12:00:00",
     "deletedAt": null
-    },
+  },
   {
     "id": 5,
-    "highlightedImage": "https://m.media-amazon.com/images/I/71gWaNJC1WL._AC_SY741_.jpg",
+    "highlightedImage": "/assets/product/i_1.jpg",
     "images": [
       {
         "id": 17,
-        "url": "https://m.media-amazon.com/images/I/811dMUmljPL._AC_SY550_.jpg"
+        "url": "/assets/product/i_2.jpg"
       },
       {
         "id": 18,
-        "url": "https://m.media-amazon.com/images/I/71k50+OFGnL._AC_SY550_.jpg"
+        "url": "/assets/product/i_3.jpg"
       },
       {
         "id": 19,
-        "url": "https://m.media-amazon.com/images/I/81f7FL-1xbL._AC_SY550_.jpg"
+        "url": "/assets/product/i_4.jpg"
       },
       {
         "id": 20,
-        "url": "https://m.media-amazon.com/images/I/81ZmgLXTjPL._AC_SY550_.jpg"
+        "url": "/assets/product/i_5.jpg"
       }
     ],
     "rating": 5,
@@ -112,53 +100,662 @@
         "variants": [
           {
             "id": 1,
-            "groupKey": "1",
-            "group": {
-              "key": "color",
-              "name": "GREEN"
-            }
+            "key": "color",
+            "name": "GREEN"
           },
           {
             "id": 2,
-            "groupKey": "2",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
+            "key": "size",
+            "name": "L"
           }
         ],
         "price": 80,
         "discountPrice": null,
         "stock": 75,
-        "image": "https://m.media-amazon.com/images/I/71qQtDo4rML._AC_SY550_.jpg"
+        "image": "/assets/product/i_2.jpg"
       },
       {
         "variants": [
           {
             "id": 1,
-            "groupKey": "1",
-            "group": {
-              "key": "color",
-              "name": "PINK"
-            }
+            "key": "color",
+            "name": "PINK"
           },
           {
             "id": 2,
-            "groupKey": "2",
-            "group": {
-              "key": "size",
-              "name": "S"
-            }
+            "key": "size",
+            "name": "S"
           }
         ],
         "price": 27,
         "discountPrice": null,
         "stock": 164,
-        "image": "https://m.media-amazon.com/images/I/71-6KriYxJL._AC_SY550_.jpg"
+        "image": "/assets/product/i_3.jpg"
       }
     ],
     "createdAt": "2024-11-17T10:00:00",
     "updatedAt": "2024-11-18T12:00:00",
     "deletedAt": null
-  }
+  },
+  {
+    "id": 6,
+    "highlightedImage": "/assets/product/b_1.jpg",
+    "images": [
+      {
+        "id": 21,
+        "url": "/assets/product/b_2.jpg"
+      },
+      {
+        "id": 22,
+        "url": "/assets/product/b_3.jpg"
+      },
+      {
+        "id": 23,
+        "url": "/assets/product/b_4.jpg"
+      },
+      {
+        "id": 24,
+        "url": "/assets/product/b_5.jpg"
+      }
+    ],
+    "rating": 4.5,
+    "reviewCount": 36,
+    "viewCount": 200,
+    "name": "Daily Ritual Women’s Pullover Sweater",
+    "shortDescription": "Soft and comfortable sweater for daily wear.",
+    "description": "*Lightweight and stretchy fabric for all-day comfort. *Available in various sizes and colors. *Perfect for casual outings or office wear.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "M"
+          }
+        ],
+        "price": 35,
+        "discountPrice": 25,
+        "stock": 150,
+        "image": "/assets/product/b_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "WHITE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 40,
+        "discountPrice": null,
+        "stock": 80,
+        "image": "/assets/product/b_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 7,
+    "highlightedImage": "/assets/product/x_1.jpg",
+    "images": [
+      {
+        "id": 25,
+        "url": "/assets/product/x_2.jpg"
+      },
+      {
+        "id": 26,
+        "url": "/assets/product/x_3.jpg"
+      },
+      {
+        "id": 27,
+        "url": "/assets/product/x_4.jpg"
+      },
+      {
+        "id": 28,
+        "url": "/assets/product/x_5.jpg"
+      }
+    ],
+    "rating": 3.8,
+    "reviewCount": 15,
+    "viewCount": 89,
+    "name": "Goodthreads Women’s Cozy Sweater",
+    "shortDescription": "Casual and warm sweater for everyday style.",
+    "description": "*Relaxed fit for all-day comfort. *Made with premium wool blend for warmth. *Suitable for winter and fall seasons.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREY"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "M"
+          }
+        ],
+        "price": 30,
+        "discountPrice": null,
+        "stock": 47,
+        "image": "/assets/product/x_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "NAVY"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "S"
+          }
+        ],
+        "price": 28,
+        "discountPrice": 22,
+        "stock": 32,
+        "image": "/assets/product/x_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 8,
+    "highlightedImage": "/assets/product/w_1.jpg",
+    "images": [
+      {
+        "id": 29,
+        "url": "/assets/product/w_2.jpg"
+      },
+      {
+        "id": 30,
+        "url": "/assets/product/w_3.jpg"
+      },
+      {
+        "id": 31,
+        "url": "/assets/product/w_4.jpg"
+      },
+      {
+        "id": 32,
+        "url": "/assets/product/w_5.jpg"
+      }
+    ],
+    "rating": 4.9,
+    "reviewCount": 58,
+    "viewCount": 300,
+    "name": "MEROKEETY Women’s Open Front Sweater",
+    "shortDescription": "Stylish sweater with an open front design.",
+    "description": "*Durable fabric and modern design. *Pairs well with jeans or dresses. *Ideal for layering during colder seasons.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BEIGE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "S"
+          }
+        ],
+        "price": 45,
+        "discountPrice": 38,
+        "stock": 120,
+        "image": "/assets/product/w_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BROWN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 50,
+        "discountPrice": null,
+        "stock": 60,
+        "image": "/assets/product/w_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 9,
+    "highlightedImage": "/assets/product/m_1.jpg",
+    "images": [
+      {
+        "id": 33,
+        "url": "/assets/product/m_2.jpg"
+      },
+      {
+        "id": 34,
+        "url": "/assets/product/m_3.jpg"
+      },
+      {
+        "id": 35,
+        "url": "/assets/product/m_4.jpg"
+      },
+      {
+        "id": 36,
+        "url": "/assets/product/m_5.jpg"
+      }
+    ],
+    "rating": 4.7,
+    "reviewCount": 90,
+    "viewCount": 500,
+    "name": "ANRABESS Women’s Tunic Sweater",
+    "shortDescription": "Comfortable and breathable tunic sweater.",
+    "description": "*Perfect for layering with scarves and jackets. *Available in vibrant colors. *Can be worn casually or at work.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "RED"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "XL"
+          }
+        ],
+        "price": 65,
+        "discountPrice": 55,
+        "stock": 70,
+        "image": "/assets/product/m_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "M"
+          }
+        ],
+        "price": 60,
+        "discountPrice": null,
+        "stock": 90,
+        "image": "/assets/product/m_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 10,
+    "highlightedImage": "/assets/product/n_1.jpg",
+    "images": [
+      {
+        "id": 37,
+        "url": "/assets/product/n_2.jpg"
+      },
+      {
+        "id": 38,
+        "url": "/assets/product/n_3.jpg"
+      },
+      {
+        "id": 39,
+        "url": "/assets/product/n_4.jpg"
+      },
+      {
+        "id": 40,
+        "url": "/assets/product/n_5.jpg"
+      }
+    ],
+    "rating": 4,
+    "reviewCount": 30,
+    "viewCount": 210,
+    "name": "ZESICA Women’s Casual Knit Sweater",
+    "shortDescription": "Chic and versatile knit sweater for all occasions.",
+    "description": "*Made with soft and durable fabric. *Trendy design with ribbed cuffs. *Suitable for both formal and casual settings.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "PURPLE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "S"
+          }
+        ],
+        "price": 48,
+        "discountPrice": 40,
+        "stock": 110,
+        "image": "/assets/product/n_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "YELLOW"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "M"
+          }
+        ],
+        "price": 50,
+        "discountPrice": null,
+        "stock": 60,
+        "image": "/assets/product/n_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+    {
+      "id": 6,
+      "highlightedImage": "/assets/product/z_1.jpg",
+      "images": [
+        {
+          "id": 21,
+          "url": "/assets/product/z_2.jpg"
+        },
+        {
+          "id": 22,
+          "url": "/assets/product/z_3.jpg"
+        },
+        {
+          "id": 23,
+          "url": "/assets/product/z_4.jpg"
+        },
+        {
+          "id": 24,
+          "url": "/assets/product/z_5.jpg"
+        }
+      ],
+      "rating": 4.5,
+      "reviewCount": 36,
+      "viewCount": 200,
+      "name": "Daily Ritual Women’s Pullover Sweater",
+      "shortDescription": "Soft and comfortable sweater for daily wear.",
+      "description": "*Lightweight and stretchy fabric for all-day comfort. *Available in various sizes and colors. *Perfect for casual outings or office wear.",
+      "availableVariants": [
+        {
+          "variants": [
+            {
+              "id": 1,
+              "key": "color",
+              "name": "BLACK"
+            },
+            {
+              "id": 2,
+              "key": "size",
+              "name": "M"
+            }
+          ],
+          "price": 35,
+          "discountPrice": 25,
+          "stock": 150,
+          "image": "/assets/product/z_2.jpg"
+        },
+        {
+          "variants": [
+            {
+              "id": 1,
+              "key": "color",
+              "name": "WHITE"
+            },
+            {
+              "id": 2,
+              "key": "size",
+              "name": "L"
+            }
+          ],
+          "price": 40,
+          "discountPrice": null,
+          "stock": 80,
+          "image": "/assets/product/z_3.jpg"
+        }
+      ],
+      "createdAt": "2024-11-17T10:00:00",
+      "updatedAt": "2024-11-18T12:00:00",
+      "deletedAt": null
+    },
+    {
+      "id": 7,
+      "highlightedImage": "/assets/product/u_1.jpg",
+      "images": [
+        {
+          "id": 25,
+          "url": "/assets/product/u_2.jpg"
+        },
+        {
+          "id": 26,
+          "url": "/assets/product/u_3.jpg"
+        },
+        {
+          "id": 27,
+          "url": "/assets/product/u_4.jpg"
+        },
+        {
+          "id": 28,
+          "url": "/assets/product/u_5.jpg"
+        }
+      ],
+      "rating": 3.8,
+      "reviewCount": 15,
+      "viewCount": 89,
+      "name": "Goodthreads Women’s Cozy Sweater",
+      "shortDescription": "Casual and warm sweater for everyday style.",
+      "description": "*Relaxed fit for all-day comfort. *Made with premium wool blend for warmth. *Suitable for winter and fall seasons.",
+      "availableVariants": [
+        {
+          "variants": [
+            {
+              "id": 1,
+              "key": "color",
+              "name": "GREY"
+            },
+            {
+              "id": 2,
+              "key": "size",
+              "name": "M"
+            }
+          ],
+          "price": 30,
+          "discountPrice": null,
+          "stock": 47,
+          "image": "/assets/product/u_2.jpg"
+        },
+        {
+          "variants": [
+            {
+              "id": 1,
+              "key": "color",
+              "name": "NAVY"
+            },
+            {
+              "id": 2,
+              "key": "size",
+              "name": "S"
+            }
+          ],
+          "price": 28,
+          "discountPrice": 22,
+          "stock": 32,
+          "image": "/assets/product/u_3.jpg"
+        }
+      ],
+      "createdAt": "2024-11-17T10:00:00",
+      "updatedAt": "2024-11-18T12:00:00",
+      "deletedAt": null
+    },
+    {
+      "id": 8,
+      "highlightedImage": "/assets/product/e_1.jpg",
+      "images": [
+        {
+          "id": 29,
+          "url": "/assets/product/e_2.jpg"
+        },
+        {
+          "id": 30,
+          "url": "/assets/product/e_3.jpg"
+        },
+        {
+          "id": 31,
+          "url": "/assets/product/e_4.jpg"
+        },
+        {
+          "id": 32,
+          "url": "/assets/product/e_5.jpg"
+        }
+      ],
+      "rating": 4.9,
+      "reviewCount": 58,
+      "viewCount": 300,
+      "name": "MEROKEETY Women’s Open Front Sweater",
+      "shortDescription": "Stylish sweater with an open front design.",
+      "description": "*Durable fabric and modern design. *Pairs well with jeans or dresses. *Ideal for layering during colder seasons.",
+      "availableVariants": [
+        {
+          "variants": [
+            {
+              "id": 1,
+              "key": "color",
+              "name": "BEIGE"
+            },
+            {
+              "id": 2,
+              "key": "size",
+              "name": "S"
+            }
+          ],
+          "price": 45,
+          "discountPrice": 38,
+          "stock": 120,
+          "image": "/assets/product/e_2.jpg"
+        },
+        {
+          "variants": [
+            {
+              "id": 1,
+              "key": "color",
+              "name": "BROWN"
+            },
+            {
+              "id": 2,
+              "key": "size",
+              "name": "L"
+            }
+          ],
+          "price": 50,
+          "discountPrice": null,
+          "stock": 60,
+          "image": "/assets/product/e_3.jpg"
+        }
+      ],
+      "createdAt": "2024-11-17T10:00:00",
+      "updatedAt": "2024-11-18T12:00:00",
+      "deletedAt": null
+    },
+    {
+      "id": 9,
+      "highlightedImage": "/assets/product/f_1.jpg",
+      "images": [
+        {
+          "id": 33,
+          "url": "/assets/product/f_2.jpg"
+        },
+        {
+          "id": 34,
+          "url": "/assets/product/f_3.jpg"
+        },
+        {
+          "id": 35,
+          "url": "/assets/product/f_4.jpg"
+        },
+        {
+          "id": 36,
+          "url": "/assets/product/f_5.jpg"
+        }
+      ],
+      "rating": 4.7,
+      "reviewCount": 90,
+      "viewCount": 500,
+      "name": "ANRABESS Women’s Tunic Sweater",
+      "shortDescription": "Comfortable and breathable tunic sweater.",
+      "description": "*Perfect for layering with scarves and jackets. *Available in vibrant colors. *Can be worn casually or at work.",
+      "availableVariants": [
+        {
+          "variants": [
+            {
+              "id": 1,
+              "key": "color",
+              "name": "RED"
+            },
+            {
+              "id": 2,
+              "key": "size",
+              "name": "XL"
+            }
+          ],
+          "price": 65,
+          "discountPrice": 55,
+          "stock": 70,
+          "image": "/assets/product/f_2.jpg"
+        },
+        {
+          "variants": [
+            {
+              "id": 1,
+              "key": "color",
+              "name": "BLACK"
+            },
+            {
+              "id": 2,
+              "key": "size",
+              "name": "M"
+            }
+          ],
+          "price": 60,
+          "discountPrice": null,
+          "stock": 90,
+          "image": "/assets/product/f_3.jpg"
+        }
+      ],
+      "createdAt": "2024-11-17T10:00:00",
+      "updatedAt": "2024-11-18T12:00:00",
+      "deletedAt": null
+    }
 ]

@@ -10,7 +10,7 @@
       "authAlias": "abc",
       "role": "ROLE_USER",
       "status": "online",
-      "avatar": "https://cdn.aicschool.edu.vn/wp-content/uploads/2024/08/avatar-anime-nu-cute.jpg"
+      "avatar": "/assets/user/u_1.jpg"
     },
     "viewCount": 420,
     "commentCount": 20,
@@ -55,7 +55,7 @@
       "authAlias": "abc",
       "role": "ROLE_USER",
       "status": "online",
-      "avatar": "https://cdn.aicschool.edu.vn/wp-content/uploads/2024/08/avatar-anime-nu-cute.jpg"
+      "avatar": "/assets/user/u_4.jpg"
     },
     "viewCount": 820,
     "commentCount": 40,
@@ -100,7 +100,7 @@
       "authAlias": "abc",
       "role": "ROLE_USER",
       "status": "online",
-      "avatar": "https://cdn.aicschool.edu.vn/wp-content/uploads/2024/08/avatar-anime-nu-cute.jpg"
+      "avatar": "/assets/user/u_2.jpg"
     },
     "viewCount": 820,
     "commentCount": 40,

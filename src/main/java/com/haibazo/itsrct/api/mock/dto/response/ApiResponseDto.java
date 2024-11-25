@@ -1,5 +1,6 @@
 package com.haibazo.itsrct.api.mock.dto.response;
 
+import org.springframework.boot.autoconfigure.data.web.SpringDataWebProperties.Pageable;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.util.Assert;
@@ -180,7 +181,7 @@ public class ApiResponseDto {
 
     private String code;
 
-    private MetadataDto metadata;
+    private Pageable meta;
 
     private Exception error;
 
@@ -207,12 +208,14 @@ public class ApiResponseDto {
     }
 
     /**
-     * Sets a metadata object
-     *
-     * @param metadata Pageable object
+     * Sets a meta object
+     * 
+     * @param meta Pageable object
+     * @return builder instance
      */
-    public void metadata(MetadataDto metadata) {
-        this.metadata = metadata;
+    public ApiResponseDto meta(Pageable meta) {
+        this.meta = meta;
+        return this;
     }
 
     /**
@@ -241,7 +244,7 @@ public class ApiResponseDto {
                 (T) data,
                 message,
                 code,
-                metadata,
+                meta,
                 error);
 
         return ResponseEntity

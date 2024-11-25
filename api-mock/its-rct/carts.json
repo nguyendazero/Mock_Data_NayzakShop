@@ -1,106 +1,118 @@
 {
   "id": 1,
-  "product": {
-    "id": 1,
-    "highlightedImage": "https://m.media-amazon.com/images/I/51H8Fz--kCL._AC_SY550_.jpg",
-    "images": [
-      {
-        "id": 1,
-        "url": "https://m.media-amazon.com/images/I/81KcpEBzS0L._AC_SY550_.jpg"
-      },
-      {
-        "id": 2,
-        "url": "https://m.media-amazon.com/images/I/711rhqXhu5L._AC_SX466_.jpg"
-      },
-      {
-        "id": 3,
-        "url": "https://m.media-amazon.com/images/I/81s66i9oCIL._AC_SX522_.jpg"
-      },
-      {
-        "id": 4,
-        "url": "https://m.media-amazon.com/images/I/71NbXNvxFhL._AC_SY550_.jpg"
-      }
-    ],
-    "rating": 4,
-    "reviewCount": 20,
-    "viewCount": 157,
-    "name": "Dokotoo Womens 2024 Sweaters",
-    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
-    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
-    "availableVariants": [
-      {
+  "product": [
+    {
+      "id": 0,
+      "highlightedImage": "/assets/product/a_1.jpg",
+      "images": [
+        {
+          "id": 1,
+          "url": "/assets/product/a_1.jpg"
+        },
+        {
+          "id": 2,
+          "url": "/assets/product/a_1.jpg"
+        },
+        {
+          "id": 3,
+          "url": "/assets/product/a_1.jpg"
+        },
+        {
+          "id": 4,
+          "url": "/assets/product/a_1.jpg"
+        }
+      ],
+      "rating": 4,
+      "reviewCount": 20,
+      "viewCount": 157,
+      "name": "Dokotoo Womens 2024 Sweaters",
+      "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+      "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+      "productVariant": {
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "GREEN"
-            }
+            "key": "color",
+            "name": "RED"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
+            "key": "size",
+            "name": "M"
           }
         ],
-        "price": 20,
+        "price": 1,
         "discountPrice": null,
         "stock": 23,
-        "image": "https://m.media-amazon.com/images/I/81TaSiMMtmL._AC_SY550_.jpg"
+        "image": "/assets/product/a_1.jpg"
       },
-      {
+      "quantity": 1
+    },
+    {
+      "id": 1,
+      "highlightedImage": "/assets/product/b_1.jpg",
+      "images": [
+        {
+          "id": 3,
+          "url": "/assets/product/b_2.jpg"
+        },
+        {
+          "id": 4,
+          "url": "/assets/product/b_3.jpg"
+        },
+        {
+          "id": 5,
+          "url": "/assets/product/b_4.jpg"
+        },
+        {
+          "id": 6,
+          "url": "/assets/product/b_5.jpg"
+        }
+      ],
+      "rating": 4,
+      "reviewCount": 20,
+      "viewCount": 157,
+      "name": "AUTOMET Womens Fall Outfits Fashion Clothes",
+      "shortDescription": "Material: Made of high quality 100% Polyester fabric",
+      "description": "Material: Made of high quality 100% Polyester fabric, skin-friendly, soft and comfortable to wear, will keep your warm and fashion style in fall, spring and cold winter",
+      "productVariant": {
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "BLUE"
-            }
+            "key": "color",
+            "name": "GREEN"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "S"
-            }
+            "key": "size",
+            "name": "M"
           }
         ],
-        "price": 42,
+        "price": 1,
         "discountPrice": null,
-        "stock": 52,
-        "image": "https://m.media-amazon.com/images/I/71FPhgxjl5L._AC_SY550_.jpg"
-      }
-    ]
-  },
+        "stock": 23,
+        "image": "/assets/product/b_1.jpg"
+      },
+      "quantity": 1
+    }
+  ],
   "productVariant": {
     "variants": [
       {
         "id": 1,
-        "groupKey": "color",
-        "group": {
-          "key": "color",
-          "name": "GREEN"
-        }
+        "key": "color",
+        "name": "GREEN"
       },
       {
         "id": 2,
-        "groupKey": "size",
-        "group": {
-          "key": "size",
-          "name": "M"
-        }
+        "key": "size",
+        "name": "M"
       }
     ],
     "price": 1,
     "discountPrice": null,
     "stock": 23,
-    "image": "https://m.media-amazon.com/images/I/61ZqT6nm9kL._AC_SY550_.jpg"
+    "image": "/assets/product/a_1.jpg"
   },
   "quantity": 2,
   "createdAt": "2024-11-17T10:00:00",

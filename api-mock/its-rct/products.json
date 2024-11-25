@@ -1,23 +1,23 @@
 [
   {
     "id": 0,
-    "highlightedImage": "https://m.media-amazon.com/images/I/61hDQfyQtrL._AC_SY550_.jpg",
+    "highlightedImage": "/assets/product/a_1.jpg",
     "images": [
       {
         "id": 41,
-        "url": "https://m.media-amazon.com/images/I/61pof42S2-L._AC_SY550_.jpg"
+        "url": "/assets/product/a_2.jpg"
       },
       {
         "id": 42,
-        "url": "https://m.media-amazon.com/images/I/61m2IoqJ5YL._AC_SY550_.jpg"
+        "url": "/assets/product/a_3.jpg"
       },
       {
         "id": 43,
-        "url": "https://m.media-amazon.com/images/I/61ndr7jpLML._AC_SY550_.jpg"
+        "url": "/assets/product/a_4.jpg"
       },
       {
         "id": 44,
-        "url": "https://m.media-amazon.com/images/I/61AWeFZx1CL._AC_SY550_.jpg"
+        "url": "/assets/product/a_5.jpg"
       }
     ],
     "rating": 4.6,
@@ -31,49 +31,37 @@
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "GREEN"
-            }
+            "key": "color",
+            "name": "GREEN"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
               "key": "size",
               "name": "L"
-            }
           }
         ],
         "price": 40,
         "discountPrice": 25,
         "stock": 46,
-        "image": "https://m.media-amazon.com/images/I/61HCJhtrGZL._AC_SY550_.jpg"
+        "image": "/assets/product/a_1.jpg"
       },
       {
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "ORANGE"
-            }
+            "key": "color",
+            "name": "ORANGE"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
+            "key": "size",
+            "name": "L"
           }
         ],
         "price": 14,
         "discountPrice": 25,
         "stock": 156,
-        "image": "https://m.media-amazon.com/images/I/61lNxawawAL._AC_SY550_.jpg"
+        "image": "/assets/product/a_2.jpg"
       }
     ],
     "createdAt": "2024-11-17T10:00:00",
@@ -82,23 +70,23 @@
   },
   {
     "id": 1,
-    "highlightedImage": "https://m.media-amazon.com/images/I/51H8Fz--kCL._AC_SY550_.jpg",
+    "highlightedImage": "/assets/product/b_1.jpg",
     "images": [
       {
         "id": 1,
-        "url": "https://m.media-amazon.com/images/I/81KcpEBzS0L._AC_SY550_.jpg"
+        "url": "/assets/product/b_2.jpg"
       },
       {
         "id": 2,
-        "url": "https://m.media-amazon.com/images/I/711rhqXhu5L._AC_SX466_.jpg"
+        "url": "/assets/product/b_3.jpg"
       },
       {
         "id": 3,
-        "url": "https://m.media-amazon.com/images/I/81s66i9oCIL._AC_SX522_.jpg"
+        "url": "/assets/product/b_4.jpg"
       },
       {
         "id": 4,
-        "url": "https://m.media-amazon.com/images/I/71NbXNvxFhL._AC_SY550_.jpg"
+        "url": "/assets/product/b_5.jpg"
       }
     ],
     "rating": 4,
@@ -112,49 +100,37 @@
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "GREEN"
-            }
+            "key": "color",
+            "name": "GREEN"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
+            "key": "size",
+            "name": "L"
           }
         ],
         "price": 20,
         "discountPrice": null,
         "stock": 23,
-        "image": "https://m.media-amazon.com/images/I/81TaSiMMtmL._AC_SY550_.jpg"
+        "image": "/assets/product/b_1.jpg"
       },
       {
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "BLUE"
-            }
+            "key": "color",
+            "name": "BLUE"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "S"
-            }
+            "key": "size",
+            "name": "S"
           }
         ],
         "price": 42,
         "discountPrice": null,
         "stock": 52,
-        "image": "https://m.media-amazon.com/images/I/71FPhgxjl5L._AC_SY550_.jpg"
+        "image": "/assets/product/b_2.jpg"
       }
     ],
     "createdAt": "2024-11-17T10:00:00",
@@ -163,23 +139,23 @@
   },
   {
     "id": 2,
-    "highlightedImage": "https://m.media-amazon.com/images/I/61ZT05JM44L._AC_SY550_.jpg",
+    "highlightedImage": "/assets/product/c_1.jpg",
     "images": [
       {
         "id": 1,
-        "url": "https://m.media-amazon.com/images/I/61md6ajarrL._AC_SY550_.jpg"
+        "url": "/assets/product/c_2.jpg"
       },
       {
         "id": 2,
-        "url": "https://m.media-amazon.com/images/I/61rjGFXnAeL._AC_SY550_.jpg"
+        "url": "/assets/product/c_3.jpg"
       },
       {
         "id": 3,
-        "url": "https://m.media-amazon.com/images/I/71o8mydl9nL._AC_SY550_.jpg"
+        "url": "/assets/product/c_4.jpg"
       },
       {
         "id": 4,
-        "url": "https://m.media-amazon.com/images/I/71DmmX8DipL._AC_SY550_.jpg"
+        "url": "/assets/product/c_5.jpg"
       }
     ],
     "rating": 4,
@@ -193,49 +169,37 @@
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "GREEN"
-            }
+            "key": "color",
+            "name": "GREEN"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
+            "key": "size",
+            "name": "L"
           }
         ],
         "price": 20,
         "discountPrice": null,
         "stock": 23,
-        "image": "https://m.media-amazon.com/images/I/61tTln00p0L._AC_SY550_.jpg"
+        "image": "/assets/product/c_1.jpg"
       },
       {
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "PINK"
-            }
+            "key": "color",
+            "name": "PINK"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
+            "key": "size",
+            "name": "L"
           }
         ],
         "price": 32,
         "discountPrice": null,
         "stock": 76,
-        "image": "https://m.media-amazon.com/images/I/61KWtDgoXRL._AC_SY550_.jpg"
+        "image": "/assets/product/c_5.jpg"
       }
     ],
     "createdAt": "2024-11-17T10:00:00",
@@ -244,23 +208,23 @@
   },
   {
     "id": 3,
-    "highlightedImage": "https://m.media-amazon.com/images/I/51H8Fz--kCL._AC_SY550_.jpg",
+    "highlightedImage": "/assets/product/d_1.jpg",
     "images": [
       {
         "id": 1,
-        "url": "https://m.media-amazon.com/images/I/81KcpEBzS0L._AC_SY550_.jpg"
+        "url": "/assets/product/d_2.jpg"
       },
       {
         "id": 2,
-        "url": "https://m.media-amazon.com/images/I/711rhqXhu5L._AC_SX466_.jpg"
+        "url": "/assets/product/d_3.jpg"
       },
       {
         "id": 3,
-        "url": "https://m.media-amazon.com/images/I/81s66i9oCIL._AC_SX522_.jpg"
+        "url": "/assets/product/d_4.jpg"
       },
       {
         "id": 4,
-        "url": "https://m.media-amazon.com/images/I/71NbXNvxFhL._AC_SY550_.jpg"
+        "url": "/assets/product/d_5.jpg"
       }
     ],
     "rating": 4,
@@ -274,49 +238,37 @@
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "GREEN"
-            }
+            "key": "color",
+            "name": "GREEN"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
+            "key": "size",
+            "name": "L"
           }
         ],
         "price": 20,
         "discountPrice": null,
         "stock": 23,
-        "image": "https://m.media-amazon.com/images/I/71Et2CkZZ+L._AC_SY550_.jpg"
+        "image": "/assets/product/d_1.jpg"
       },
       {
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "WHITE"
-            }
+            "key": "color",
+            "name": "WHITE"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "S"
-            }
+            "key": "size",
+            "name": "S"
           }
         ],
         "price": 14,
         "discountPrice": 5,
         "stock": 54,
-        "image": "https://m.media-amazon.com/images/I/715SBnVedrL._AC_SY550_.jpg"
+        "image": "/assets/product/d_3.jpg"
       }
     ],
     "createdAt": "2024-11-17T10:00:00",
@@ -325,23 +277,23 @@
   },
   {
     "id": 4,
-    "highlightedImage": "https://m.media-amazon.com/images/I/61hDQfyQtrL._AC_SY550_.jpg",
+    "highlightedImage": "/assets/product/e_1.jpg",
     "images": [
       {
         "id": 13,
-        "url": "https://m.media-amazon.com/images/I/61pof42S2-L._AC_SY550_.jpg"
+        "url": "/assets/product/e_2.jpg"
       },
       {
         "id": 14,
-        "url": "https://m.media-amazon.com/images/I/61m2IoqJ5YL._AC_SY550_.jpg"
+        "url": "/assets/product/e_3.jpg"
       },
       {
         "id": 15,
-        "url": "https://m.media-amazon.com/images/I/61ndr7jpLML._AC_SY550_.jpg"
+        "url": "/assets/product/e_4.jpg"
       },
       {
         "id": 16,
-        "url": "https://m.media-amazon.com/images/I/61AWeFZx1CL._AC_SY550_.jpg"
+        "url": "/assets/product/e_5.jpg"
       }
     ],
     "rating": 3.2,
@@ -355,49 +307,37 @@
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "GREEN"
-            }
+            "key": "color",
+            "name": "GREEN"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
+            "key": "size",
+            "name": "L"
           }
         ],
         "price": 40,
         "discountPrice": null,
         "stock": 46,
-        "image": "https://m.media-amazon.com/images/I/61HCJhtrGZL._AC_SY550_.jpg"
+        "image": "/assets/product/e_4.jpg"
       },
       {
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "ORANGE"
-            }
+            "key": "color",
+            "name": "ORANGE"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
+            "key": "size",
+            "name": "L"
           }
         ],
         "price": 72,
         "discountPrice": null,
         "stock": 156,
-        "image": "https://m.media-amazon.com/images/I/61lNxawawAL._AC_SY550_.jpg"
+        "image": "/assets/product/e_5.jpg"
       }
     ],
     "createdAt": "2024-11-17T10:00:00",
@@ -406,23 +346,23 @@
   },
   {
     "id": 5,
-    "highlightedImage": "https://m.media-amazon.com/images/I/71gWaNJC1WL._AC_SY741_.jpg",
+    "highlightedImage": "/assets/product/f_1.jpg",
     "images": [
       {
         "id": 17,
-        "url": "https://m.media-amazon.com/images/I/811dMUmljPL._AC_SY550_.jpg"
+        "url": "/assets/product/f_2.jpg"
       },
       {
         "id": 18,
-        "url": "https://m.media-amazon.com/images/I/71k50+OFGnL._AC_SY550_.jpg"
+        "url": "/assets/product/f_3.jpg"
       },
       {
         "id": 19,
-        "url": "https://m.media-amazon.com/images/I/81f7FL-1xbL._AC_SY550_.jpg"
+        "url": "/assets/product/f_4.jpg"
       },
       {
         "id": 20,
-        "url": "https://m.media-amazon.com/images/I/81ZmgLXTjPL._AC_SY550_.jpg"
+        "url": "/assets/product/f_5.jpg"
       }
     ],
     "rating": 5,
@@ -436,49 +376,37 @@
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "GREEN"
-            }
+            "key": "color",
+            "name": "GREEN"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
+            "key": "size",
+            "name": "L"
           }
         ],
         "price": 80,
         "discountPrice": null,
         "stock": 75,
-        "image": "https://m.media-amazon.com/images/I/71qQtDo4rML._AC_SY550_.jpg"
+        "image": "/assets/product/f_1.jpg"
       },
       {
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "PINK"
-            }
+            "key": "color",
+            "name": "PINK"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "S"
-            }
+            "key": "size",
+            "name": "S"
           }
         ],
         "price": 27,
         "discountPrice": null,
         "stock": 164,
-        "image": "https://m.media-amazon.com/images/I/71-6KriYxJL._AC_SY550_.jpg"
+        "image": "/assets/product/f_4.jpg"
       }
     ],
     "createdAt": "2024-11-17T10:00:00",
@@ -486,24 +414,24 @@
     "deletedAt": null
   },
   {
-    "id": 7,
-    "highlightedImage": "https://m.media-amazon.com/images/I/51H8Fz--kCL._AC_SY550_.jpg",
+    "id": 6,
+    "highlightedImage": "/assets/product/g_1.jpg",
     "images": [
       {
         "id": 21,
-        "url": "https://m.media-amazon.com/images/I/81KcpEBzS0L._AC_SY550_.jpg"
+        "url": "/assets/product/g_2.jpg"
       },
       {
         "id": 22,
-        "url": "https://m.media-amazon.com/images/I/711rhqXhu5L._AC_SX466_.jpg"
+        "url": "/assets/product/g_3.jpg"
       },
       {
         "id": 23,
-        "url": "https://m.media-amazon.com/images/I/81s66i9oCIL._AC_SX522_.jpg"
+        "url": "/assets/product/g_4.jpg"
       },
       {
         "id": 24,
-        "url": "https://m.media-amazon.com/images/I/71NbXNvxFhL._AC_SY550_.jpg"
+        "url": "/assets/product/g_5.jpg"
       }
     ],
     "rating": 5,
@@ -517,49 +445,37 @@
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "GREEN"
-            }
+            "key": "color",
+            "name": "GREEN"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
+            "key": "size",
+            "name": "L"
           }
         ],
         "price": 20,
         "discountPrice": null,
         "stock": 23,
-        "image": "https://m.media-amazon.com/images/I/81TaSiMMtmL._AC_SY550_.jpg"
+        "image": "/assets/product/g_1.jpg"
       },
       {
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "BLUE"
-            }
+            "key": "color",
+            "name": "BLUE"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "S"
-            }
+            "key": "size",
+            "name": "S"
           }
         ],
         "price": 42,
         "discountPrice": null,
         "stock": 400,
-        "image": "https://m.media-amazon.com/images/I/71FPhgxjl5L._AC_SY550_.jpg"
+        "image": "/assets/product/g_2.jpg"
       }
     ],
     "createdAt": "2024-11-17T10:00:00",
@@ -567,24 +483,24 @@
     "deletedAt": null
   },
   {
-    "id": 8,
-    "highlightedImage": "https://m.media-amazon.com/images/I/61ZT05JM44L._AC_SY550_.jpg",
+    "id": 7,
+    "highlightedImage": "/assets/product/h_1.jpg",
     "images": [
       {
         "id": 25,
-        "url": "https://m.media-amazon.com/images/I/61md6ajarrL._AC_SY550_.jpg"
+        "url": "/assets/product/h_2.jpg"
       },
       {
         "id": 26,
-        "url": "https://m.media-amazon.com/images/I/61rjGFXnAeL._AC_SY550_.jpg"
+        "url": "/assets/product/h_3.jpg"
       },
       {
         "id": 27,
-        "url": "https://m.media-amazon.com/images/I/71o8mydl9nL._AC_SY550_.jpg"
+        "url": "/assets/product/h_4.jpg"
       },
       {
         "id": 28,
-        "url": "https://m.media-amazon.com/images/I/71DmmX8DipL._AC_SY550_.jpg"
+        "url": "/assets/product/h_5.jpg"
       }
     ],
     "rating": 5,
@@ -598,49 +514,37 @@
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "GREEN"
-            }
+            "key": "color",
+            "name": "GREEN"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
+            "key": "size",
+            "name": "L"
           }
         ],
         "price": 20,
         "discountPrice": null,
         "stock": 23,
-        "image": "https://m.media-amazon.com/images/I/61tTln00p0L._AC_SY550_.jpg"
+        "image": "/assets/product/h_1.jpg"
       },
       {
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "PINK"
-            }
+            "key": "color",
+            "name": "PINK"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
+            "key": "size",
+            "name": "L"
           }
         ],
         "price": 32,
         "discountPrice": null,
         "stock": 76,
-        "image": "https://m.media-amazon.com/images/I/61KWtDgoXRL._AC_SY550_.jpg"
+        "image": "/assets/product/h_4.jpg"
       }
     ],
     "createdAt": "2024-11-17T10:00:00",
@@ -648,24 +552,24 @@
     "deletedAt": null
   },
   {
-    "id": 9,
-    "highlightedImage": "https://m.media-amazon.com/images/I/51H8Fz--kCL._AC_SY550_.jpg",
+    "id": 8,
+    "highlightedImage": "/assets/product/i_1.jpg",
     "images": [
       {
         "id": 29,
-        "url": "https://m.media-amazon.com/images/I/81KcpEBzS0L._AC_SY550_.jpg"
+        "url": "/assets/product/i_2.jpg"
       },
       {
         "id": 30,
-        "url": "https://m.media-amazon.com/images/I/711rhqXhu5L._AC_SX466_.jpg"
+        "url": "/assets/product/i_3.jpg"
       },
       {
         "id": 31,
-        "url": "https://m.media-amazon.com/images/I/81s66i9oCIL._AC_SX522_.jpg"
+        "url": "/assets/product/i_4.jpg"
       },
       {
         "id": 32,
-        "url": "https://m.media-amazon.com/images/I/71NbXNvxFhL._AC_SY550_.jpg"
+        "url": "/assets/product/i_5.jpg"
       }
     ],
     "rating": 4,
@@ -679,49 +583,37 @@
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "GREEN"
-            }
+            "key": "color",
+            "name": "GREEN"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
+            "key": "size",
+            "name": "L"
           }
         ],
         "price": 20,
         "discountPrice": null,
         "stock": 23,
-        "image": "https://m.media-amazon.com/images/I/71Et2CkZZ+L._AC_SY550_.jpg"
+        "image": "/assets/product/i_1.jpg"
       },
       {
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
               "key": "color",
               "name": "WHITE"
-            }
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "S"
-            }
+            "key": "size",
+            "name": "S"
           }
         ],
         "price": 14,
         "discountPrice": 5,
         "stock": 54,
-        "image": "https://m.media-amazon.com/images/I/715SBnVedrL._AC_SY550_.jpg"
+        "image": "/assets/product/i_2.jpg"
       }
     ],
     "createdAt": "2024-11-17T10:00:00",
@@ -729,24 +621,24 @@
     "deletedAt": null
   },
   {
-    "id": 10,
-    "highlightedImage": "https://m.media-amazon.com/images/I/61hDQfyQtrL._AC_SY550_.jpg",
+    "id": 9,
+    "highlightedImage": "/assets/product/k_1.jpg",
     "images": [
       {
         "id": 33,
-        "url": "https://m.media-amazon.com/images/I/61pof42S2-L._AC_SY550_.jpg"
+        "url": "/assets/product/k_2.jpg"
       },
       {
         "id": 34,
-        "url": "https://m.media-amazon.com/images/I/61m2IoqJ5YL._AC_SY550_.jpg"
+        "url": "/assets/product/k_3.jpg"
       },
       {
         "id": 35,
-        "url": "https://m.media-amazon.com/images/I/61ndr7jpLML._AC_SY550_.jpg"
+        "url": "/assets/product/k_4.jpg"
       },
       {
         "id": 36,
-        "url": "https://m.media-amazon.com/images/I/61AWeFZx1CL._AC_SY550_.jpg"
+        "url": "/assets/product/k_5.jpg"
       }
     ],
     "rating": 4.6,
@@ -760,49 +652,37 @@
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "GREEN"
-            }
+            "key": "color",
+            "name": "GREEN"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
+            "key": "size",
+            "name": "L"
           }
         ],
         "price": 40,
         "discountPrice": null,
         "stock": 46,
-        "image": "https://m.media-amazon.com/images/I/61HCJhtrGZL._AC_SY550_.jpg"
+        "image": "/assets/product/k_2.jpg"
       },
       {
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "ORANGE"
-            }
+            "key": "color",
+            "name": "ORANGE"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
+            "key": "size",
+            "name": "L"
           }
         ],
         "price": 72,
         "discountPrice": null,
         "stock": 156,
-        "image": "https://m.media-amazon.com/images/I/61lNxawawAL._AC_SY550_.jpg"
+        "image": "/assets/product/k_5.jpg"
       }
     ],
     "createdAt": "2024-11-17T10:00:00",
@@ -810,24 +690,24 @@
     "deletedAt": null
   },
   {
-    "id": 11,
-    "highlightedImage": "https://m.media-amazon.com/images/I/71gWaNJC1WL._AC_SY741_.jpg",
+    "id": 10,
+    "highlightedImage": "/assets/product/o_1.jpg",
     "images": [
       {
         "id": 37,
-        "url": "https://m.media-amazon.com/images/I/811dMUmljPL._AC_SY550_.jpg"
+        "url": "/assets/product/o_2.jpg"
       },
       {
         "id": 38,
-        "url": "https://m.media-amazon.com/images/I/71k50+OFGnL._AC_SY550_.jpg"
+        "url": "/assets/product/o_3.jpg"
       },
       {
         "id": 39,
-        "url": "https://m.media-amazon.com/images/I/81f7FL-1xbL._AC_SY550_.jpg"
+        "url": "/assets/product/o_4.jpg"
       },
       {
         "id": 40,
-        "url": "https://m.media-amazon.com/images/I/81ZmgLXTjPL._AC_SY550_.jpg"
+        "url": "/assets/product/o_5.jpg"
       }
     ],
     "rating": 5,
@@ -841,49 +721,37 @@
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "GREEN"
-            }
+            "key": "color",
+            "name": "GREEN"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
+            "key": "size",
+            "name": "L"
           }
         ],
         "price": 80,
         "discountPrice": null,
         "stock": 75,
-        "image": "https://m.media-amazon.com/images/I/71qQtDo4rML._AC_SY550_.jpg"
+        "image": "/assets/product/o_2.jpg"
       },
       {
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "PINK"
-            }
+            "key": "color",
+            "name": "PINK"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "S"
-            }
+            "key": "size",
+            "name": "S"
           }
         ],
         "price": 27,
         "discountPrice": null,
         "stock": 164,
-        "image": "https://m.media-amazon.com/images/I/71-6KriYxJL._AC_SY550_.jpg"
+        "image": "/assets/product/o_1.jpg"
       }
     ],
     "createdAt": "2024-11-17T10:00:00",
@@ -891,24 +759,24 @@
     "deletedAt": null
   },
   {
-    "id": 12,
-    "highlightedImage": "https://m.media-amazon.com/images/I/61hDQfyQtrL._AC_SY550_.jpg",
+    "id": 11,
+    "highlightedImage": "/assets/product/n_1.jpg",
     "images": [
       {
         "id": 41,
-        "url": "https://m.media-amazon.com/images/I/61pof42S2-L._AC_SY550_.jpg"
+        "url": "/assets/product/n_2.jpg"
       },
       {
         "id": 42,
-        "url": "https://m.media-amazon.com/images/I/61m2IoqJ5YL._AC_SY550_.jpg"
+        "url": "/assets/product/n_3.jpg"
       },
       {
         "id": 43,
-        "url": "https://m.media-amazon.com/images/I/61ndr7jpLML._AC_SY550_.jpg"
+        "url": "/assets/product/n_4.jpg"
       },
       {
         "id": 44,
-        "url": "https://m.media-amazon.com/images/I/61AWeFZx1CL._AC_SY550_.jpg"
+        "url": "/assets/product/n_5.jpg"
       }
     ],
     "rating": 4.6,
@@ -922,49 +790,37 @@
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "GREEN"
-            }
+            "key": "color",
+            "name": "GREEN"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
+            "key": "size",
+            "name": "L"
           }
         ],
         "price": 40,
         "discountPrice": 25,
         "stock": 46,
-        "image": "https://m.media-amazon.com/images/I/61HCJhtrGZL._AC_SY550_.jpg"
+        "image": "/assets/product/n_1.jpg"
       },
       {
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "ORANGE"
-            }
+            "key": "color",
+            "name": "ORANGE"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
+            "key": "size",
+            "name": "L"
           }
         ],
         "price": 14,
         "discountPrice": 25,
         "stock": 156,
-        "image": "https://m.media-amazon.com/images/I/61lNxawawAL._AC_SY550_.jpg"
+        "image": "/assets/product/n_2.jpg"
       }
     ],
     "createdAt": "2024-11-17T10:00:00",
@@ -972,24 +828,24 @@
     "deletedAt": null
   },
   {
-    "id": 13,
-    "highlightedImage": "https://m.media-amazon.com/images/I/71gWaNJC1WL._AC_SY741_.jpg",
+    "id": 12,
+    "highlightedImage": "/assets/product/m_1.jpg",
     "images": [
       {
         "id": 45,
-        "url": "https://m.media-amazon.com/images/I/811dMUmljPL._AC_SY550_.jpg"
+        "url": "/assets/product/m_2.jpg"
       },
       {
         "id": 46,
-        "url": "https://m.media-amazon.com/images/I/71k50+OFGnL._AC_SY550_.jpg"
+        "url": "/assets/product/m_3.jpg"
       },
       {
         "id": 47,
-        "url": "https://m.media-amazon.com/images/I/81f7FL-1xbL._AC_SY550_.jpg"
+        "url": "/assets/product/m_4.jpg"
       },
       {
         "id": 48,
-        "url": "https://m.media-amazon.com/images/I/81ZmgLXTjPL._AC_SY550_.jpg"
+        "url": "/assets/product/m_5.jpg"
       }
     ],
     "rating": 5,
@@ -1003,49 +859,934 @@
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "GREEN"
-            }
+            "key": "color",
+            "name": "GREEN"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
+            "key": "size",
+            "name": "L"
           }
         ],
         "price": 21,
         "discountPrice": 30,
         "stock": 75,
-        "image": "https://m.media-amazon.com/images/I/71qQtDo4rML._AC_SY550_.jpg"
+        "image": "/assets/product/m_2.jpg"
       },
       {
         "variants": [
           {
             "id": 1,
-            "groupKey": "color",
-            "group": {
-              "key": "color",
-              "name": "PINK"
-            }
+            "key": "color",
+            "name": "PINK"
           },
           {
             "id": 2,
-            "groupKey": "size",
-            "group": {
-              "key": "size",
-              "name": "S"
-            }
+            "key": "size",
+            "name": "S"
           }
         ],
         "price": 27,
         "discountPrice": 30,
         "stock": 164,
-        "image": "https://m.media-amazon.com/images/I/71-6KriYxJL._AC_SY550_.jpg"
+        "image": "/assets/product/m_1.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 13,
+    "highlightedImage": "/assets/product/j_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/j_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/j_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/j_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/j_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/j_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "ORANGE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/j_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 14,
+    "highlightedImage": "/assets/product/l_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/l_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/l_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/l_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/l_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/l_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "ORANGE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/l_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 15,
+    "highlightedImage": "/assets/product/p_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/p_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/p_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/p_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/p_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/p_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "ORANGE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/p_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 16,
+    "highlightedImage": "/assets/product/q_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/q_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/q_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/q_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/q_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/q_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "ORANGE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/q_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 17,
+    "highlightedImage": "/assets/product/r_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/r_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/r_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/r_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/r_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/r_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "ORANGE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/r_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 18,
+    "highlightedImage": "/assets/product/s_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/s_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/s_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/s_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/s_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/s_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "ORANGE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/s_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 19,
+    "highlightedImage": "/assets/product/t_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/t_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/t_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/t_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/t_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/t_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "ORANGE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/t_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 20,
+    "highlightedImage": "/assets/product/u_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/u_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/u_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/u_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/u_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/u_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "ORANGE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/u_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 21,
+    "highlightedImage": "/assets/product/w_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/w_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/w_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/w_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/w_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/w_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "ORANGE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/w_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 22,
+    "highlightedImage": "/assets/product/x_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/x_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/x_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/x_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/x_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/x_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "ORANGE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/x_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 23,
+    "highlightedImage": "/assets/product/y_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/y_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/y_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/y_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/y_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/y_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "ORANGE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/y_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 24,
+    "highlightedImage": "/assets/product/z_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/z_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/z_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/z_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/z_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/z_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "ORANGE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/z_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 25,
+    "highlightedImage": "/assets/product/v_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/v_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/v_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/v_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/v_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/v_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "ORANGE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/v_2.jpg"
       }
     ],
     "createdAt": "2024-11-17T10:00:00",

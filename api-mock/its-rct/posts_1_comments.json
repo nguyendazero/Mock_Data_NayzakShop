@@ -8,7 +8,7 @@
       "authAlias": "abc",
       "role": "ROLE_USER",
       "status": "online",
-      "avatar": "https://cdn.aicschool.edu.vn/wp-content/uploads/2024/08/avatar-anime-nu-cute.jpg"
+      "avatar": "/assets/user/u_2.jpg"
     },
     "content": "upt et quas molestias excepturi sint non provident, sunt in culpa qui officia animi, id est laborum et dolorum fuga.",
     "createdAt": "2024-11-17T10:00:00",
@@ -24,7 +24,7 @@
       "authAlias": "abc",
       "role": "ROLE_USER",
       "status": "online",
-      "avatar": "https://cdn.aicschool.edu.vn/wp-content/uploads/2024/08/avatar-anime-nu-cute.jpg"
+      "avatar": "/assets/user/u_3.jpg"
     },
     "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis prarum et dolorum fuga.",
     "createdAt": "2024-11-17T10:00:00",
@@ -40,7 +40,7 @@
       "authAlias": "abc",
       "role": "ROLE_USER",
       "status": "online",
-      "avatar": "https://cdn.aicschool.edu.vn/wp-content/uploads/2024/08/avatar-anime-nu-cute.jpg"
+      "avatar": "/assets/user/u_6.jpg"
     },
     "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupt et quas molestias excepturi sint non provident, sunt in culpa qui officia animi, id est laborum et dolorum fuga.",
     "createdAt": "2024-11-17T10:00:00",

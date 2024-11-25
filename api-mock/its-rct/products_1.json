@@ -1,22 +1,22 @@
 {
   "id": 1,
-  "highlightedImage": "https://m.media-amazon.com/images/I/51H8Fz--kCL._AC_SY550_.jpg",
+  "highlightedImage": "/assets/product/b_1.jpg",
   "images": [
     {
       "id": 1,
-      "url": "https://m.media-amazon.com/images/I/81KcpEBzS0L._AC_SY550_.jpg"
+      "url": "/assets/product/b_2.jpg"
     },
     {
       "id": 2,
-      "url": "https://m.media-amazon.com/images/I/711rhqXhu5L._AC_SX466_.jpg"
+      "url": "/assets/product/b_3.jpg"
     },
     {
       "id": 3,
-      "url": "https://m.media-amazon.com/images/I/81s66i9oCIL._AC_SX522_.jpg"
+      "url": "/assets/product/b_4.jpg"
     },
     {
       "id": 4,
-      "url": "https://m.media-amazon.com/images/I/71NbXNvxFhL._AC_SY550_.jpg"
+      "url": "/assets/product/b_5.jpg"
     }
   ],
   "rating": 4,
@@ -30,49 +30,37 @@
       "variants": [
         {
           "id": 1,
-          "groupKey": "color",
-          "group": {
-            "key": "color",
-            "name": "GREEN"
-          }
+          "key": "color",
+          "name": "GREEN"
         },
         {
           "id": 2,
-          "groupKey": "size",
-          "group": {
-            "key": "size",
-            "name": "L"
-          }
+          "key": "size",
+          "name": "L"
         }
       ],
       "price": 20,
       "discountPrice": null,
       "stock": 23,
-      "image": "https://m.media-amazon.com/images/I/81TaSiMMtmL._AC_SY550_.jpg"
+      "image": "/assets/product/b_2.jpg"
     },
     {
       "variants": [
         {
           "id": 1,
-          "groupKey": "color",
-          "group": {
-            "key": "color",
-            "name": "BLUE"
-          }
+          "key": "color",
+          "name": "BLUE"
         },
         {
           "id": 2,
-          "groupKey": "size",
-          "group": {
-            "key": "size",
-            "name": "S"
-          }
+          "key": "size",
+          "name": "S"
         }
       ],
       "price": 42,
       "discountPrice": null,
       "stock": 52,
-      "image": "https://m.media-amazon.com/images/I/71FPhgxjl5L._AC_SY550_.jpg"
+      "image": "/assets/product/b_5.jpg"
     }
   ],
   "createdAt": "2024-11-17T10:00:00",

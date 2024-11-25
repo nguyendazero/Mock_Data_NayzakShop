@@ -30,5 +30,29 @@
     "createdAt": "2024-11-17T10:00:00",
     "updatedAt": "2024-11-18T12:00:00",
     "deletedAt": null
+  },
+  {
+    "id": 5,
+    "name": "Garden",
+    "image": "https://www.thespruce.com/thmb/IHY_gzo-3Y5terRR2mdPQf0gnSY=/4711x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-start-a-garden-from-scratch-2132778-hero-5f6138784a034bad8bf9607ccb18dbed.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "name": "Kitchen",
+    "image": "https://optimise2.assets-servd.host/thick-groundhog/production/assets/blog/Modern-Kitchen-Trend.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1655129886&s=944383cb01651f8a63ad163f0775c62a",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "name": "Outdoor",
+    "image": "https://leutrai.vn/wp-content/uploads/2023/12/hoat-dong-outdoor-la-gi-1.jpeg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
   }
 ]

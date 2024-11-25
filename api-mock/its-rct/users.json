@@ -6,6 +6,7 @@
     "authAlias": "CRIS",
     "role": "ROLE_ADMIN",
     "status": "online",
+    "avatar": "/assets/user/u_2.jpg",
     "createdAt": "2024-11-17T10:00:00",
     "updatedAt": "2024-11-18T12:00:00",
     "deletedAt": null
@@ -17,6 +18,7 @@
     "authAlias": "ABC",
     "role": "ROLE_USER",
     "status": "online",
+    "avatar": "/assets/user/u_6.jpg",
     "createdAt": "2024-11-17T10:00:00",
     "updatedAt": "2024-11-18T12:00:00",
     "deletedAt": null
@@ -28,6 +30,7 @@
     "authAlias": "XYZ",
     "role": "ROLE_USER",
     "status": "online",
+    "avatar": "/assets/user/u_7.jpg",
     "createdAt": "2024-11-17T10:00:00",
     "updatedAt": "2024-11-18T12:00:00",
     "deletedAt": null

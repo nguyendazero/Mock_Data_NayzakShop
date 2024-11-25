@@ -3,7 +3,7 @@
   "images": [
     {
       "id": 56,
-      "url": "https://m.media-amazon.com/images/I/61y4TfRVLgL._AC_SY741_.jpg"
+      "url": "/assets/product/g_2.jpg"
     }
   ],
   "stars": 4.5,
@@ -15,7 +15,7 @@
     "authAlias": "abc",
     "role": "ROLE_USER",
     "status": "online",
-    "avatar": "https://cdn.aicschool.edu.vn/wp-content/uploads/2024/08/avatar-anime-nu-cute.jpg"
+    "avatar": "/assets/user/u_5.jpg"
   },
   "createdAt": "2024-11-17T10:00:00",
   "updatedAt": null,

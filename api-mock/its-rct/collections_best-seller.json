@@ -1,79 +1,39 @@
 [
   {
-    "id": 10,
-    "highlightedImage": "https://m.media-amazon.com/images/I/61hDQfyQtrL._AC_SY550_.jpg",
+    "id": 12,
+    "highlightedImage": "/assets/product/a_1.jpg",
     "images": [
-      {
-        "id": 33,
-        "url": "https://m.media-amazon.com/images/I/61pof42S2-L._AC_SY550_.jpg"
-      },
-      {
-        "id": 34,
-        "url": "https://m.media-amazon.com/images/I/61m2IoqJ5YL._AC_SY550_.jpg"
-      },
-      {
-        "id": 35,
-        "url": "https://m.media-amazon.com/images/I/61ndr7jpLML._AC_SY550_.jpg"
-      },
-      {
-        "id": 36,
-        "url": "https://m.media-amazon.com/images/I/61AWeFZx1CL._AC_SY550_.jpg"
-      }
+      { "id": 41, "url": "/assets/product/a_2.jpg" },
+      { "id": 42, "url": "/assets/product/a_3.jpg" },
+      { "id": 43, "url": "/assets/product/a_4.jpg" },
+      { "id": 44, "url": "/assets/product/a_5.jpg" }
     ],
-    "rating": 4.6,
-    "reviewCount": 432,
-    "viewCount": 1205,
-    "name": "AUTOMET Womens Sweatshirts Half",
-    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
-    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "rating": 4.3,
+    "reviewCount": 213,
+    "viewCount": 1015,
+    "name": "AUTOMET Women Winter Coat",
+    "shortDescription": "Perfect for chilly evenings.",
+    "description": "*Soft and warm wool fabric. *Available in various colors and sizes. *Ideal for casual and formal wear.",
     "availableVariants": [
       {
         "variants": [
-          {
-            "id": 1,
-            "groupKey": "1",
-            "group": {
-              "key": "color",
-              "name": "GREEN"
-            }
-          },
-          {
-            "id": 2,
-            "groupKey": "2",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
-          }
+          { "id": 1, "key": "color", "name": "BLACK" },
+          { "id": 2, "key": "size", "name": "M" }
         ],
-        "price": 40,
+        "price": 95,
         "discountPrice": null,
-        "stock": 46,
-        "image": "https://m.media-amazon.com/images/I/61HCJhtrGZL._AC_SY550_.jpg"
+        "stock": 58,
+        "image": "/assets/product/a_2.jpg"
       },
       {
         "variants": [
-          {
-            "id": 1,
-            "groupKey": "1",
-            "group": {
-              "key": "color",
-              "name": "ORANGE"
-            }
-          },
-          {
-            "id": 2,
-            "groupKey": "2",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
-          }
+          { "id": 1, "key": "color", "name": "GREY" },
+          { "id": 2, "key": "size", "name": "L" }
         ],
-        "price": 72,
+        "price": 100,
         "discountPrice": null,
-        "stock": 156,
-        "image": "https://m.media-amazon.com/images/I/61lNxawawAL._AC_SY550_.jpg"
+        "stock": 92,
+        "image": "/assets/product/a_3.jpg"
       }
     ],
     "createdAt": "2024-11-17T10:00:00",
@@ -81,80 +41,368 @@
     "deletedAt": null
   },
   {
-    "id": 11,
-    "highlightedImage": "https://m.media-amazon.com/images/I/71gWaNJC1WL._AC_SY741_.jpg",
+    "id": 13,
+    "highlightedImage": "/assets/product/b_1.jpg",
     "images": [
-      {
-        "id": 37,
-        "url": "https://m.media-amazon.com/images/I/811dMUmljPL._AC_SY550_.jpg"
-      },
-      {
-        "id": 38,
-        "url": "https://m.media-amazon.com/images/I/71k50+OFGnL._AC_SY550_.jpg"
-      },
-      {
-        "id": 39,
-        "url": "https://m.media-amazon.com/images/I/81f7FL-1xbL._AC_SY550_.jpg"
-      },
-      {
-        "id": 40,
-        "url": "https://m.media-amazon.com/images/I/81ZmgLXTjPL._AC_SY550_.jpg"
-      }
+      { "id": 45, "url": "/assets/product/b_2.jpg" },
+      { "id": 46, "url": "/assets/product/b_3.jpg" },
+      { "id": 47, "url": "/assets/product/b_4.jpg" },
+      { "id": 48, "url": "/assets/product/b_5.jpg" }
     ],
-    "rating": 5,
-    "reviewCount": 162,
-    "viewCount": 2132,
-    "name": "Trendy Queen Women's Oversized Cable",
-    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
-    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "rating": 4.7,
+    "reviewCount": 524,
+    "viewCount": 2101,
+    "name": "Breezy Summer Dress",
+    "shortDescription": "Perfect for hot summer days.",
+    "description": "*Lightweight and breathable cotton fabric. *Elegant and stylish design. *Available in multiple colors.",
     "availableVariants": [
       {
         "variants": [
-          {
-            "id": 1,
-            "groupKey": "1",
-            "group": {
-              "key": "color",
-              "name": "GREEN"
-            }
-          },
-          {
-            "id": 2,
-            "groupKey": "2",
-            "group": {
-              "key": "size",
-              "name": "L"
-            }
-          }
+          { "id": 1, "key": "color", "name": "RED" },
+          { "id": 2, "key": "size", "name": "S" }
         ],
-        "price": 80,
+        "price": 45,
         "discountPrice": null,
-        "stock": 75,
-        "image": "https://m.media-amazon.com/images/I/71qQtDo4rML._AC_SY550_.jpg"
+        "stock": 122,
+        "image": "/assets/product/b_2.jpg"
       },
       {
         "variants": [
-          {
-            "id": 1,
-            "groupKey": "1",
-            "group": {
-              "key": "color",
-              "name": "PINK"
-            }
-          },
-          {
-            "id": 2,
-            "groupKey": "2",
-            "group": {
-              "key": "size",
-              "name": "S"
-            }
-          }
+          { "id": 1, "key": "color", "name": "BLUE" },
+          { "id": 2, "key": "size", "name": "M" }
         ],
-        "price": 27,
+        "price": 50,
         "discountPrice": null,
-        "stock": 164,
-        "image": "https://m.media-amazon.com/images/I/71-6KriYxJL._AC_SY550_.jpg"
+        "stock": 84,
+        "image": "/assets/product/b_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 14,
+    "highlightedImage": "/assets/product/c_1.jpg",
+    "images": [
+      { "id": 49, "url": "/assets/product/c_2.jpg" },
+      { "id": 50, "url": "/assets/product/c_3.jpg" },
+      { "id": 51, "url": "/assets/product/c_4.jpg" },
+      { "id": 52, "url": "/assets/product/c_5.jpg" }
+    ],
+    "rating": 4.5,
+    "reviewCount": 378,
+    "viewCount": 1502,
+    "name": "Classic Casual Jacket",
+    "shortDescription": "A must-have for every season.",
+    "description": "*Durable and versatile fabric. *Comfortable fit, perfect for layering. *Available in neutral shades.",
+    "availableVariants": [
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "NAVY" },
+          { "id": 2, "key": "size", "name": "L" }
+        ],
+        "price": 65,
+        "discountPrice": null,
+        "stock": 120,
+        "image": "/assets/product/c_2.jpg"
+      },
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "CHARCOAL" },
+          { "id": 2, "key": "size", "name": "XL" }
+        ],
+        "price": 70,
+        "discountPrice": null,
+        "stock": 98,
+        "image": "/assets/product/c_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 15,
+    "highlightedImage": "/assets/product/d_1.jpg",
+    "images": [
+      { "id": 53, "url": "/assets/product/d_2.jpg" },
+      { "id": 54, "url": "/assets/product/d_3.jpg" },
+      { "id": 55, "url": "/assets/product/d_4.jpg" },
+      { "id": 56, "url": "/assets/product/d_5.jpg" }
+    ],
+    "rating": 4.8,
+    "reviewCount": 157,
+    "viewCount": 788,
+    "name": "Deluxe Leather Handbag",
+    "shortDescription": "Stylish and durable leather handbag.",
+    "description": "*Premium quality leather. *Sleek and modern design. *Available in classic colors.",
+    "availableVariants": [
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "BLACK" },
+          { "id": 2, "key": "size", "name": "M" }
+        ],
+        "price": 120,
+        "discountPrice": 105,
+        "stock": 45,
+        "image": "/assets/product/d_2.jpg"
+      },
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "BROWN" },
+          { "id": 2, "key": "size", "name": "L" }
+        ],
+        "price": 130,
+        "discountPrice": 115,
+        "stock": 60,
+        "image": "/assets/product/d_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 16,
+    "highlightedImage": "/assets/product/e_1.jpg",
+    "images": [
+      { "id": 57, "url": "/assets/product/e_2.jpg" },
+      { "id": 58, "url": "/assets/product/e_3.jpg" },
+      { "id": 59, "url": "/assets/product/e_4.jpg" },
+      { "id": 60, "url": "/assets/product/e_5.jpg" }
+    ],
+    "rating": 5,
+    "reviewCount": 300,
+    "viewCount": 1020,
+    "name": "Elegant Silk Scarf",
+    "shortDescription": "Luxurious silk scarf for all occasions.",
+    "description": "*Soft and smooth silk material. *Can be worn in various ways. *Perfect for adding elegance to any outfit.",
+    "availableVariants": [
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "RED" },
+          { "id": 2, "key": "size", "name": "ONE SIZE" }
+        ],
+        "price": 50,
+        "discountPrice": 45,
+        "stock": 120,
+        "image": "/assets/product/e_2.jpg"
+      },
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "GOLD" },
+          { "id": 2, "key": "size", "name": "ONE SIZE" }
+        ],
+        "price": 55,
+        "discountPrice": 50,
+        "stock": 75,
+        "image": "/assets/product/e_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 17,
+    "highlightedImage": "/assets/product/f_1.jpg",
+    "images": [
+      { "id": 61, "url": "/assets/product/f_2.jpg" },
+      { "id": 62, "url": "/assets/product/f_3.jpg" },
+      { "id": 63, "url": "/assets/product/f_4.jpg" },
+      { "id": 64, "url": "/assets/product/f_5.jpg" }
+    ],
+    "rating": 4.9,
+    "reviewCount": 410,
+    "viewCount": 1601,
+    "name": "Feminine Floral Blouse",
+    "shortDescription": "Floral design with a feminine touch.",
+    "description": "*Delicate floral patterns. *Light and airy fabric. *Available in different sizes.",
+    "availableVariants": [
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "WHITE" },
+          { "id": 2, "key": "size", "name": "S" }
+        ],
+        "price": 35,
+        "discountPrice": 30,
+        "stock": 150,
+        "image": "/assets/product/f_2.jpg"
+      },
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "PINK" },
+          { "id": 2, "key": "size", "name": "M" }
+        ],
+        "price": 40,
+        "discountPrice": 35,
+        "stock": 130,
+        "image": "/assets/product/f_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 18,
+    "highlightedImage": "/assets/product/g_1.jpg",
+    "images": [
+      { "id": 65, "url": "/assets/product/g_2.jpg" },
+      { "id": 66, "url": "/assets/product/g_3.jpg" },
+      { "id": 67, "url": "/assets/product/g_4.jpg" },
+      { "id": 68, "url": "/assets/product/g_5.jpg" }
+    ],
+    "rating": 4.6,
+    "reviewCount": 190,
+    "viewCount": 804,
+    "name": "Glamorous Evening Gown",
+    "shortDescription": "Shine brightly at your next event.",
+    "description": "*Elegant and sophisticated design. *Made from high-quality fabric. *Perfect for formal events.",
+    "availableVariants": [
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "BLACK" },
+          { "id": 2, "key": "size", "name": "M" }
+        ],
+        "price": 150,
+        "discountPrice": 135,
+        "stock": 45,
+        "image": "/assets/product/g_2.jpg"
+      },
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "SILVER" },
+          { "id": 2, "key": "size", "name": "L" }
+        ],
+        "price": 160,
+        "discountPrice": 145,
+        "stock": 30,
+        "image": "/assets/product/g_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 19,
+    "highlightedImage": "/assets/product/h_1.jpg",
+    "images": [
+      { "id": 69, "url": "/assets/product/h_2.jpg" },
+      { "id": 70, "url": "/assets/product/h_3.jpg" },
+      { "id": 71, "url": "/assets/product/h_4.jpg" },
+      { "id": 72, "url": "/assets/product/h_5.jpg" }
+    ],
+    "rating": 4.4,
+    "reviewCount": 335,
+    "viewCount": 1242,
+    "name": "Handsome Leather Wallet",
+    "shortDescription": "Durable leather wallet for everyday use.",
+    "description": "*Genuine leather material. *Multiple compartments for cards and cash. *Available in black and brown.",
+    "availableVariants": [
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "BLACK" },
+          { "id": 2, "key": "size", "name": "M" }
+        ],
+        "price": 35,
+        "discountPrice": null,
+        "stock": 90,
+        "image": "/assets/product/h_2.jpg"
+      },
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "BROWN" },
+          { "id": 2, "key": "size", "name": "L" }
+        ],
+        "price": 40,
+        "discountPrice": null,
+        "stock": 112,
+        "image": "/assets/product/h_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 20,
+    "highlightedImage": "/assets/product/i_1.jpg",
+    "images": [
+      { "id": 73, "url": "/assets/product/i_2.jpg" },
+      { "id": 74, "url": "/assets/product/i_3.jpg" },
+      { "id": 75, "url": "/assets/product/i_4.jpg" },
+      { "id": 76, "url": "/assets/product/i_5.jpg" }
+    ],
+    "rating": 4.8,
+    "reviewCount": 520,
+    "viewCount": 2004,
+    "name": "Ivy Green Silk Dress",
+    "shortDescription": "A touch of class with every step.",
+    "description": "*Elegant silk fabric. *Perfect fit for evening parties. *Available in various sizes.",
+    "availableVariants": [
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "GREEN" },
+          { "id": 2, "key": "size", "name": "S" }
+        ],
+        "price": 80,
+        "discountPrice": 75,
+        "stock": 90,
+        "image": "/assets/product/i_2.jpg"
+      },
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "EMERALD" },
+          { "id": 2, "key": "size", "name": "M" }
+        ],
+        "price": 85,
+        "discountPrice": 80,
+        "stock": 115,
+        "image": "/assets/product/i_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 21,
+    "highlightedImage": "/assets/product/r_1.jpg",
+    "images": [
+      { "id": 73, "url": "/assets/product/r_2.jpg" },
+      { "id": 74, "url": "/assets/product/r_3.jpg" },
+      { "id": 75, "url": "/assets/product/r_4.jpg" },
+      { "id": 76, "url": "/assets/product/r_5.jpg" }
+    ],
+    "rating": 4.8,
+    "reviewCount": 520,
+    "viewCount": 2004,
+    "name": "Ivy Green Silk Dress",
+    "shortDescription": "A touch of class with every step.",
+    "description": "*Elegant silk fabric. *Perfect fit for evening parties. *Available in various sizes.",
+    "availableVariants": [
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "GREEN" },
+          { "id": 2, "key": "size", "name": "S" }
+        ],
+        "price": 80,
+        "discountPrice": 75,
+        "stock": 90,
+        "image": "/assets/product/r_2.jpg"
+      },
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "EMERALD" },
+          { "id": 2, "key": "size", "name": "M" }
+        ],
+        "price": 85,
+        "discountPrice": 80,
+        "stock": 115,
+        "image": "/assets/product/r_3.jpg"
       }
     ],
     "createdAt": "2024-11-17T10:00:00",
