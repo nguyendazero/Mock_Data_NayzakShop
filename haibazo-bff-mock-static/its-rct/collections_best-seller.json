@@ -17,8 +17,18 @@
     "availableVariants": [
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "BLACK" },
-          { "id": 2, "key": "size", "name": "M" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLUE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "S"
+          }
         ],
         "price": 95,
         "discountPrice": null,
@@ -27,8 +37,18 @@
       },
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "GREY" },
-          { "id": 2, "key": "size", "name": "L" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "S"
+          }
         ],
         "price": 100,
         "discountPrice": null,
@@ -58,8 +78,18 @@
     "availableVariants": [
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "RED" },
-          { "id": 2, "key": "size", "name": "S" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "M"
+          }
         ],
         "price": 45,
         "discountPrice": null,
@@ -68,8 +98,18 @@
       },
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "BLUE" },
-          { "id": 2, "key": "size", "name": "M" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "RED"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "XL"
+          }
         ],
         "price": 50,
         "discountPrice": null,
@@ -99,8 +139,18 @@
     "availableVariants": [
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "NAVY" },
-          { "id": 2, "key": "size", "name": "L" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "ORANGE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "XXL"
+          }
         ],
         "price": 65,
         "discountPrice": null,
@@ -109,8 +159,18 @@
       },
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "CHARCOAL" },
-          { "id": 2, "key": "size", "name": "XL" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLUE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "S"
+          }
         ],
         "price": 70,
         "discountPrice": null,
@@ -140,8 +200,18 @@
     "availableVariants": [
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "BLACK" },
-          { "id": 2, "key": "size", "name": "M" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "YELLOW"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "L"
+          }
         ],
         "price": 120,
         "discountPrice": 105,
@@ -150,8 +220,18 @@
       },
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "BROWN" },
-          { "id": 2, "key": "size", "name": "L" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "RED"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "L"
+          }
         ],
         "price": 130,
         "discountPrice": 115,
@@ -181,8 +261,18 @@
     "availableVariants": [
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "RED" },
-          { "id": 2, "key": "size", "name": "ONE SIZE" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLUE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "M"
+          }
         ],
         "price": 50,
         "discountPrice": 45,
@@ -191,8 +281,18 @@
       },
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "GOLD" },
-          { "id": 2, "key": "size", "name": "ONE SIZE" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "M"
+          }
         ],
         "price": 55,
         "discountPrice": 50,
@@ -222,8 +322,18 @@
     "availableVariants": [
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "WHITE" },
-          { "id": 2, "key": "size", "name": "S" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "PURPLE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "S"
+          }
         ],
         "price": 35,
         "discountPrice": 30,
@@ -232,8 +342,18 @@
       },
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "PINK" },
-          { "id": 2, "key": "size", "name": "M" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "PINK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "S"
+          }
         ],
         "price": 40,
         "discountPrice": 35,
@@ -263,8 +383,18 @@
     "availableVariants": [
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "BLACK" },
-          { "id": 2, "key": "size", "name": "M" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "WHITE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "L"
+          }
         ],
         "price": 150,
         "discountPrice": 135,
@@ -273,8 +403,18 @@
       },
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "SILVER" },
-          { "id": 2, "key": "size", "name": "L" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "WHITE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "M"
+          }
         ],
         "price": 160,
         "discountPrice": 145,
@@ -304,8 +444,18 @@
     "availableVariants": [
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "BLACK" },
-          { "id": 2, "key": "size", "name": "M" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLUE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "L"
+          }
         ],
         "price": 35,
         "discountPrice": null,
@@ -314,8 +464,18 @@
       },
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "BROWN" },
-          { "id": 2, "key": "size", "name": "L" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLUE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "XXL"
+          }
         ],
         "price": 40,
         "discountPrice": null,
@@ -345,8 +505,18 @@
     "availableVariants": [
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "GREEN" },
-          { "id": 2, "key": "size", "name": "S" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "RED"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "M"
+          }
         ],
         "price": 80,
         "discountPrice": 75,
@@ -355,8 +525,18 @@
       },
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "EMERALD" },
-          { "id": 2, "key": "size", "name": "M" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "L"
+          }
         ],
         "price": 85,
         "discountPrice": 80,
@@ -386,8 +566,18 @@
     "availableVariants": [
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "GREEN" },
-          { "id": 2, "key": "size", "name": "S" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "S"
+          }
         ],
         "price": 80,
         "discountPrice": 75,
@@ -396,8 +586,18 @@
       },
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "EMERALD" },
-          { "id": 2, "key": "size", "name": "M" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "RED"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "S"
+          }
         ],
         "price": 85,
         "discountPrice": 80,

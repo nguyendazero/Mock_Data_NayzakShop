@@ -17,8 +17,18 @@
     "availableVariants": [
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "BLUE" },
-          { "id": 2, "key": "size", "name": "SMALL" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLUE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "S"
+          }
         ],
         "price": 59,
         "discountPrice": null,
@@ -27,8 +37,18 @@
       },
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "RED" },
-          { "id": 2, "key": "size", "name": "MEDIUM" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "RED"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "S"
+          }
         ],
         "price": 69,
         "discountPrice": 65,
@@ -58,8 +78,18 @@
     "availableVariants": [
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "BLACK" },
-          { "id": 2, "key": "size", "name": "SMALL" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "S"
+          }
         ],
         "price": 149,
         "discountPrice": null,
@@ -68,8 +98,18 @@
       },
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "SILVER" },
-          { "id": 2, "key": "size", "name": "LARGE" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLUE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "L"
+          }
         ],
         "price": 169,
         "discountPrice": 159,
@@ -99,8 +139,18 @@
     "availableVariants": [
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "BLACK" },
-          { "id": 2, "key": "size", "name": "STANDARD" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "YELLO"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "M"
+          }
         ],
         "price": 199,
         "discountPrice": null,
@@ -109,8 +159,18 @@
       },
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "WHITE" },
-          { "id": 2, "key": "size", "name": "LARGE" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "S"
+          }
         ],
         "price": 219,
         "discountPrice": 199,
@@ -140,8 +200,18 @@
     "availableVariants": [
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "GOLD" },
-          { "id": 2, "key": "size", "name": "128GB" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "L"
+          }
         ],
         "price": 349,
         "discountPrice": null,
@@ -150,8 +220,18 @@
       },
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "SILVER" },
-          { "id": 2, "key": "size", "name": "256GB" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "RED"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "S"
+          }
         ],
         "price": 399,
         "discountPrice": 379,
@@ -181,8 +261,18 @@
     "availableVariants": [
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "BLACK" },
-          { "id": 2, "key": "size", "name": "1TB SSD" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLUE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "XXL"
+          }
         ],
         "price": 1499,
         "discountPrice": null,
@@ -191,8 +281,18 @@
       },
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "GREY" },
-          { "id": 2, "key": "size", "name": "512GB SSD" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "S"
+          }
         ],
         "price": 1399,
         "discountPrice": 1299,
@@ -222,8 +322,18 @@
     "availableVariants": [
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "BLACK" },
-          { "id": 2, "key": "size", "name": "55-inch" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "PINK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "S"
+          }
         ],
         "price": 899,
         "discountPrice": null,
@@ -232,8 +342,18 @@
       },
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "SILVER" },
-          { "id": 2, "key": "size", "name": "65-inch" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLUE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "L"
+          }
         ],
         "price": 999,
         "discountPrice": 949,
@@ -263,8 +383,18 @@
     "availableVariants": [
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "BLACK" },
-          { "id": 2, "key": "size", "name": "SMALL" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLUE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "XL"
+          }
         ],
         "price": 79,
         "discountPrice": null,
@@ -273,8 +403,18 @@
       },
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "WHITE" },
-          { "id": 2, "key": "size", "name": "LARGE" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLUE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "s"
+          }
         ],
         "price": 89,
         "discountPrice": 79,
@@ -304,8 +444,18 @@
     "availableVariants": [
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "BLACK" },
-          { "id": 2, "key": "size", "name": "SMALL" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "BLUE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "XXL"
+          }
         ],
         "price": 49,
         "discountPrice": null,
@@ -314,8 +464,18 @@
       },
       {
         "variants": [
-          { "id": 1, "key": "color", "name": "GREEN" },
-          { "id": 2, "key": "size", "name": "LARGE" }
+          {
+            "id": 1,
+            "key": "color",
+            "name": "Color",
+            "value": "RED"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "Size",
+            "value": "S"
+          }
         ],
         "price": 59,
         "discountPrice": 55,
@@ -360,12 +520,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "BLACK"
+            "name": "Color",
+            "value": "BLUE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "SMALL"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 199,
@@ -378,12 +540,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "SILVER"
+            "name": "Color",
+            "value": "BLUE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "LARGE"
+            "name": "Size",
+            "value": "M"
           }
         ],
         "price": 220,
@@ -429,12 +593,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "BLACK"
+            "name": "Color",
+            "value": "GREEN"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "SMALL"
+            "name": "Size",
+            "value": "M"
           }
         ],
         "price": 199,
@@ -447,12 +613,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "SILVER"
+            "name": "Color",
+            "value": "BLUE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "LARGE"
+            "name": "Size",
+            "value": "L"
           }
         ],
         "price": 220,

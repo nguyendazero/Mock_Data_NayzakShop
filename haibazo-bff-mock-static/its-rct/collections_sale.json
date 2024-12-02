@@ -32,12 +32,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "BLACK"
+            "name": "Color",
+            "value": "BLUE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "SMALL"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 199,
@@ -50,12 +52,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "SILVER"
+            "name": "Color",
+            "value": "BLUE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "LARGE"
+            "name": "Size",
+            "value": "L"
           }
         ],
         "price": 220,
@@ -101,12 +105,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "BLACK"
+            "name": "Color",
+            "value": "GREEN"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "COMPACT"
+            "name": "Size",
+            "value": "L"
           }
         ],
         "price": 120,
@@ -119,12 +125,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "RED"
+            "name": "Color",
+            "value": "GREEN"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "LARGE"
+            "name": "Size",
+            "value": "M"
           }
         ],
         "price": 140,
@@ -170,12 +178,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "BLACK"
+            "name": "Color",
+            "value": "RED"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "15 INCH"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 1499,
@@ -188,12 +198,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "SILVER"
+            "name": "Color",
+            "value": "RED"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "17 INCH"
+            "name": "Size",
+            "value": "XXL"
           }
         ],
         "price": 1599,
@@ -239,12 +251,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "BLACK"
+            "name": "Color",
+            "value": "BLACK"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "ONE SIZE"
+            "name": "Size",
+            "value": "L"
           }
         ],
         "price": 350,
@@ -257,12 +271,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "WHITE"
+            "name": "Color",
+            "value": "BLACK"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "ONE SIZE"
+            "name": "Size",
+            "value": "M"
           }
         ],
         "price": 370,
@@ -308,12 +324,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "BLACK"
+            "name": "Color",
+            "value": "WHITE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "STANDARD"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 30,
@@ -326,12 +344,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "WHITE"
+            "name": "Color",
+            "value": "BLUE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "COMPACT"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 35,
@@ -377,12 +397,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "BLACK"
+            "name": "Color",
+            "value": "BLUE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "55 INCH"
+            "name": "Size",
+            "value": "L"
           }
         ],
         "price": 650,
@@ -395,12 +417,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "SILVER"
+            "name": "Color",
+            "value": "RED"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "65 INCH"
+            "name": "Size",
+            "value": "M"
           }
         ],
         "price": 800,
@@ -446,12 +470,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "BLACK"
+            "name": "Color",
+            "value": "YELLOW"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "STANDARD"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 999,
@@ -464,12 +490,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "WHITE"
+            "name": "Color",
+            "value": "YELLOW"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "LARGE"
+            "name": "Size",
+            "value": "L"
           }
         ],
         "price": 1099,
@@ -515,12 +543,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "BLACK"
+            "name": "Color",
+            "value": "ORANGE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "STANDARD"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 499,
@@ -533,12 +563,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "RED"
+            "name": "Color",
+            "value": "ORANGE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "LARGE"
+            "name": "Size",
+            "value": "L"
           }
         ],
         "price": 520,
@@ -584,12 +616,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "BLACK"
+            "name": "Color",
+            "value": "ORANGE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "128GB"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 899,
@@ -602,12 +636,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "WHITE"
+            "name": "Color",
+            "value": "RED"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "256GB"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 999,
@@ -653,12 +689,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "BLACK"
+            "name": "Color",
+            "value": "BLUE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "LARGE"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 120,
@@ -671,12 +709,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "BROWN"
+            "name": "Color",
+            "value": "BLUE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "MEDIUM"
+            "name": "Size",
+            "value": "L"
           }
         ],
         "price": 130,
@@ -722,12 +762,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "BLACK"
+            "name": "Color",
+            "value": "BLUE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "LARGE"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 120,
@@ -740,12 +782,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "BROWN"
+            "name": "Color",
+            "value": "GREEN"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "MEDIUM"
+            "name": "Size",
+            "value": "M"
           }
         ],
         "price": 130,

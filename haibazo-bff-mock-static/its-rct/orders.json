@@ -36,12 +36,14 @@
             {
               "id": 1,
               "key": "color",
-              "name": "RED"
+              "name": "Color",
+              "value": "BLACK"
             },
             {
               "id": 2,
               "key": "size",
-              "name": "M"
+              "name": "Size",
+              "value": "S"
             }
           ],
           "price": 1,
@@ -83,12 +85,14 @@
             {
               "id": 1,
               "key": "color",
-              "name": "GREEN"
+              "name": "Color",
+              "value": "YELLOW"
             },
             {
               "id": 2,
               "key": "size",
-              "name": "M"
+              "name": "Size",
+              "value": "XXL"
             }
           ],
           "price": 1,
@@ -140,12 +144,14 @@
             {
               "id": 1,
               "key": "color",
-              "name": "RED"
+              "name": "Color",
+              "value": "BLUE"
             },
             {
               "id": 2,
               "key": "size",
-              "name": "M"
+              "name": "Size",
+              "value": "L"
             }
           ],
           "price": 1,
@@ -187,12 +193,14 @@
             {
               "id": 1,
               "key": "color",
-              "name": "GREEN"
+              "name": "Color",
+              "value": "GREEN"
             },
             {
               "id": 2,
               "key": "size",
-              "name": "M"
+              "name": "Size",
+              "value": "S"
             }
           ],
           "price": 1,

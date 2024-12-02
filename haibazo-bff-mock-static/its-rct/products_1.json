@@ -31,12 +31,14 @@
         {
           "id": 1,
           "key": "color",
-          "name": "GREEN"
+          "name": "Color",
+          "value": "ORANGE"
         },
         {
           "id": 2,
           "key": "size",
-          "name": "L"
+          "name": "Size",
+          "value": "S"
         }
       ],
       "price": 20,
@@ -49,12 +51,14 @@
         {
           "id": 1,
           "key": "color",
-          "name": "BLUE"
+          "name": "Color",
+          "value": "RED"
         },
         {
           "id": 2,
           "key": "size",
-          "name": "S"
+          "name": "Size",
+          "value": "M"
         }
       ],
       "price": 42,

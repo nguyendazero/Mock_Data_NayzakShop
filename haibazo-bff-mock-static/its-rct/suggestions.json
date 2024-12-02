@@ -32,12 +32,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "GREEN"
+            "name": "Color",
+            "value": "RED"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "L"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 40,
@@ -50,12 +52,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "ORANGE"
+            "name": "Color",
+            "value": "BLUE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "L"
+            "name": "Size",
+            "value": "XXL"
           }
         ],
         "price": 14,
@@ -101,12 +105,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "GREEN"
+            "name": "Color",
+            "value": "GREEN"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "L"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 20,
@@ -119,12 +125,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "BLUE"
+            "name": "Color",
+            "value": "PINK"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "S"
+            "name": "Size",
+            "value": "XL"
           }
         ],
         "price": 42,
@@ -170,12 +178,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "GREEN"
+            "name": "Color",
+            "value": "PINK"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "L"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 20,
@@ -188,12 +198,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "PINK"
+            "name": "Color",
+            "value": "BLACK"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "L"
+            "name": "Size",
+            "value": "L"
           }
         ],
         "price": 32,
@@ -239,12 +251,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "GREEN"
+            "name": "Color",
+            "value": "BLUE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "L"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 20,
@@ -257,12 +271,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "WHITE"
+            "name": "Color",
+            "value": "YELLOW"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "S"
+            "name": "Size",
+            "value": "M"
           }
         ],
         "price": 14,
@@ -308,12 +324,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "GREEN"
+            "name": "Color",
+            "value": "RED"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "L"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 20,
@@ -326,12 +344,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "PINK"
+            "name": "Color",
+            "value": "WHITE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "L"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 32,
@@ -377,12 +397,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "GREEN"
+            "name": "Color",
+            "value": "PINK"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "L"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 20,
@@ -395,12 +417,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "PINK"
+            "name": "Color",
+            "value": "PINK"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "L"
+            "name": "Size",
+            "value": "L"
           }
         ],
         "price": 32,
@@ -446,12 +470,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "GREEN"
+            "name": "Color",
+            "value": "BLUE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "L"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 20,
@@ -464,12 +490,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "PINK"
+            "name": "Color",
+            "value": "BLUE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "L"
+            "name": "Size",
+            "value": "L"
           }
         ],
         "price": 32,
@@ -515,12 +543,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "GREEN"
+            "name": "Color",
+            "value": "WIHTE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "L"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 20,
@@ -533,12 +563,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "PINK"
+            "name": "Color",
+            "value": "BLUE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "L"
+            "name": "Size",
+            "value": "L"
           }
         ],
         "price": 32,
@@ -584,12 +616,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "GREEN"
+            "name": "Color",
+            "value": "PINK"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "L"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 20,
@@ -602,12 +636,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "PINK"
+            "name": "Color",
+            "value": "BLUE"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "L"
+            "name": "Size",
+            "value": "L"
           }
         ],
         "price": 32,
@@ -653,12 +689,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "GREEN"
+            "name": "Color",
+            "value": "RED"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "L"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 20,
@@ -671,12 +709,14 @@
           {
             "id": 1,
             "key": "color",
-            "name": "PINK"
+            "name": "Color",
+            "value": "RED"
           },
           {
             "id": 2,
             "key": "size",
-            "name": "L"
+            "name": "Size",
+            "value": "S"
           }
         ],
         "price": 32,
