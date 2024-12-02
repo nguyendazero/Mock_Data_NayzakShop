@@ -1,0 +1,46 @@
+{
+  "id": 0,
+  "title": "3 Instagram-Inspired Interior Design Trends to Buy, Like, Immediately",
+  "content": "http://content_post.com",
+  "image": "/assets/post/p_1.jpg",
+  "users":{
+    "id": 1,
+    "name": "Nguyen Thi ABC",
+    "haibazoAuthAlias": "AbcNT",
+    "authAlias": "abc",
+    "role": "ROLE_USER",
+    "status": "online",
+    "avatar": "/assets/user/u_1.jpg"
+  },
+  "viewCount": 420,
+  "commentCount": 20,
+  "tags": [
+    {
+      "name": "spring",
+      "createdAt": "2024-11-17T10:00:00",
+      "updatedAt": "2024-11-18T12:00:00",
+      "deletedAt": null
+    },
+    {
+      "name": "summer",
+      "createdAt": "2024-11-17T10:00:00",
+      "updatedAt": "2024-11-18T12:00:00",
+      "deletedAt": null
+    },
+    {
+      "name": "autumn",
+      "createdAt": "2024-11-17T10:00:00",
+      "updatedAt": "2024-11-18T12:00:00",
+      "deletedAt": null
+    },
+    {
+      "name": "winter",
+      "createdAt": "2024-11-17T10:00:00",
+      "updatedAt": "2024-11-18T12:00:00",
+      "deletedAt": null
+    }
+  ],
+  "createdAt": "2024-11-17T10:00:00",
+  "updatedAt": "2024-11-18T12:00:00",
+  "deletedAt": null
+}

@@ -1,11 +1,41 @@
 services:
-  its-rct-api-mock:
-    image: haibazo/its-rct-api-mock:latest
+  haibazo-bff-mock-webapi-development:
+    image: hbzkhanhnk/haibazo-bff-mock-webapi:1.0.1
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: haibazo-its-rct-api-mock
+      target: haibazo-bff-mock-webapi-runner
+    container_name: haibazo-bff-mock-webapi-development
     ports:
-      - "2180:8080"
+      - "2380:8080"
     volumes:
-      - ./api-mock:/app/api-mock
+      - ./haibazo-bff-mock-static:/app/haibazo-bff-mock-static
+    env_file:
+      - path: ./.env.development
+        required: false
+
+  haibazo-bff-mock-webapi-st-a:
+    image: hbzkhanhnk/haibazo-bff-mock-webapi:1.0.1
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: haibazo-bff-mock-webapi-runner
+    container_name: haibazo-bff-mock-webapi-st-a
+    ports:
+      - "2301:8080"
+    env_file:
+      - path: ./.env.st-a
+        required: false
+
+  haibazo-bff-mock-webapi-st-b:
+    image: hbzkhanhnk/haibazo-bff-mock-webapi:1.0.1
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: haibazo-bff-mock-webapi-runner
+    container_name: haibazo-bff-mock-webapi-st-b
+    ports:
+      - "2302:8080"
+    env_file:
+      - path: ./.env.st-b
+        required: false

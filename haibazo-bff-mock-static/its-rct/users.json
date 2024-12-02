@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Nguyen Da Da",
+    "haibazoAuthAlias": "DaND",
+    "authAlias": "CRIS",
+    "role": "ROLE_ADMIN",
+    "status": "online",
+    "avatar": "/assets/user/u_2.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "name": "Tran Van ABC",
+    "haibazoAuthAlias": "AbcTV",
+    "authAlias": "ABC",
+    "role": "ROLE_USER",
+    "status": "online",
+    "avatar": "/assets/user/u_6.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "name": "Nguyen Thi XYZ",
+    "haibazoAuthAlias": "XyzNT",
+    "authAlias": "XYZ",
+    "role": "ROLE_USER",
+    "status": "online",
+    "avatar": "/assets/user/u_7.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  }
+]

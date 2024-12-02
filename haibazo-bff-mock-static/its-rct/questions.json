@@ -1,0 +1,25 @@
+{
+  "id": 10,
+  "content": "what is that?",
+  "images": [
+    {
+      "id": 50,
+      "url": "/assets/product/j_1.jpg"
+    },
+    {
+      "id": 51,
+      "url": "/assets/product/j_5.jpg"
+    }
+  ],
+  "users":{
+    "id": 1,
+    "name": "Nguyen Thi ABC",
+    "role": "ROLE_USER",
+    "status": "online",
+    "avatar": "/assets/user/u_7.jpg"
+  },
+  "answer": null,
+  "createdAt": "2024-11-17T10:00:00",
+  "updatedAt": null,
+  "deletedAt": null
+}

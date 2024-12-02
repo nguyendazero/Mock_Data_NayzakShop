@@ -1,0 +1,69 @@
+{
+  "id": 1,
+  "highlightedImage": "/assets/product/b_1.jpg",
+  "images": [
+    {
+      "id": 1,
+      "url": "/assets/product/b_2.jpg"
+    },
+    {
+      "id": 2,
+      "url": "/assets/product/b_3.jpg"
+    },
+    {
+      "id": 3,
+      "url": "/assets/product/b_4.jpg"
+    },
+    {
+      "id": 4,
+      "url": "/assets/product/b_5.jpg"
+    }
+  ],
+  "rating": 4,
+  "reviewCount": 20,
+  "viewCount": 157,
+  "name": "Dokotoo Womens 2024 Sweaters",
+  "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+  "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+  "availableVariants": [
+    {
+      "variants": [
+        {
+          "id": 1,
+          "key": "color",
+          "name": "GREEN"
+        },
+        {
+          "id": 2,
+          "key": "size",
+          "name": "L"
+        }
+      ],
+      "price": 20,
+      "discountPrice": null,
+      "stock": 23,
+      "image": "/assets/product/b_2.jpg"
+    },
+    {
+      "variants": [
+        {
+          "id": 1,
+          "key": "color",
+          "name": "BLUE"
+        },
+        {
+          "id": 2,
+          "key": "size",
+          "name": "S"
+        }
+      ],
+      "price": 42,
+      "discountPrice": null,
+      "stock": 52,
+      "image": "/assets/product/b_5.jpg"
+    }
+  ],
+  "createdAt": "2024-11-17T10:00:00",
+  "updatedAt": "2024-11-18T12:00:00",
+  "deletedAt": null
+}

@@ -1,0 +1,468 @@
+[
+  {
+    "id": 21,
+    "highlightedImage": "/assets/product/p_1.jpg",
+    "images": [
+      { "id": 97, "url": "/assets/product/p_2.jpg" },
+      { "id": 98, "url": "/assets/product/p_3.jpg" },
+      { "id": 99, "url": "/assets/product/p_4.jpg" },
+      { "id": 100, "url": "/assets/product/p_5.jpg" }
+    ],
+    "rating": 4.8,
+    "reviewCount": 110,
+    "viewCount": 500,
+    "name": "Portable Speaker X",
+    "shortDescription": "Compact and powerful portable speaker.",
+    "description": "*Bluetooth connectivity. *12 hours battery life. *Water-resistant.",
+    "availableVariants": [
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "BLUE" },
+          { "id": 2, "key": "size", "name": "SMALL" }
+        ],
+        "price": 59,
+        "discountPrice": null,
+        "stock": 150,
+        "image": "/assets/product/p_2.jpg"
+      },
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "RED" },
+          { "id": 2, "key": "size", "name": "MEDIUM" }
+        ],
+        "price": 69,
+        "discountPrice": 65,
+        "stock": 100,
+        "image": "/assets/product/p_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-18T09:00:00",
+    "updatedAt": "2024-11-18T11:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 22,
+    "highlightedImage": "/assets/product/q_1.jpg",
+    "images": [
+      { "id": 101, "url": "/assets/product/q_2.jpg" },
+      { "id": 102, "url": "/assets/product/q_3.jpg" },
+      { "id": 103, "url": "/assets/product/q_4.jpg" },
+      { "id": 104, "url": "/assets/product/q_5.jpg" }
+    ],
+    "rating": 4.5,
+    "reviewCount": 120,
+    "viewCount": 530,
+    "name": "Smart Watch Pro",
+    "shortDescription": "Sleek smart watch with fitness tracking features.",
+    "description": "*Heart rate monitor. *Waterproof design. *Supports notifications.",
+    "availableVariants": [
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "BLACK" },
+          { "id": 2, "key": "size", "name": "SMALL" }
+        ],
+        "price": 149,
+        "discountPrice": null,
+        "stock": 120,
+        "image": "/assets/product/q_2.jpg"
+      },
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "SILVER" },
+          { "id": 2, "key": "size", "name": "LARGE" }
+        ],
+        "price": 169,
+        "discountPrice": 159,
+        "stock": 85,
+        "image": "/assets/product/q_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-18T09:30:00",
+    "updatedAt": "2024-11-18T11:30:00",
+    "deletedAt": null
+  },
+  {
+    "id": 23,
+    "highlightedImage": "/assets/product/r_1.jpg",
+    "images": [
+      { "id": 105, "url": "/assets/product/r_2.jpg" },
+      { "id": 106, "url": "/assets/product/r_3.jpg" },
+      { "id": 107, "url": "/assets/product/r_4.jpg" },
+      { "id": 108, "url": "/assets/product/r_5.jpg" }
+    ],
+    "rating": 4.6,
+    "reviewCount": 150,
+    "viewCount": 600,
+    "name": "Wireless Headphones",
+    "shortDescription": "High-quality sound with noise-canceling features.",
+    "description": "*Noise-canceling. *Bluetooth. *Long-lasting battery.",
+    "availableVariants": [
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "BLACK" },
+          { "id": 2, "key": "size", "name": "STANDARD" }
+        ],
+        "price": 199,
+        "discountPrice": null,
+        "stock": 100,
+        "image": "/assets/product/r_2.jpg"
+      },
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "WHITE" },
+          { "id": 2, "key": "size", "name": "LARGE" }
+        ],
+        "price": 219,
+        "discountPrice": 199,
+        "stock": 75,
+        "image": "/assets/product/r_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-18T09:45:00",
+    "updatedAt": "2024-11-18T11:45:00",
+    "deletedAt": null
+  },
+  {
+    "id": 24,
+    "highlightedImage": "/assets/product/s_1.jpg",
+    "images": [
+      { "id": 109, "url": "/assets/product/s_2.jpg" },
+      { "id": 110, "url": "/assets/product/s_3.jpg" },
+      { "id": 111, "url": "/assets/product/s_4.jpg" },
+      { "id": 112, "url": "/assets/product/s_5.jpg" }
+    ],
+    "rating": 4.4,
+    "reviewCount": 130,
+    "viewCount": 680,
+    "name": "Tablet Pro",
+    "shortDescription": "Fast tablet with large screen and high resolution.",
+    "description": "*10-inch screen. *High definition display. *Long battery life.",
+    "availableVariants": [
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "GOLD" },
+          { "id": 2, "key": "size", "name": "128GB" }
+        ],
+        "price": 349,
+        "discountPrice": null,
+        "stock": 90,
+        "image": "/assets/product/s_2.jpg"
+      },
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "SILVER" },
+          { "id": 2, "key": "size", "name": "256GB" }
+        ],
+        "price": 399,
+        "discountPrice": 379,
+        "stock": 60,
+        "image": "/assets/product/s_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-18T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 25,
+    "highlightedImage": "/assets/product/t_1.jpg",
+    "images": [
+      { "id": 113, "url": "/assets/product/t_2.jpg" },
+      { "id": 114, "url": "/assets/product/t_3.jpg" },
+      { "id": 115, "url": "/assets/product/t_4.jpg" },
+      { "id": 116, "url": "/assets/product/t_5.jpg" }
+    ],
+    "rating": 4.9,
+    "reviewCount": 180,
+    "viewCount": 700,
+    "name": "Gaming Laptop Z",
+    "shortDescription": "Top-tier gaming laptop with ultra-fast performance.",
+    "description": "*Intel i9 processor. *NVIDIA graphics card. *16GB RAM.",
+    "availableVariants": [
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "BLACK" },
+          { "id": 2, "key": "size", "name": "1TB SSD" }
+        ],
+        "price": 1499,
+        "discountPrice": null,
+        "stock": 80,
+        "image": "/assets/product/t_2.jpg"
+      },
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "GREY" },
+          { "id": 2, "key": "size", "name": "512GB SSD" }
+        ],
+        "price": 1399,
+        "discountPrice": 1299,
+        "stock": 50,
+        "image": "/assets/product/t_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-18T10:15:00",
+    "updatedAt": "2024-11-18T12:15:00",
+    "deletedAt": null
+  },
+  {
+    "id": 26,
+    "highlightedImage": "/assets/product/u_1.jpg",
+    "images": [
+      { "id": 117, "url": "/assets/product/u_2.jpg" },
+      { "id": 118, "url": "/assets/product/u_3.jpg" },
+      { "id": 119, "url": "/assets/product/u_4.jpg" },
+      { "id": 120, "url": "/assets/product/u_5.jpg" }
+    ],
+    "rating": 4.7,
+    "reviewCount": 90,
+    "viewCount": 750,
+    "name": "4K Ultra HD TV",
+    "shortDescription": "Crystal clear 4K resolution with smart features.",
+    "description": "*Smart TV. *HDR support. *Bluetooth connectivity.",
+    "availableVariants": [
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "BLACK" },
+          { "id": 2, "key": "size", "name": "55-inch" }
+        ],
+        "price": 899,
+        "discountPrice": null,
+        "stock": 70,
+        "image": "/assets/product/u_2.jpg"
+      },
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "SILVER" },
+          { "id": 2, "key": "size", "name": "65-inch" }
+        ],
+        "price": 999,
+        "discountPrice": 949,
+        "stock": 60,
+        "image": "/assets/product/u_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-18T10:30:00",
+    "updatedAt": "2024-11-18T12:30:00",
+    "deletedAt": null
+  },
+  {
+    "id": 27,
+    "highlightedImage": "/assets/product/v_1.jpg",
+    "images": [
+      { "id": 121, "url": "/assets/product/v_2.jpg" },
+      { "id": 122, "url": "/assets/product/v_3.jpg" },
+      { "id": 123, "url": "/assets/product/v_4.jpg" },
+      { "id": 124, "url": "/assets/product/v_5.jpg" }
+    ],
+    "rating": 4.3,
+    "reviewCount": 100,
+    "viewCount": 800,
+    "name": "Bluetooth Earbuds",
+    "shortDescription": "Wireless earbuds with premium sound.",
+    "description": "*High-quality audio. *Water-resistant. *Touch control.",
+    "availableVariants": [
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "BLACK" },
+          { "id": 2, "key": "size", "name": "SMALL" }
+        ],
+        "price": 79,
+        "discountPrice": null,
+        "stock": 140,
+        "image": "/assets/product/v_2.jpg"
+      },
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "WHITE" },
+          { "id": 2, "key": "size", "name": "LARGE" }
+        ],
+        "price": 89,
+        "discountPrice": 79,
+        "stock": 110,
+        "image": "/assets/product/v_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-18T10:45:00",
+    "updatedAt": "2024-11-18T12:45:00",
+    "deletedAt": null
+  },
+  {
+    "id": 28,
+    "highlightedImage": "/assets/product/w_1.jpg",
+    "images": [
+      { "id": 125, "url": "/assets/product/w_2.jpg" },
+      { "id": 126, "url": "/assets/product/w_3.jpg" },
+      { "id": 127, "url": "/assets/product/w_4.jpg" },
+      { "id": 128, "url": "/assets/product/w_5.jpg" }
+    ],
+    "rating": 4.2,
+    "reviewCount": 140,
+    "viewCount": 850,
+    "name": "Fitness Tracker",
+    "shortDescription": "Wearable fitness tracker to monitor health metrics.",
+    "description": "*Heart rate monitor. *Sleep tracking. *Step counter.",
+    "availableVariants": [
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "BLACK" },
+          { "id": 2, "key": "size", "name": "SMALL" }
+        ],
+        "price": 49,
+        "discountPrice": null,
+        "stock": 150,
+        "image": "/assets/product/w_2.jpg"
+      },
+      {
+        "variants": [
+          { "id": 1, "key": "color", "name": "GREEN" },
+          { "id": 2, "key": "size", "name": "LARGE" }
+        ],
+        "price": 59,
+        "discountPrice": 55,
+        "stock": 130,
+        "image": "/assets/product/w_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-18T11:00:00",
+    "updatedAt": "2024-11-18T13:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 11,
+    "highlightedImage": "/assets/product/b_1.jpg",
+    "images": [
+      {
+        "id": 51,
+        "url": "/assets/product/b_2.jpg"
+      },
+      {
+        "id": 52,
+        "url": "/assets/product/b_3.jpg"
+      },
+      {
+        "id": 53,
+        "url": "/assets/product/b_4.jpg"
+      },
+      {
+        "id": 54,
+        "url": "/assets/product/b_5.jpg"
+      }
+    ],
+    "rating": 4.5,
+    "reviewCount": 120,
+    "viewCount": 560,
+    "name": "Smartwatch V1",
+    "shortDescription": "The ultimate smartwatch for fitness and lifestyle.",
+    "description": "*Track heart rate. *Monitor sleep. *Long-lasting battery life.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "SMALL"
+          }
+        ],
+        "price": 199,
+        "discountPrice": 179,
+        "stock": 150,
+        "image": "/assets/product/b_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "SILVER"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "LARGE"
+          }
+        ],
+        "price": 220,
+        "discountPrice": null,
+        "stock": 85,
+        "image": "/assets/product/b_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 11,
+    "highlightedImage": "/assets/product/a_1.jpg",
+    "images": [
+      {
+        "id": 51,
+        "url": "/assets/product/a_2.jpg"
+      },
+      {
+        "id": 52,
+        "url": "/assets/product/a_3.jpg"
+      },
+      {
+        "id": 53,
+        "url": "/assets/product/a_4.jpg"
+      },
+      {
+        "id": 54,
+        "url": "/assets/product/a_5.jpg"
+      }
+    ],
+    "rating": 4.5,
+    "reviewCount": 120,
+    "viewCount": 560,
+    "name": "Smartwatch V1",
+    "shortDescription": "The ultimate smartwatch for fitness and lifestyle.",
+    "description": "*Track heart rate. *Monitor sleep. *Long-lasting battery life.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "SMALL"
+          }
+        ],
+        "price": 199,
+        "discountPrice": 179,
+        "stock": 150,
+        "image": "/assets/product/a_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "SILVER"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "LARGE"
+          }
+        ],
+        "price": 220,
+        "discountPrice": null,
+        "stock": 85,
+        "image": "/assets/product/a_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  }
+]

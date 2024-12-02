@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Home & Decor",
+    "image": "/assets/category/home_decor.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "name": "Accessories",
+    "image": "/assets/category/accessories.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "name": "Clothing",
+    "images": "/assets/category/clothing.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 4,
+    "name": "Watch",
+    "image": "/assets/category/watch.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "name": "Garden",
+    "image": "/assets/category/garden.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "name": "Kitchen",
+    "image": "/assets/category/kitchen.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "name": "Outdoor",
+    "image": "/assets/category/outdoor.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  }
+]

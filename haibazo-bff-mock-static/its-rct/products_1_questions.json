@@ -1,0 +1,91 @@
+[
+  {
+    "id": 4,
+    "content": "what is that?",
+    "images": [
+      {
+        "id": 50,
+        "url": "/assets/product/b_2.jpg"
+      },
+      {
+        "id": 51,
+        "url": "/assets/product/b_1.jpg"
+      }
+    ],
+    "users":{
+      "id": 1,
+      "name": "Nguyen Thi ABC",
+      "role": "ROLE_USER",
+      "status": "online",
+      "avatar": "/assets/user/u_3.jpg"
+    },
+    "answer": {
+      "id": 1,
+      "content": "that is what",
+      "name": "Admin 1 kkk",
+      "date": "20-11-1024"
+    },
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "content": "What is this?",
+    "images": [
+      {
+        "id": 52,
+        "url": "/assets/product/b_2.jpg"
+      },
+      {
+        "id": 53,
+        "url": "/assets/product/b_5.jpg"
+      }
+    ],
+    "users":{
+      "id": 2,
+      "name": "Tran Van XYZ",
+      "haibazoAuthAlias": "XyzTV",
+      "authAlias": "xyz",
+      "role": "ROLE_USER",
+      "status": "online",
+      "avatar": "/assets/user/u_2.jpg"
+    },
+    "answer": null,
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "content": "What is this?",
+    "images": [
+      {
+        "id": 54,
+        "url": "/assets/product/b_2.jpg"
+      },
+      {
+        "id": 55,
+        "url": "/assets/product/b_4.jpg"
+      }
+    ],
+    "users":{
+      "id": 3,
+      "name": "Le Van QWER",
+      "haibazoAuthAlias": "QwerLV",
+      "authAlias": "xyz",
+      "role": "ROLE_USER",
+      "status": "online",
+      "avatar": "/assets/user/u_5.jpg"
+    },
+    "answer": {
+      "id": 2,
+      "content": "this is what",
+      "name": "Admin 2 kkk",
+      "date": "19-11-1024"
+    },
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  }
+]

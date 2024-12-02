@@ -1,0 +1,34 @@
+[
+  {
+    "code": "germany",
+    "name": "GERMANY",
+    "image": "/assets/language/germany.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "code": "vietnam",
+    "name": "VIETNAM",
+    "image": "/assets/language/vn.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "code": "usa",
+    "name": "USA",
+    "image": "/assets/language/usa.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "code": "england",
+    "name": "ENGLAND",
+    "image": "/assets/language/england.jpg",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  }
+]

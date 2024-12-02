@@ -1,0 +1,23 @@
+{
+  "id": 10,
+  "images": [
+    {
+      "id": 56,
+      "url": "/assets/product/g_2.jpg"
+    }
+  ],
+  "rating": 4.5,
+  "content": "The product is beautiful",
+  "users":{
+    "id": 1,
+    "name": "Nguyen Thi ABC",
+    "haibazoAuthAlias": "AbcNT",
+    "authAlias": "abc",
+    "role": "ROLE_USER",
+    "status": "online",
+    "avatar": "/assets/user/u_5.jpg"
+  },
+  "createdAt": "2024-11-17T10:00:00",
+  "updatedAt": null,
+  "deletedAt": null
+}

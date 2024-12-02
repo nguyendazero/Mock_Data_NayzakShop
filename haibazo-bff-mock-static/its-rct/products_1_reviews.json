@@ -1,0 +1,50 @@
+[
+  {
+    "users":{
+      "id": 1,
+      "name": "Nguyen Thi ABC",
+      "haibazoAuthAlias": "AbcNT",
+      "authAlias": "abc",
+      "role": "ROLE_USER",
+      "status": "online",
+      "avatar": "/assets/user/u_1.jpg"
+    },
+    "images": [
+      {
+        "id": 56,
+        "url": "/assets/product/b_2.jpg"
+      }
+    ],
+    "rating": 4.5,
+    "content": "The product is beautiful",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "users":{
+      "id": 1,
+      "name": "Nguyen Thi ABC",
+      "haibazoAuthAlias": "AbcNT",
+      "authAlias": "abc",
+      "role": "ROLE_USER",
+      "status": "online",
+      "avatar": "/assets/user/u_6.jpg"
+    },
+    "images": [
+      {
+        "id": 57,
+        "url": "/assets/product/b_1.jpg"
+      },
+      {
+        "id": 58,
+        "url": "/assets/product/b_2.jpg"
+      }
+    ],
+    "rating": 4.5,
+    "content": "The product is Great",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  }
+]

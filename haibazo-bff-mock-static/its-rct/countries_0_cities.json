@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Ha Noi",
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "name": "Ho Chi Minh",
+    "createdAt": "2024-01-02T00:00:00Z",
+    "updatedAt": "2024-01-02T00:00:00Z",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "name": "Da Nang",
+    "createdAt": "2024-01-03T00:00:00Z",
+    "updatedAt": "2024-01-03T00:00:00Z",
+    "deletedAt": null
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "id": 0,
+    "status": "PROCESSING",
+    "price": 100,
+    "product": [
+      {
+        "id": 0,
+        "highlightedImage": "/assets/product/a_1.jpg",
+        "images": [
+          {
+            "id": 1,
+            "url": "/assets/product/a_1.jpg"
+          },
+          {
+            "id": 2,
+            "url": "/assets/product/a_1.jpg"
+          },
+          {
+            "id": 3,
+            "url": "/assets/product/a_1.jpg"
+          },
+          {
+            "id": 4,
+            "url": "/assets/product/a_1.jpg"
+          }
+        ],
+        "rating": 4,
+        "reviewCount": 20,
+        "viewCount": 157,
+        "name": "Dokotoo Womens 2024 Sweaters",
+        "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+        "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+        "productVariant": {
+          "variants": [
+            {
+              "id": 1,
+              "key": "color",
+              "name": "RED"
+            },
+            {
+              "id": 2,
+              "key": "size",
+              "name": "M"
+            }
+          ],
+          "price": 1,
+          "discountPrice": null,
+          "stock": 23,
+          "image": "/assets/product/a_1.jpg"
+        },
+        "quantity": 1
+      },
+      {
+        "id": 1,
+        "highlightedImage": "/assets/product/b_1.jpg",
+        "images": [
+          {
+            "id": 3,
+            "url": "/assets/product/b_2.jpg"
+          },
+          {
+            "id": 4,
+            "url": "/assets/product/b_3.jpg"
+          },
+          {
+            "id": 5,
+            "url": "/assets/product/b_4.jpg"
+          },
+          {
+            "id": 6,
+            "url": "/assets/product/b_5.jpg"
+          }
+        ],
+        "rating": 4,
+        "reviewCount": 20,
+        "viewCount": 157,
+        "name": "AUTOMET Womens Fall Outfits Fashion Clothes",
+        "shortDescription": "Material: Made of high quality 100% Polyester fabric",
+        "description": "Material: Made of high quality 100% Polyester fabric, skin-friendly, soft and comfortable to wear, will keep your warm and fashion style in fall, spring and cold winter",
+        "productVariant": {
+          "variants": [
+            {
+              "id": 1,
+              "key": "color",
+              "name": "GREEN"
+            },
+            {
+              "id": 2,
+              "key": "size",
+              "name": "M"
+            }
+          ],
+          "price": 1,
+          "discountPrice": null,
+          "stock": 23,
+          "image": "/assets/product/b_1.jpg"
+        },
+        "quantity": 1
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 1,
+    "status": "DELIVERING",
+    "price": 72,
+    "product": [
+      {
+        "id": 0,
+        "highlightedImage": "/assets/product/a_1.jpg",
+        "images": [
+          {
+            "id": 1,
+            "url": "/assets/product/a_1.jpg"
+          },
+          {
+            "id": 2,
+            "url": "/assets/product/a_1.jpg"
+          },
+          {
+            "id": 3,
+            "url": "/assets/product/a_1.jpg"
+          },
+          {
+            "id": 4,
+            "url": "/assets/product/a_1.jpg"
+          }
+        ],
+        "rating": 4,
+        "reviewCount": 20,
+        "viewCount": 157,
+        "name": "Dokotoo Womens 2024 Sweaters",
+        "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+        "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+        "productVariant": {
+          "variants": [
+            {
+              "id": 1,
+              "key": "color",
+              "name": "RED"
+            },
+            {
+              "id": 2,
+              "key": "size",
+              "name": "M"
+            }
+          ],
+          "price": 1,
+          "discountPrice": null,
+          "stock": 23,
+          "image": "/assets/product/a_1.jpg"
+        },
+        "quantity": 1
+      },
+      {
+        "id": 1,
+        "highlightedImage": "/assets/product/b_1.jpg",
+        "images": [
+          {
+            "id": 3,
+            "url": "/assets/product/b_2.jpg"
+          },
+          {
+            "id": 4,
+            "url": "/assets/product/b_3.jpg"
+          },
+          {
+            "id": 5,
+            "url": "/assets/product/b_4.jpg"
+          },
+          {
+            "id": 6,
+            "url": "/assets/product/b_5.jpg"
+          }
+        ],
+        "rating": 4,
+        "reviewCount": 20,
+        "viewCount": 157,
+        "name": "AUTOMET Womens Fall Outfits Fashion Clothes",
+        "shortDescription": "Material: Made of high quality 100% Polyester fabric",
+        "description": "Material: Made of high quality 100% Polyester fabric, skin-friendly, soft and comfortable to wear, will keep your warm and fashion style in fall, spring and cold winter",
+        "productVariant": {
+          "variants": [
+            {
+              "id": 1,
+              "key": "color",
+              "name": "GREEN"
+            },
+            {
+              "id": 2,
+              "key": "size",
+              "name": "M"
+            }
+          ],
+          "price": 1,
+          "discountPrice": null,
+          "stock": 23,
+          "image": "/assets/product/b_1.jpg"
+        },
+        "quantity": 1
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "id": 0,
+    "displayName": "DaND",
+    "firstName": "Nguyen",
+    "lastName": "Da",
+    "email": "dand@haibazo.com",
+    "phone": "0704531600",
+    "streetAddress": "54 Ngoc Hoi, Hoa Minh, Lien CHieu",
+    "country": {
+      "code": "vn",
+      "name": "VIET NAM",
+      "createdAt": "2024-11-17T10:00:00",
+      "updatedAt": "2024-11-18T12:00:00",
+      "deletedAt": null
+    },
+    "city": {
+      "id": "1",
+      "name": "Da Nang",
+      "createdAt": "2024-11-17T10:00:00",
+      "updatedAt": "2024-11-18T12:00:00",
+      "deletedAt": null
+    },
+    "district": {
+      "id": "0",
+      "name": "Lieu CHieu",
+      "createdAt": "2024-11-17T10:00:00",
+      "updatedAt": "2024-11-18T12:00:00",
+      "deletedAt": null
+    },
+    "ward": {
+      "id": "0",
+      "name": "Hoa Minh",
+      "createdAt": "2024-11-17T10:00:00",
+      "updatedAt": "2024-11-18T12:00:00",
+      "deletedAt": null
+    },
+    "zipCode": null,
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 1,
+    "displayName": "Tran Van Anh",
+    "firstName": "Tran",
+    "lastName": "Anh",
+    "email": "vat@haibazo.com",
+    "phone": "0532641897",
+    "streetAddress": "54 Ngoc Hoi, Hoa Minh, Lien CHieu",
+    "country": {
+      "code": "vn",
+      "name": "VIET NAM",
+      "createdAt": "2024-11-17T10:00:00",
+      "updatedAt": "2024-11-18T12:00:00",
+      "deletedAt": null
+    },
+    "city": {
+      "id": "0",
+      "name": "Ha Noi",
+      "createdAt": "2024-11-17T10:00:00",
+      "updatedAt": "2024-11-18T12:00:00",
+      "deletedAt": null
+    },
+    "district": {
+      "id": "0",
+      "name": "Long Bien",
+      "createdAt": "2024-11-17T10:00:00",
+      "updatedAt": "2024-11-18T12:00:00",
+      "deletedAt": null
+    },
+    "ward": {
+      "id": "0",
+      "name": "Thuy Trieu",
+      "createdAt": "2024-11-17T10:00:00",
+      "updatedAt": "2024-11-18T12:00:00",
+      "deletedAt": null
+    },
+    "zipCode": null,
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "id": "1",
+    "key": "color",
+    "name": "Color",
+    "variants": [
+      {
+        "id": 1,
+        "name": "Red",
+        "value": "red",
+        "createdAt": "2024-11-17T10:00:00",
+        "updatedAt": "2024-11-18T12:00:00",
+        "deletedAt": null
+      },
+      {
+        "id": 2,
+        "name": "",
+        "value": "purple",
+        "createdAt": "2024-11-17T10:00:00",
+        "updatedAt": "2024-11-18T12:00:00",
+        "deletedAt": null
+      },
+      {
+        "id": 3,
+        "name": "Green",
+        "value": "green",
+        "createdAt": "2024-11-17T10:00:00",
+        "updatedAt": "2024-11-18T12:00:00",
+        "deletedAt": null
+      },
+      {
+        "id": 4,
+        "name": "Black",
+        "value": "black",
+        "createdAt": "2024-11-17T10:00:00",
+        "updatedAt": "2024-11-18T12:00:00",
+        "deletedAt": null
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "key": "size",
+    "name": "Size",
+    "variants": [
+      {
+        "id": 1,
+        "name": "S",
+        "value": "small",
+        "createdAt": "2024-11-17T10:00:00",
+        "updatedAt": "2024-11-18T12:00:00",
+        "deletedAt": null
+      },
+      {
+        "id": 2,
+        "name": "M",
+        "value": "medium",
+        "createdAt": "2024-11-17T10:00:00",
+        "updatedAt": "2024-11-18T12:00:00",
+        "deletedAt": null
+      },
+      {
+        "id": 3,
+        "name": "L",
+        "value": "large",
+        "createdAt": "2024-11-17T10:00:00",
+        "updatedAt": "2024-11-18T12:00:00",
+        "deletedAt": null
+      },
+      {
+        "id": 4,
+        "name": "XL",
+        "value": "extra_large",
+        "createdAt": "2024-11-17T10:00:00",
+        "updatedAt": "2024-11-18T12:00:00",
+        "deletedAt": null
+      },
+      {
+        "id": 5,
+        "name": "",
+        "value": "2xl",
+        "createdAt": "2024-11-17T10:00:00",
+        "updatedAt": "2024-11-18T12:00:00",
+        "deletedAt": null
+      },
+      {
+        "id": 6,
+        "name": "",
+        "value": "3xl",
+        "createdAt": "2024-11-17T10:00:00",
+        "updatedAt": "2024-11-18T12:00:00",
+        "deletedAt": null
+      }
+    ]
+  }
+]

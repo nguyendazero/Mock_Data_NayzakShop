@@ -1,0 +1,26 @@
+[
+  {
+    "name": "European Currency Unit",
+    "code": "EURO",
+    "symbol": "€",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "name": "United States Dollar",
+    "code": "USA",
+    "symbol": "$",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "name": "Việt Nam ĐỒng",
+    "code": "VNĐ",
+    "symbol": "đ",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  }
+]

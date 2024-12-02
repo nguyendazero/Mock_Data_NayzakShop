@@ -1,0 +1,28 @@
+# springboot application
+spring.application.name=haibazo-java-spring-boot-stater
+
+# api
+haibazo.bff.itsrct.base-path=${HAIBAZO_BFF_ITSRCT_BASE_PATH:/its-rct}
+haibazo.bff.account.base-path=${HAIBAZO_BFF_ACCOUNT_BASE_PATH:/account}
+
+# api mock
+haibazo.bff.mock.storage=${HAIBAZO_BFF_MOCK_STORAGE:local}
+
+# api mock local storage
+haibazo.bff.itsrct.mock.folder=${HAIBAZO_BFF_ITSRCT_MOCK_FOLDER:./its-rct}
+haibazo.bff.account.mock.folder=${HAIBAZO_BFF_ACCOUNT_MOCK_FOLDER:./account}
+haibazo.bff.mock.base-folder-path=${HAIBAZO_BFF_MOCK_BASE_FOLDER_PATH:../haibazo-bff-mock-static}
+haibazo.bff.mock.setting-file-path=${HAIBAZO_BFF_MOCK_SETTING_FILE_PATH:./bff-mock-setting.csv}
+
+# aws iam
+haibazo.bff.aws.iam.access-key=${HAIBAZO_BFF_AWS_IAM_ACCESS_KEY:*}
+haibazo.bff.aws.iam.secret-key=${HAIBAZO_BFF_AWS_IAM_SECRET_KEY:*}
+
+# api mock S3 storage
+haibazo.bff.mock.s3.region=${HAIBAZO_BFF_MOCK_S3_REGION:ap-southeast-1}
+haibazo.bff.mock.s3.bucket-name=${HAIBAZO_BFF_MOCK_S3_BUCKET_NAME:haibazo}
+haibazo.bff.mock.s3.folder=${HAIBAZO_BFF_MOCK_S3_FOLDER:./bff/st-a}
+
+# cors
+haibazo.bff.cors.origins=${HAIBAZO_BFF_CORS_ORIGINS:*}
+haibazo.bff.cors.credentials=${HAIBAZO_BFF_CORS_CREDENTIALS:true}

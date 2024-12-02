@@ -1,0 +1,761 @@
+[
+  {
+    "id": 11,
+    "highlightedImage": "/assets/product/e_1.jpg",
+    "images": [
+      {
+        "id": 51,
+        "url": "/assets/product/e_2.jpg"
+      },
+      {
+        "id": 52,
+        "url": "/assets/product/e_3.jpg"
+      },
+      {
+        "id": 53,
+        "url": "/assets/product/e_4.jpg"
+      },
+      {
+        "id": 54,
+        "url": "/assets/product/e_5.jpg"
+      }
+    ],
+    "rating": 4.5,
+    "reviewCount": 120,
+    "viewCount": 560,
+    "name": "Smartwatch V1",
+    "shortDescription": "The ultimate smartwatch for fitness and lifestyle.",
+    "description": "*Track heart rate. *Monitor sleep. *Long-lasting battery life.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "SMALL"
+          }
+        ],
+        "price": 199,
+        "discountPrice": 179,
+        "stock": 150,
+        "image": "/assets/product/e_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "SILVER"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "LARGE"
+          }
+        ],
+        "price": 220,
+        "discountPrice": null,
+        "stock": 85,
+        "image": "/assets/product/e_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 12,
+    "highlightedImage": "/assets/product/a_1.jpg",
+    "images": [
+      {
+        "id": 55,
+        "url": "/assets/product/a_2.jpg"
+      },
+      {
+        "id": 56,
+        "url": "/assets/product/a_3.jpg"
+      },
+      {
+        "id": 57,
+        "url": "/assets/product/a_4.jpg"
+      },
+      {
+        "id": 58,
+        "url": "/assets/product/a_5.jpg"
+      }
+    ],
+    "rating": 4.3,
+    "reviewCount": 150,
+    "viewCount": 480,
+    "name": "Bluetooth Speaker X",
+    "shortDescription": "High-quality portable Bluetooth speaker.",
+    "description": "*Excellent sound quality. *Long battery life. *Waterproof design.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "COMPACT"
+          }
+        ],
+        "price": 120,
+        "discountPrice": null,
+        "stock": 200,
+        "image": "/assets/product/a_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "RED"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "LARGE"
+          }
+        ],
+        "price": 140,
+        "discountPrice": 130,
+        "stock": 150,
+        "image": "/assets/product/a_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 13,
+    "highlightedImage": "/assets/product/f_1.jpg",
+    "images": [
+      {
+        "id": 61,
+        "url": "/assets/product/f_2.jpg"
+      },
+      {
+        "id": 62,
+        "url": "/assets/product/f_3.jpg"
+      },
+      {
+        "id": 63,
+        "url": "/assets/product/f_4.jpg"
+      },
+      {
+        "id": 64,
+        "url": "/assets/product/f_5.jpg"
+      }
+    ],
+    "rating": 4.2,
+    "reviewCount": 160,
+    "viewCount": 740,
+    "name": "Gaming Laptop R",
+    "shortDescription": "Powerful gaming laptop with ultra-fast performance.",
+    "description": "*High refresh rate screen. *Top-tier GPU. *Durable design.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "15 INCH"
+          }
+        ],
+        "price": 1499,
+        "discountPrice": null,
+        "stock": 50,
+        "image": "/assets/product/f_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "SILVER"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "17 INCH"
+          }
+        ],
+        "price": 1599,
+        "discountPrice": 1499,
+        "stock": 35,
+        "image": "/assets/product/f_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 14,
+    "highlightedImage": "/assets/product/z_1.jpg",
+    "images": [
+      {
+        "id": 69,
+        "url": "/assets/product/z_2.jpg"
+      },
+      {
+        "id": 70,
+        "url": "/assets/product/z_3.jpg"
+      },
+      {
+        "id": 71,
+        "url": "/assets/product/z_4.jpg"
+      },
+      {
+        "id": 72,
+        "url": "/assets/product/z_5.jpg"
+      }
+    ],
+    "rating": 4.8,
+    "reviewCount": 200,
+    "viewCount": 800,
+    "name": "Noise-Canceling Headphones",
+    "shortDescription": "Premium noise-canceling headphones for immersive sound.",
+    "description": "*Active noise cancellation. *Superior audio quality. *Long battery life.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "ONE SIZE"
+          }
+        ],
+        "price": 350,
+        "discountPrice": null,
+        "stock": 100,
+        "image": "/assets/product/z_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "WHITE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "ONE SIZE"
+          }
+        ],
+        "price": 370,
+        "discountPrice": 340,
+        "stock": 90,
+        "image": "/assets/product/z_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 15,
+    "highlightedImage": "/assets/product/b_1.jpg",
+    "images": [
+      {
+        "id": 73,
+        "url": "/assets/product/b_2.jpg"
+      },
+      {
+        "id": 74,
+        "url": "/assets/product/b_3.jpg"
+      },
+      {
+        "id": 75,
+        "url": "/assets/product/b_4.jpg"
+      },
+      {
+        "id": 76,
+        "url": "/assets/product/b_5.jpg"
+      }
+    ],
+    "rating": 4.4,
+    "reviewCount": 180,
+    "viewCount": 710,
+    "name": "Wireless Mouse Pro",
+    "shortDescription": "Ergonomic wireless mouse for smooth performance.",
+    "description": "*Smooth scrolling. *Long battery life. *Compact and lightweight.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "STANDARD"
+          }
+        ],
+        "price": 30,
+        "discountPrice": null,
+        "stock": 250,
+        "image": "/assets/product/b_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "WHITE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "COMPACT"
+          }
+        ],
+        "price": 35,
+        "discountPrice": null,
+        "stock": 220,
+        "image": "/assets/product/b_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 16,
+    "highlightedImage": "/assets/product/c_1.jpg",
+    "images": [
+      {
+        "id": 77,
+        "url": "/assets/product/c_2.jpg"
+      },
+      {
+        "id": 78,
+        "url": "/assets/product/c_3.jpg"
+      },
+      {
+        "id": 79,
+        "url": "/assets/product/c_4.jpg"
+      },
+      {
+        "id": 80,
+        "url": "/assets/product/c_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 130,
+    "viewCount": 650,
+    "name": "4K Smart TV",
+    "shortDescription": "Ultra HD smart TV with vibrant colors and clarity.",
+    "description": "*Supports 4K resolution. *Smart TV functions. *Vibrant color display.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "55 INCH"
+          }
+        ],
+        "price": 650,
+        "discountPrice": null,
+        "stock": 120,
+        "image": "/assets/product/c_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "SILVER"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "65 INCH"
+          }
+        ],
+        "price": 800,
+        "discountPrice": 750,
+        "stock": 90,
+        "image": "/assets/product/c_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 17,
+    "highlightedImage": "/assets/product/d_1.jpg",
+    "images": [
+      {
+        "id": 81,
+        "url": "/assets/product/d_2.jpg"
+      },
+      {
+        "id": 82,
+        "url": "/assets/product/d_3.jpg"
+      },
+      {
+        "id": 83,
+        "url": "/assets/product/d_4.jpg"
+      },
+      {
+        "id": 84,
+        "url": "/assets/product/d_5.jpg"
+      }
+    ],
+    "rating": 4.7,
+    "reviewCount": 110,
+    "viewCount": 700,
+    "name": "Drone Pro X",
+    "shortDescription": "Advanced drone with 4K camera and long-range flight.",
+    "description": "*4K camera for stunning views. *Long battery life. *Automatic altitude control.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "STANDARD"
+          }
+        ],
+        "price": 999,
+        "discountPrice": null,
+        "stock": 80,
+        "image": "/assets/product/d_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "WHITE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "LARGE"
+          }
+        ],
+        "price": 1099,
+        "discountPrice": 1050,
+        "stock": 50,
+        "image": "/assets/product/d_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 18,
+    "highlightedImage": "/assets/product/g_1.jpg",
+    "images": [
+      {
+        "id": 85,
+        "url": "/assets/product/g_2.jpg"
+      },
+      {
+        "id": 86,
+        "url": "/assets/product/g_3.jpg"
+      },
+      {
+        "id": 87,
+        "url": "/assets/product/g_4.jpg"
+      },
+      {
+        "id": 88,
+        "url": "/assets/product/g_5.jpg"
+      }
+    ],
+    "rating": 4.4,
+    "reviewCount": 140,
+    "viewCount": 720,
+    "name": "Electric Scooter Z",
+    "shortDescription": "High-performance electric scooter with fast speed and long battery life.",
+    "description": "*Max speed 40 mph. *Long range per charge. *Comfortable design.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "STANDARD"
+          }
+        ],
+        "price": 499,
+        "discountPrice": null,
+        "stock": 100,
+        "image": "/assets/product/g_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "RED"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "LARGE"
+          }
+        ],
+        "price": 520,
+        "discountPrice": 490,
+        "stock": 60,
+        "image": "/assets/product/g_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 19,
+    "highlightedImage": "/assets/product/h_1.jpg",
+    "images": [
+      {
+        "id": 89,
+        "url": "/assets/product/h_2.jpg"
+      },
+      {
+        "id": 90,
+        "url": "/assets/product/h_3.jpg"
+      },
+      {
+        "id": 91,
+        "url": "/assets/product/h_4.jpg"
+      },
+      {
+        "id": 92,
+        "url": "/assets/product/h_5.jpg"
+      }
+    ],
+    "rating": 4.5,
+    "reviewCount": 160,
+    "viewCount": 640,
+    "name": "Smartphone Pro",
+    "shortDescription": "Premium smartphone with powerful performance and camera.",
+    "description": "*High-resolution camera. *Fast processor. *Sleek design.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "128GB"
+          }
+        ],
+        "price": 899,
+        "discountPrice": null,
+        "stock": 130,
+        "image": "/assets/product/h_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "WHITE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "256GB"
+          }
+        ],
+        "price": 999,
+        "discountPrice": 950,
+        "stock": 80,
+        "image": "/assets/product/h_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 20,
+    "highlightedImage": "/assets/product/i_1.jpg",
+    "images": [
+      {
+        "id": 93,
+        "url": "/assets/product/i_2.jpg"
+      },
+      {
+        "id": 94,
+        "url": "/assets/product/i_3.jpg"
+      },
+      {
+        "id": 95,
+        "url": "/assets/product/i_4.jpg"
+      },
+      {
+        "id": 96,
+        "url": "/assets/product/i_5.jpg"
+      }
+    ],
+    "rating": 4.7,
+    "reviewCount": 170,
+    "viewCount": 650,
+    "name": "Laptop Bag Premium",
+    "shortDescription": "Elegant and durable laptop bag with stylish design.",
+    "description": "*High-quality material. *Fits most laptops. *Multiple compartments.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "LARGE"
+          }
+        ],
+        "price": 120,
+        "discountPrice": null,
+        "stock": 90,
+        "image": "/assets/product/i_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BROWN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "MEDIUM"
+          }
+        ],
+        "price": 130,
+        "discountPrice": 110,
+        "stock": 60,
+        "image": "/assets/product/i_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 20,
+    "highlightedImage": "/assets/product/x_1.jpg",
+    "images": [
+      {
+        "id": 93,
+        "url": "/assets/product/x_2.jpg"
+      },
+      {
+        "id": 94,
+        "url": "/assets/product/x_3.jpg"
+      },
+      {
+        "id": 95,
+        "url": "/assets/product/x_4.jpg"
+      },
+      {
+        "id": 96,
+        "url": "/assets/product/x_5.jpg"
+      }
+    ],
+    "rating": 4.7,
+    "reviewCount": 170,
+    "viewCount": 650,
+    "name": "Laptop Bag Premium",
+    "shortDescription": "Elegant and durable laptop bag with stylish design.",
+    "description": "*High-quality material. *Fits most laptops. *Multiple compartments.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "LARGE"
+          }
+        ],
+        "price": 120,
+        "discountPrice": null,
+        "stock": 90,
+        "image": "/assets/product/x_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BROWN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "MEDIUM"
+          }
+        ],
+        "price": 130,
+        "discountPrice": 110,
+        "stock": 60,
+        "image": "/assets/product/x_3.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  }
+]

@@ -1,0 +1,692 @@
+[
+  {
+    "id": 20,
+    "highlightedImage": "/assets/product/h_1.jpg",
+    "images": [
+      {
+        "id": 41,
+        "url": "/assets/product/h_2.jpg"
+      },
+      {
+        "id": 42,
+        "url": "/assets/product/h_3.jpg"
+      },
+      {
+        "id": 43,
+        "url": "/assets/product/h_4.jpg"
+      },
+      {
+        "id": 44,
+        "url": "/assets/product/h_5.jpg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 100,
+    "viewCount": 203,
+    "name": "AUTOMET Womens Sweatshirts Half",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 25,
+        "stock": 46,
+        "image": "/assets/product/h_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "ORANGE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 25,
+        "stock": 156,
+        "image": "/assets/product/h_5.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 21,
+    "highlightedImage": "/assets/product/i_1.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "/assets/product/i_2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "/assets/product/i_3.jpg"
+      },
+      {
+        "id": 3,
+        "url": "/assets/product/i_4.jpg"
+      },
+      {
+        "id": 4,
+        "url": "/assets/product/i_5.jpg"
+      }
+    ],
+    "rating": 4,
+    "reviewCount": 20,
+    "viewCount": 157,
+    "name": "Dokotoo Womens 2024 Sweaters",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 20,
+        "discountPrice": null,
+        "stock": 23,
+        "image": "/assets/product/i_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BLUE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "S"
+          }
+        ],
+        "price": 42,
+        "discountPrice": null,
+        "stock": 52,
+        "image": "/assets/product/i_4.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "highlightedImage": "/assets/product/o_1.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "/assets/product/o_2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "/assets/product/o_3.jpg"
+      },
+      {
+        "id": 3,
+        "url": "/assets/product/o_4.jpg"
+      },
+      {
+        "id": 4,
+        "url": "/assets/product/o_5.jpg"
+      }
+    ],
+    "rating": 4,
+    "reviewCount": 20,
+    "viewCount": 157,
+    "name": "LILLUSORY Long Cardigan Sweaters",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 20,
+        "discountPrice": null,
+        "stock": 23,
+        "image": "/assets/product/o_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "PINK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 32,
+        "discountPrice": null,
+        "stock": 76,
+        "image": "/assets/product/o_1.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 23,
+    "highlightedImage": "/assets/product/n_1.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "/assets/product/n_2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "/assets/product/n_3.jpg"
+      },
+      {
+        "id": 3,
+        "url": "/assets/product/n_4.jpg"
+      },
+      {
+        "id": 4,
+        "url": "/assets/product/n_5.jpg"
+      }
+    ],
+    "rating": 4,
+    "reviewCount": 20,
+    "viewCount": 157,
+    "name": "Dokotoo Womens 2024 Sweaters",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 20,
+        "discountPrice": null,
+        "stock": 23,
+        "image": "/assets/product/n_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "WHITE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "S"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 5,
+        "stock": 54,
+        "image": "/assets/product/n_1.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 7,
+    "highlightedImage": "/assets/product/r_1.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "/assets/product/r_2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "/assets/product/r_3.jpg"
+      },
+      {
+        "id": 3,
+        "url": "/assets/product/r_4.jpg"
+      },
+      {
+        "id": 4,
+        "url": "/assets/product/r_5.jpg"
+      }
+    ],
+    "rating": 4,
+    "reviewCount": 20,
+    "viewCount": 157,
+    "name": "LILLUSORY Long Cardigan Sweaters",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 20,
+        "discountPrice": null,
+        "stock": 23,
+        "image": "/assets/product/r_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "PINK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 32,
+        "discountPrice": null,
+        "stock": 76,
+        "image": "/assets/product/r_1.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "highlightedImage": "/assets/product/s_1.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "/assets/product/s_2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "/assets/product/s_3.jpg"
+      },
+      {
+        "id": 3,
+        "url": "/assets/product/s_4.jpg"
+      },
+      {
+        "id": 4,
+        "url": "/assets/product/s_5.jpg"
+      }
+    ],
+    "rating": 4,
+    "reviewCount": 20,
+    "viewCount": 157,
+    "name": "LILLUSORY Long Cardigan Sweaters",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 20,
+        "discountPrice": null,
+        "stock": 23,
+        "image": "/assets/product/s_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "PINK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 32,
+        "discountPrice": null,
+        "stock": 76,
+        "image": "/assets/product/s_1.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "highlightedImage": "/assets/product/w_1.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "/assets/product/w_2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "/assets/product/w_3.jpg"
+      },
+      {
+        "id": 3,
+        "url": "/assets/product/w_4.jpg"
+      },
+      {
+        "id": 4,
+        "url": "/assets/product/w_5.jpg"
+      }
+    ],
+    "rating": 4,
+    "reviewCount": 20,
+    "viewCount": 157,
+    "name": "LILLUSORY Long Cardigan Sweaters",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 20,
+        "discountPrice": null,
+        "stock": 23,
+        "image": "/assets/product/w_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "PINK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 32,
+        "discountPrice": null,
+        "stock": 76,
+        "image": "/assets/product/w_1.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "highlightedImage": "/assets/product/a_1.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "/assets/product/a_2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "/assets/product/a_3.jpg"
+      },
+      {
+        "id": 3,
+        "url": "/assets/product/a_4.jpg"
+      },
+      {
+        "id": 4,
+        "url": "/assets/product/a_5.jpg"
+      }
+    ],
+    "rating": 4,
+    "reviewCount": 20,
+    "viewCount": 157,
+    "name": "LILLUSORY Long Cardigan Sweaters",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 20,
+        "discountPrice": null,
+        "stock": 23,
+        "image": "/assets/product/a_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "PINK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 32,
+        "discountPrice": null,
+        "stock": 76,
+        "image": "/assets/product/a_1.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "highlightedImage": "/assets/product/f_1.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "/assets/product/f_2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "/assets/product/f_3.jpg"
+      },
+      {
+        "id": 3,
+        "url": "/assets/product/f_4.jpg"
+      },
+      {
+        "id": 4,
+        "url": "/assets/product/f_5.jpg"
+      }
+    ],
+    "rating": 4,
+    "reviewCount": 20,
+    "viewCount": 157,
+    "name": "LILLUSORY Long Cardigan Sweaters",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 20,
+        "discountPrice": null,
+        "stock": 23,
+        "image": "/assets/product/f_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "PINK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 32,
+        "discountPrice": null,
+        "stock": 76,
+        "image": "/assets/product/f_1.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "highlightedImage": "/assets/product/u_1.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "/assets/product/u_2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "/assets/product/u_3.jpg"
+      },
+      {
+        "id": 3,
+        "url": "/assets/product/u_4.jpg"
+      },
+      {
+        "id": 4,
+        "url": "/assets/product/u_5.jpg"
+      }
+    ],
+    "rating": 4,
+    "reviewCount": 20,
+    "viewCount": 157,
+    "name": "LILLUSORY Long Cardigan Sweaters",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 20,
+        "discountPrice": null,
+        "stock": 23,
+        "image": "/assets/product/u_2.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "PINK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 32,
+        "discountPrice": null,
+        "stock": 76,
+        "image": "/assets/product/u_1.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  }
+]

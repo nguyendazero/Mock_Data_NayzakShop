@@ -6,15 +6,39 @@ This service provides a minimal setup to run the ITS RCT API locally and allows 
 
 You can start this service using Java (21) + Maven, or Docker.
 
+### Environment and configuration
+
+#### Environment
+
+Duplicate the `./.env.example` file to `./.env.developement` and fill in (or change) the following:
+
+```bash
+HAIBAZO_BFF_MOCK_STORAGE = "local"
+HAIBAZO_BFF_MOCK_BASE_FOLDER_PATH = "./haibazo-bff-mock-static"
+```
+
+Others can be left as default.
+
+#### Configuration
+
+Duplicate the `./haibazo-bff-mock-webapi/src/main/resources/application.properties.example` file to `./haibazo-bff-mock-webapi/src/main/resources/application.properties` and fill in the necessary information. (leave it default if you don't know what to do)
+
 ### Docker
 
 With Docker installed, run:
 
 ```bash
-docker compose up --build
+docker compose up haibazo-bff-mock-webapi-development
 ```
 
-then go to [http://localhost:2180/its-rct/v1/greetings](http://localhost:2180/its-rct/v1/greetings) (with `2180` as the `ports` in `docker-compose.yml`). The following should appear in your browser:
+or, you can build the image first and then run it:
+
+```bash
+docker compose build haibazo-bff-mock-webapi-development
+docker compose up haibazo-bff-mock-webapi-development
+```
+
+then go to [http://localhost:2380/its-rct/v1/greetings](http://localhost:2380/its-rct/v1/greetings) (with `2380` as the `ports` in `docker-compose.yml`). The following should appear in your browser:
 
 ```json
 {
@@ -33,9 +57,9 @@ Comming soon. (Zoooooo)
 
 ## How to use
 
-Take your eye into `./api-mock/api-mock-setting.csv` and `./api-mock/its-rct`, and ignore others for now.
+Take your eye into `./haibazo-bff-mock-static/bff-mock-setting.csv` file and `./haibazo-bff-mock-static/its-rct` folder, and ignore others for now.
 
-### api-mock-setting.csv
+### bff-mock-setting.csv
 
 A `csv` file contains settings to route all endpoints to the corresponding `.json` files, with:
 
@@ -62,7 +86,7 @@ To mocks the following APIs:
 [DELETE] /its-rct/v1/products/1234567890
 ```
 
-### Add setting to `api-mock-setting.csv`
+### Add setting to `bff-mock-setting.csv`
 
 Add the following to your setting file:
 

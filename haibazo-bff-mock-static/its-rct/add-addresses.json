@@ -1,0 +1,41 @@
+{
+  "id": 10,
+  "displayName": "Tran Van Anh",
+  "firstName": "Tran",
+  "lastName": "Anh",
+  "email": "vat@haibazo.com",
+  "phone": "0532641897",
+  "streetAddress": "54 Ngoc Hoi, Hoa Minh, Lien CHieu",
+  "country": {
+    "code": "vn",
+    "name": "VIET NAM",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  "city": {
+    "id": "0",
+    "name": "Ha Noi",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  "district": {
+    "id": "0",
+    "name": "Long Bien",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  "ward": {
+    "id": "0",
+    "name": "Thuy Trieu",
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  "zipCode": null,
+  "createdAt": "2024-11-17T10:00:00",
+  "updatedAt": "2024-11-18T12:00:00",
+  "deletedAt": null
+}

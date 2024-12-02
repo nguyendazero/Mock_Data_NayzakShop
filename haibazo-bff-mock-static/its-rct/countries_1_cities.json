@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "New York",
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "name": "Los Angeles",
+    "createdAt": "2024-01-02T00:00:00Z",
+    "updatedAt": "2024-01-02T00:00:00Z",
+    "deletedAt": null
+  }
+]

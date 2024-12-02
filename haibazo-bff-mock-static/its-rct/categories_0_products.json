@@ -1,0 +1,566 @@
+[
+  {
+    "id": 1,
+    "highlightedImage": "/assets/product/e_1.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "/assets/product/e_2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "/assets/product/e_3.jpg"
+      },
+      {
+        "id": 3,
+        "url": "/assets/product/e_4.jpg"
+      },
+      {
+        "id": 4,
+        "url": "/assets/product/e_5.jpg"
+      }
+    ],
+    "rating": 4,
+    "reviewCount": 20,
+    "viewCount": 157,
+    "name": "Dokotoo Womens 2024 Sweaters",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 20,
+        "discountPrice": null,
+        "stock": 23,
+        "image": "/assets/product/e_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BLUE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "S"
+          }
+        ],
+        "price": 42,
+        "discountPrice": null,
+        "stock": 52,
+        "image": "/assets/product/e_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "highlightedImage": "/assets/product/f_1.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "/assets/product/f_2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "/assets/product/f_3.jpg"
+      },
+      {
+        "id": 3,
+        "url": "/assets/product/f_4.jpg"
+      },
+      {
+        "id": 4,
+        "url": "/assets/product/f_5.jpg"
+      }
+    ],
+    "rating": 4,
+    "reviewCount": 20,
+    "viewCount": 157,
+    "name": "LILLUSORY Long Cardigan Sweaters",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 20,
+        "discountPrice": null,
+        "stock": 23,
+        "image": "/assets/product/f_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "PINK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 32,
+        "discountPrice": null,
+        "stock": 76,
+        "image": "/assets/product/f_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "highlightedImage": "/assets/product/g_1.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "/assets/product/g_2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "/assets/product/g_3.jpg"
+      },
+      {
+        "id": 3,
+        "url": "/assets/product/g_4.jpg"
+      },
+      {
+        "id": 4,
+        "url": "/assets/product/g_5.jpg"
+      }
+    ],
+    "rating": 4,
+    "reviewCount": 20,
+    "viewCount": 157,
+    "name": "Dokotoo Womens 2024 Sweaters",
+    "shortDescription": "The color stripes may be BRIGHT due to different light and screen display.",
+    "description": "*The color stripes may be BRIGHT due to different light and screen display. *The sweater is textured and lightweight style, which suits well for Spring, Summer, Fall and Warm Winter. *With the loose fit design, please choose size carefully according to your size and size chart.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GREEN"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 20,
+        "discountPrice": null,
+        "stock": 23,
+        "image": "/assets/product/g_1.jpg"
+      },
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "WHITE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "S"
+          }
+        ],
+        "price": 14,
+        "discountPrice": 5,
+        "stock": 54,
+        "image": "/assets/product/g_2.jpg"
+      }
+    ],
+    "createdAt": "2024-11-17T10:00:00",
+    "updatedAt": "2024-11-18T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 4,
+    "highlightedImage": "/assets/product/h_1.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "/assets/product/h_2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "/assets/product/h_3.jpg"
+      },
+      {
+        "id": 3,
+        "url": "/assets/product/h_4.jpg"
+      },
+      {
+        "id": 4,
+        "url": "/assets/product/h_5.jpg"
+      }
+    ],
+    "rating": 5,
+    "reviewCount": 15,
+    "viewCount": 200,
+    "name": "Casual Knit Cardigans",
+    "shortDescription": "Soft and breathable fabric, perfect for daily wear.",
+    "description": "A lightweight cardigan perfect for layering during spring and fall. Available in various colors and sizes.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BEIGE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "M"
+          }
+        ],
+        "price": 25,
+        "discountPrice": 20,
+        "stock": 30,
+        "image": "/assets/product/h_1.jpg"
+      }
+    ],
+    "createdAt": "2024-11-19T10:00:00",
+    "updatedAt": "2024-11-20T12:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "highlightedImage": "/assets/product/i_1.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "/assets/product/i_2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "/assets/product/i_3.jpg"
+      },
+      {
+        "id": 3,
+        "url": "/assets/product/i_4.jpg"
+      },
+      {
+        "id": 4,
+        "url": "/assets/product/i_5.jpg"
+      }
+    ],
+    "rating": 4,
+    "reviewCount": 10,
+    "viewCount": 120,
+    "name": "Oversized Sweater",
+    "shortDescription": "Comfortable and oversized for a relaxed fit.",
+    "description": "This oversized sweater is designed for ultimate comfort with a trendy look.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BLACK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 35,
+        "discountPrice": 30,
+        "stock": 25,
+        "image": "/assets/product/i_1.jpg"
+      }
+    ],
+    "createdAt": "2024-11-19T11:00:00",
+    "updatedAt": "2024-11-20T13:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "highlightedImage": "/assets/product/e_1.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "/assets/product/e_2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "/assets/product/e_3.jpg"
+      },
+      {
+        "id": 3,
+        "url": "/assets/product/e_4.jpg"
+      },
+      {
+        "id": 4,
+        "url": "/assets/product/e_5.jpg"
+      }
+    ],
+    "rating": 3,
+    "reviewCount": 5,
+    "viewCount": 50,
+    "name": "Cozy Turtleneck",
+    "shortDescription": "Warm and stylish turtleneck sweater.",
+    "description": "Perfect for winter days, this turtleneck offers both warmth and style.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "GRAY"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "M"
+          }
+        ],
+        "price": 28,
+        "discountPrice": null,
+        "stock": 20,
+        "image": "/assets/product/e_1.jpg"
+      }
+    ],
+    "createdAt": "2024-11-19T12:00:00",
+    "updatedAt": "2024-11-20T14:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 7,
+    "highlightedImage": "/assets/product/k_1.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "/assets/product/k_2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "/assets/product/k_3.jpg"
+      },
+      {
+        "id": 3,
+        "url": "/assets/product/k_4.jpg"
+      },
+      {
+        "id": 4,
+        "url": "/assets/product/k_5.jpg"
+      }
+    ],
+    "rating": 5,
+    "reviewCount": 25,
+    "viewCount": 300,
+    "name": "Lightweight Sweater",
+    "shortDescription": "A versatile sweater suitable for all seasons.",
+    "description": "Lightweight fabric with a loose fit, ideal for layering.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "WHITE"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "S"
+          }
+        ],
+        "price": 22,
+        "discountPrice": 18,
+        "stock": 40,
+        "image": "/assets/product/k_1.jpg"
+      }
+    ],
+    "createdAt": "2024-11-19T14:00:00",
+    "updatedAt": "2024-11-20T15:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 8,
+    "highlightedImage": "/assets/product/m_1.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "/assets/product/m_2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "/assets/product/m_3.jpg"
+      },
+      {
+        "id": 3,
+        "url": "/assets/product/m_4.jpg"
+      },
+      {
+        "id": 4,
+        "url": "/assets/product/m_5.jpg"
+      }
+    ],
+    "rating": 4,
+    "reviewCount": 18,
+    "viewCount": 220,
+    "name": "Vintage Pullover",
+    "shortDescription": "A chic and vintage-inspired pullover.",
+    "description": "This vintage pullover brings elegance to your wardrobe. Made of high-quality fabric.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "PINK"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "M"
+          }
+        ],
+        "price": 30,
+        "discountPrice": 25,
+        "stock": 35,
+        "image": "/assets/product/m_1.jpg"
+      }
+    ],
+    "createdAt": "2024-11-19T15:00:00",
+    "updatedAt": "2024-11-20T16:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 9,
+    "highlightedImage": "/assets/product/n_1.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "/assets/product/n_2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "/assets/product/n_3.jpg"
+      },
+      {
+        "id": 3,
+        "url": "/assets/product/n_4.jpg"
+      },
+      {
+        "id": 4,
+        "url": "/assets/product/n_5.jpg"
+      }
+    ],
+    "rating": 4,
+    "reviewCount": 12,
+    "viewCount": 160,
+    "name": "Classic Crewneck",
+    "shortDescription": "A timeless crewneck sweater.",
+    "description": "Simple yet stylish, this crewneck is an essential item for any wardrobe.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "NAVY"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "L"
+          }
+        ],
+        "price": 24,
+        "discountPrice": null,
+        "stock": 28,
+        "image": "/assets/product/m_1.jpg"
+      }
+    ],
+    "createdAt": "2024-11-19T16:00:00",
+    "updatedAt": "2024-11-20T17:00:00",
+    "deletedAt": null
+  },
+  {
+    "id": 10,
+    "highlightedImage": "/assets/product/a_1.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "/assets/product/a_2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "/assets/product/a_3.jpg"
+      },
+      {
+        "id": 3,
+        "url": "/assets/product/a_4.jpg"
+      },
+      {
+        "id": 4,
+        "url": "/assets/product/a_5.jpg"
+      }
+    ],
+    "rating": 4,
+    "reviewCount": 30,
+    "viewCount": 400,
+    "name": "Modern Cardigan",
+    "shortDescription": "A modern twist on the classic cardigan.",
+    "description": "A cozy and versatile cardigan, suitable for casual or formal wear.",
+    "availableVariants": [
+      {
+        "variants": [
+          {
+            "id": 1,
+            "key": "color",
+            "name": "BURGUNDY"
+          },
+          {
+            "id": 2,
+            "key": "size",
+            "name": "M"
+          }
+        ],
+        "price": 40,
+        "discountPrice": 35,
+        "stock": 45,
+        "image": "/assets/product/a_1.jpg"
+      }
+    ],
+    "createdAt": "2024-11-19T17:00:00",
+    "updatedAt": "2024-11-20T18:00:00",
+    "deletedAt": null
+  }
+]
