@@ -39,3 +39,6 @@ build/
 ### Environment ###
 .env*
 !.env*.example
+
+### Haibazo BFF Mock Static (by environment) ###
+/haibazo-bff-mock-static-*/*

@@ -145,8 +145,8 @@ public class ApiMockSettingService {
             }
         }
 
-        String primaryPath = getMockFilePath(String.join("_", resultParts) + extension);
-        if (Files.exists(Path.of(primaryPath))) {
+        String primaryPath = String.join("_", resultParts) + extension;
+        if (Files.exists(Path.of(getMockFilePath(primaryPath)))) {
             return getMockFilePath(primaryPath);
         }
 
@@ -178,4 +178,5 @@ public class ApiMockSettingService {
 
         return localPath;
     }
+
 }

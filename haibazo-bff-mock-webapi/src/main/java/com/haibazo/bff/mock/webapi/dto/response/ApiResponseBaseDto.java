@@ -55,6 +55,6 @@ public class ApiResponseBaseDto<T> {
      */
     private Object metadata;
 
-    private Exception error;
+    private Exception error = null;
 
 }

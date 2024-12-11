@@ -6,8 +6,8 @@ networks:
       name: haibazo-workflow-internal
 
 services:
-  its-rct-api-mock-devcontainer:
-    container_name: haibazo-its-rct-api-mock-devcontainer
+  haibazo-bff-mock-devcontainer:
+    container_name: haibazo-bff-mock-devcontainer
     build:
       context: .
       dockerfile: Dockerfile

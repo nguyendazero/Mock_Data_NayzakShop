@@ -7,6 +7,7 @@ haibazo.bff.account.base-path=${HAIBAZO_BFF_ACCOUNT_BASE_PATH:/account}
 
 # api mock
 haibazo.bff.mock.storage=${HAIBAZO_BFF_MOCK_STORAGE:local}
+haibazo.bff.mock.delay=${HAIBAZO_BFF_MOCK_DELAY:500}
 
 # api mock local storage
 haibazo.bff.itsrct.mock.folder=${HAIBAZO_BFF_ITSRCT_MOCK_FOLDER:./its-rct}

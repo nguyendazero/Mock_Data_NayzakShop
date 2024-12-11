@@ -1,6 +1,6 @@
 services:
   haibazo-bff-mock-webapi-development:
-    image: hbzkhanhnk/haibazo-bff-mock-webapi:1.0.1
+    image: hbzkhanhnk/haibazo-bff-mock-webapi:1.0.3
     build:
       context: .
       dockerfile: Dockerfile
@@ -15,7 +15,7 @@ services:
         required: false
 
   haibazo-bff-mock-webapi-st-a:
-    image: hbzkhanhnk/haibazo-bff-mock-webapi:1.0.1
+    image: hbzkhanhnk/haibazo-bff-mock-webapi:1.0.3
     build:
       context: .
       dockerfile: Dockerfile
@@ -26,9 +26,12 @@ services:
     env_file:
       - path: ./.env.st-a
         required: false
+    restart: unless-stopped
+    volumes:
+      - ./haibazo-bff-mock-static-st-a:/app/haibazo-bff-mock-static
 
   haibazo-bff-mock-webapi-st-b:
-    image: hbzkhanhnk/haibazo-bff-mock-webapi:1.0.1
+    image: hbzkhanhnk/haibazo-bff-mock-webapi:1.0.3
     build:
       context: .
       dockerfile: Dockerfile
@@ -39,3 +42,6 @@ services:
     env_file:
       - path: ./.env.st-b
         required: false
+    restart: unless-stopped
+    volumes:
+      - ./haibazo-bff-mock-static-st-b:/app/haibazo-bff-mock-static

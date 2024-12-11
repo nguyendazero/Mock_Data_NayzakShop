@@ -3,7 +3,7 @@
 {
   "name": "Java & PostgreSQL",
   "dockerComposeFile": "docker-compose.yml",
-  "service": "its-rct-api-mock-devcontainer",
+  "service": "haibazo-bff-mock-devcontainer",
   "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
 
   // Features to add to the dev container. More info: https://containers.dev/features.

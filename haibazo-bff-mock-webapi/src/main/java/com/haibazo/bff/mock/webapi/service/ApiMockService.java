@@ -11,13 +11,15 @@ import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.List;
+import java.util.Random;
+import java.util.concurrent.TimeUnit;
 
 import com.haibazo.bff.mock.webapi.dto.response.MetadataDto;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import org.springframework.beans.factory.annotation.Autowired;
-
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpMethod;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -40,6 +42,9 @@ import jakarta.servlet.http.HttpServletResponse;
 public class ApiMockService {
 
     private static final Logger logger = LoggerFactory.getLogger(ApiMockService.class);
+
+    @Value("${haibazo.bff.mock.delay}")
+    private int delay;
 
     @Autowired
     private ApiMockSettingService apiMockSettingService;
@@ -65,6 +70,16 @@ public class ApiMockService {
             HttpServletResponse response) {
         String path = request.getRequestURI();
         HttpMethod method = HttpMethod.valueOf(request.getMethod());
+
+        Random random = new Random();
+        Integer delayTime = random.nextInt(delay);
+
+        try {
+            TimeUnit.MILLISECONDS.sleep(delayTime);
+        } catch (InterruptedException e) {
+            Thread.currentThread().interrupt();
+            logger.error("THREAD_INTERRUPTED", e);
+        }
 
         ApiMockSettingMatchDto matchMockSetting = apiMockSettingService.findMatchingMock(path, method);
 
