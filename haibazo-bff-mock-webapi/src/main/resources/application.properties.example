@@ -27,3 +27,19 @@ haibazo.bff.mock.s3.folder=${HAIBAZO_BFF_MOCK_S3_FOLDER:./bff/st-a}
 # cors
 haibazo.bff.cors.origins=${HAIBAZO_BFF_CORS_ORIGINS:*}
 haibazo.bff.cors.credentials=${HAIBAZO_BFF_CORS_CREDENTIALS:true}
+
+# PostgreSQL configuration
+spring.datasource.url=jdbc:postgresql://localhost:5432/${POSTGRES_DATABASE}
+spring.datasource.username=${POSTGRES_USERNAME}
+spring.datasource.password=${POSTGRES_PASSWORD}
+
+# Redis configuration
+spring.redis.host=localhost
+spring.redis.port=6379
+spring.redis.password=${REDIS_PASSWORD}
+
+# MinIO configuration
+minio.url=${MINIO_URL}
+minio.access-key=${MINIO_ACCESS_KEY}
+minio.secret-key=${MINIO_SECRET_KEY}
+minio.bucket=${MINIO_BUCKET}
