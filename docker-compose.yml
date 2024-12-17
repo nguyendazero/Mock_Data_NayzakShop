@@ -1,3 +1,17 @@
+version: '3'
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  cache:
+    driver: local
+  db-data:
+    driver: local
+  minio-data:
+    driver: local
+
 services:
   haibazo-bff-mock-webapi-development:
     image: hbzkhanhnk/haibazo-bff-mock-webapi:1.0.3
@@ -10,38 +24,99 @@ services:
       - "2380:8080"
     volumes:
       - ./haibazo-bff-mock-static:/app/haibazo-bff-mock-static
+      - ./haibazo-bff-mock-webapi/src/main/java:/app/src/main/java
     env_file:
       - path: ./.env.development
         required: false
+    networks:
+      - app-network
+    depends_on:
+      - db
+      - minio
+      - redis
 
-  haibazo-bff-mock-webapi-st-a:
-    image: hbzkhanhnk/haibazo-bff-mock-webapi:1.0.3
-    build:
-      context: .
-      dockerfile: Dockerfile
-      target: haibazo-bff-mock-webapi-runner
-    container_name: haibazo-bff-mock-webapi-st-a
-    ports:
-      - "2301:8080"
-    env_file:
-      - path: ./.env.st-a
-        required: false
-    restart: unless-stopped
-    volumes:
-      - ./haibazo-bff-mock-static-st-a:/app/haibazo-bff-mock-static
+  # haibazo-bff-mock-webapi-st-a:
+  #   image: hbzkhanhnk/haibazo-bff-mock-webapi:1.0.3
+  #   build:
+  #     context: .
+  #     dockerfile: Dockerfile
+  #     target: haibazo-bff-mock-webapi-runner
+  #   container_name: haibazo-bff-mock-webapi-st-a
+  #   ports:
+  #     - "2301:8080"
+  #   env_file:
+  #     - path: ./.env.st-a
+  #       required: false
+  #   restart: unless-stopped
+  #   volumes:
+  #     - ./haibazo-bff-mock-static-st-a:/app/haibazo-bff-mock-static
+  #   networks:
+  #     - app-network
+  #   depends_on:
+  #     - db
+  #     - minio
+  #     - redis
 
-  haibazo-bff-mock-webapi-st-b:
-    image: hbzkhanhnk/haibazo-bff-mock-webapi:1.0.3
-    build:
-      context: .
-      dockerfile: Dockerfile
-      target: haibazo-bff-mock-webapi-runner
-    container_name: haibazo-bff-mock-webapi-st-b
+  # haibazo-bff-mock-webapi-st-b:
+  #   image: hbzkhanhnk/haibazo-bff-mock-webapi:1.0.3
+  #   build:
+  #     context: .
+  #     dockerfile: Dockerfile
+  #     target: haibazo-bff-mock-webapi-runner
+  #   container_name: haibazo-bff-mock-webapi-st-b
+  #   ports:
+  #     - "2302:8080"
+  #   env_file:
+  #     - path: ./.env.st-b
+  #       required: false
+  #   restart: unless-stopped
+  #   volumes:
+  #     - ./haibazo-bff-mock-static-st-b:/app/haibazo-bff-mock-static
+  #   networks:
+  #     - app-network
+  #   depends_on:
+  #     - db
+  #     - minio
+  #     - redis
+
+  db:
+    image: postgres:15.1-alpine
+    container_name: postgres
+    networks:
+      - app-network
+    environment:
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=postgres_db
     ports:
-      - "2302:8080"
-    env_file:
-      - path: ./.env.st-b
-        required: false
-    restart: unless-stopped
+      - '5432:5432'
     volumes:
-      - ./haibazo-bff-mock-static-st-b:/app/haibazo-bff-mock-static
+      - ./src/main/resources/db-init:/docker-entrypoint-initdb.d
+      - db-data:/var/lib/postgresql/data
+
+  redis:
+    image: redis:7.2-rc-alpine
+    restart: always
+    container_name: redis
+    networks:
+      - app-network
+    ports:
+      - '6379:6379'
+    command: redis-server --save 20 1 --loglevel warning --requirepass my_redis_password
+    volumes:
+      - cache:/data
+
+  minio:
+    image: minio/minio:latest
+    container_name: minio
+    networks:
+      - app-network
+    environment:
+      - MINIO_ROOT_USER=minio
+      - MINIO_ROOT_PASSWORD=minio_secret
+    command: server ~/minio --console-address :9090
+    ports:
+      - '9090:9090'
+      - '9999:9999'
+    volumes:
+      - minio-data:/minio
